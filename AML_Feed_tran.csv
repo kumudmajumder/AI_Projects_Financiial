@@ -1,300 +1,300 @@
-TransactionDate,TransactionID,CustomerID,CustomerName,CustomerEthnicity,CustomerAge,TransactionAmount,transactionType,TransactionBranch_ATMLocation
-1/1/2025,e1345720-62b4-4ebb-84eb-76520bd7bede,1001,Michael Fernandez,Black,10,1875.83,Deposit,NYC 6th Ave 44th St Branch
-1/1/2025,c67a4d47-b99d-48c6-ba48-a11c25470720,1001,Michael Fernandez,Black,10,277.35,Withdrawal,NYC 6th Ave 44th St Branch
-1/1/2025,2de2731d-4980-4c11-892d-f91cb6afd2a6,1001,Michael Fernandez,Black,10,2301.89,Withdrawal,Staten Island ATM 1
-1/1/2025,e17e2247-67b2-4f38-a5f6-b4143e58f9fd,1001,Michael Fernandez,Black,10,188.39,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,84ed0c0d-f3a1-4b43-865c-db75911ee4ce,1001,Michael Fernandez,Black,10,1386.16,Withdrawal,Staten Island ATM 1
-1/1/2025,2df5dbf7-6b53-48a3-972b-5a52df1cabd1,1001,Michael Fernandez,Black,10,266.03,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,0af87070-b74e-460c-a383-8284f12864af,1001,Michael Fernandez,Black,10,2261.51,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,f9d884b8-f2c9-4f4c-8daf-88307743aab8,1001,Michael Fernandez,Black,10,196.91,Withdrawal,"Bay Shore, NY ATM 2"
-1/1/2025,a1526015-45ab-4335-b8e1-98cee753ada4,1001,Michael Fernandez,Black,10,1436.68,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/1/2025,fa2cbdd8-351f-4fab-a700-8bbf5da79563,1001,Michael Fernandez,Black,10,185.83,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/1/2025,0b40ebb2-6fa3-4f61-8de9-fe04e23a0720,1001,Michael Fernandez,Black,10,663.05,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,9eebab91-c157-4894-9904-e1cf9129158f,1001,Michael Fernandez,Black,10,1744.21,Withdrawal,Staten Island ATM 1
-1/1/2025,e47fc657-5ce3-467d-93f6-cad6c08213fc,1001,Michael Fernandez,Black,10,105.27,Withdrawal,Staten Island ATM 1
-1/1/2025,b4439098-5fb1-44c2-822c-a73af9aba969,1001,Michael Fernandez,Black,10,2269.99,Deposit,Staten Island ATM 1
-1/1/2025,cfdc8256-bdd9-4333-91a5-921d097c2250,1001,Michael Fernandez,Black,10,1397.13,Withdrawal,NYC 6th Ave 44th St Branch
-1/1/2025,a75a5135-4809-4be2-a886-c0d166420cb1,1001,Michael Fernandez,Black,10,963.77,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,ed322df9-73a8-45da-8b2b-8bb879e77d82,1001,Michael Fernandez,Black,10,1711.73,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,7097f942-d369-4649-8ef1-967f452f3e6c,1001,Michael Fernandez,Black,10,2019.34,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,0ce5209e-b841-430b-a838-6c5f1c1a6832,1001,Michael Fernandez,Black,10,1899.03,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,d7e5a16c-d58e-4076-8f3b-55aedab82d13,1001,Michael Fernandez,Black,10,486.51,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,2ba9522a-bd79-456a-b58e-d7186343d204,1001,Michael Fernandez,Black,10,933.28,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,c4c03866-28c0-4957-b3da-9b2c67fb06b2,1001,Michael Fernandez,Black,10,505.55,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,e445c2dd-8644-4560-8102-d9d6efaabab8,1001,Michael Fernandez,Black,10,1887.67,Deposit,Staten Island ATM 1
-1/1/2025,ddc3cbcf-72b3-4293-a9fe-ee4732015960,1001,Michael Fernandez,Black,10,1439.16,Withdrawal,"Bay Shore, NY ATM 2"
-1/1/2025,4e5033d4-637b-4638-aa37-3ebe0aa42983,1001,Michael Fernandez,Black,10,1360.3,Deposit,NYC 6th Ave 44th St Branch
-1/2/2025,056f7f04-c71d-4f2b-b8f2-00ce848565bf,1001,Michael Fernandez,Black,10,387.59,Deposit,Staten Island ATM 1
-1/2/2025,b87a7387-e6b9-4d40-a843-1c9aa77d9c43,1001,Michael Fernandez,Black,10,1553.31,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,a0f5dc5b-f37b-4199-8247-0ab9f4efa6d3,1001,Michael Fernandez,Black,10,1686.3,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,256fb666-050d-40cd-928a-d7e0b59b9f6e,1001,Michael Fernandez,Black,10,936.27,Deposit,"Albany, NY, Main Street Branch 3"
-1/2/2025,0b345422-2faf-417c-a1c2-bc2b44a70f62,1001,Michael Fernandez,Black,10,1432.18,Deposit,NYC 6th Ave 44th St Branch
-1/2/2025,86f3480a-eb0d-4062-8053-7aa1e905a79c,1001,Michael Fernandez,Black,10,27.25,Deposit,Brooklyn 4th Street Branch 2
-1/2/2025,4675f4e1-e869-4532-9dc2-8e3e2010d85c,1001,Michael Fernandez,Black,10,620.7,Deposit,Brooklyn 4th Street Branch 2
-1/2/2025,f0eff219-c359-45c6-bea3-bd0e6c8cecf4,1001,Michael Fernandez,Black,10,1641.07,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/2/2025,e87a2970-26e7-48a9-b924-0dda6e490f06,1001,Michael Fernandez,Black,10,881.36,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,b8938bda-8426-47a7-9f09-2aec8a04501a,1001,Michael Fernandez,Black,10,225.43,Deposit,Staten Island ATM 1
-1/2/2025,b97ad938-e653-4b77-b6dc-500cbf7d9687,1001,Michael Fernandez,Black,10,1374.85,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,cfcade3e-2557-424d-bc4d-3ab995394e2f,1001,Michael Fernandez,Black,10,1453.13,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/2/2025,aac0a49f-6781-41ef-8af2-008b92d35a48,1001,Michael Fernandez,Black,10,349.54,Withdrawal,Brooklyn 4th Street Branch 2
-1/2/2025,3d45d2f2-89bb-44c5-87e7-ec3c9d0d9d76,1001,Michael Fernandez,Black,10,530.11,Deposit,Staten Island ATM 1
-1/2/2025,daaff545-2588-436f-9df3-2ad757706118,1001,Michael Fernandez,Black,10,1541.77,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/2/2025,ec8943db-b753-4710-b820-785783340b87,1001,Michael Fernandez,Black,10,727.4,Withdrawal,Staten Island ATM 1
-1/2/2025,39687d02-98b8-4ae5-9693-b8cddeac4359,1001,Michael Fernandez,Black,10,449.17,Deposit,"Bay Shore, NY ATM 2"
-1/2/2025,44749f01-3a5b-440c-acf0-7c8a0267e8c7,1001,Michael Fernandez,Black,10,2488.46,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,da3e36fd-66dc-4395-a229-dbc34971fbfd,1001,Michael Fernandez,Black,10,244.25,Withdrawal,"Bay Shore, NY ATM 2"
-1/3/2025,2bcf69fb-cf92-439c-b7d1-c104d6e6c815,1001,Michael Fernandez,Black,10,1953.87,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,07d787e6-a13d-4378-bc1c-c94eee665bd8,1001,Michael Fernandez,Black,10,1199.43,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,c2e02179-83a7-4484-999a-7f36fb3acf79,1001,Michael Fernandez,Black,10,2406.37,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,5c5d5c0b-8054-45e3-9364-8106416b1ebc,1001,Michael Fernandez,Black,10,2472.86,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,786dec3f-4077-4af9-9d0c-6150c70997dc,1001,Michael Fernandez,Black,10,974.27,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,862f1382-3cd4-41e8-968c-54bdc13e762b,1001,Michael Fernandez,Black,10,514.66,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/3/2025,584b6a3d-1aef-4d11-b4b5-f2a53413a823,1001,Michael Fernandez,Black,10,1103.81,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,27b6a708-e201-4ba6-a5d4-c8854d3a26b6,1001,Michael Fernandez,Black,10,2084.23,Withdrawal,"Garden City, NY Main  Branch"
-1/3/2025,eb51da44-a695-43ff-8d75-804fa6678519,1001,Michael Fernandez,Black,10,2058.68,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,63883f98-f4f6-493e-ab00-04e14ab32634,1001,Michael Fernandez,Black,10,1613.87,Withdrawal,Staten Island ATM 1
-1/3/2025,ac39b872-ce0d-4670-9bcb-83854d8009c9,1001,Michael Fernandez,Black,10,962.95,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/3/2025,c73fbecb-5e68-4fcc-9680-f2c120fdb9cd,1001,Michael Fernandez,Black,10,984.25,Deposit,Staten Island ATM 1
-1/3/2025,258e781b-84c2-4e8b-94bf-f805a9ee4337,1001,Michael Fernandez,Black,10,529.29,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,0fd476bd-aba6-4b1c-844f-44878e4f588d,1001,Michael Fernandez,Black,10,616.69,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,c602c07a-d713-4b90-be44-4fe777e01a41,1001,Michael Fernandez,Black,10,1781.94,Withdrawal,Brooklyn 4th Street Branch 2
-1/3/2025,72b4e14f-c285-4c68-8684-1145956dc507,1001,Michael Fernandez,Black,10,1198.85,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/3/2025,b6a633f1-e0f4-4e28-97be-74323171239a,1001,Michael Fernandez,Black,10,2340.3,Withdrawal,"Garden City, NY Main  Branch"
-1/3/2025,7f4d6f32-3faa-4336-9346-1d3f3aeefc2f,1001,Michael Fernandez,Black,10,571.37,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,59177f56-c1ea-41f0-8131-bb9be9f07522,1001,Michael Fernandez,Black,10,1515.59,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,4cf5ddd9-d935-4b94-a13d-4b6117540b8d,1001,Michael Fernandez,Black,10,283.93,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,94c57103-b8f7-4d4a-8171-ea7847011525,1001,Michael Fernandez,Black,10,2337.93,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,ada4414b-7282-4978-8c2a-7943e11dd2eb,1001,Michael Fernandez,Black,10,300.98,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,ca4c226c-9ed6-4b2d-8c22-76dcc8bd6112,1001,Michael Fernandez,Black,10,1946.41,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,d732be49-195a-422a-b774-51d9a065453b,1001,Michael Fernandez,Black,10,287.58,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,e1c72efb-16cf-4da4-a2c8-eafc563fd311,1001,Michael Fernandez,Black,10,1329.89,Withdrawal,Staten Island ATM 1
-1/4/2025,110c2737-0d3a-44d3-b09c-43f9bbcc745b,1001,Michael Fernandez,Black,10,2195.85,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,b84c0cbd-8b57-4503-910b-345dd82735cc,1001,Michael Fernandez,Black,10,108.37,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,f60ff51b-3085-417b-9c75-1181819f0c31,1001,Michael Fernandez,Black,10,1061.73,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,e713b0ee-47f3-4c65-9d6a-69eb5255f638,1001,Michael Fernandez,Black,10,1215.57,Deposit,"Bay Shore, NY ATM 2"
-1/4/2025,ef4afd51-a5e4-4280-a806-12df9103fb63,1001,Michael Fernandez,Black,10,2398.84,Deposit,NYC 6th Ave 44th St Branch
-1/4/2025,0147c9e9-3c1e-4def-9fd2-d02267101797,1001,Michael Fernandez,Black,10,75.91,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,705e370c-50f1-47fa-b0a5-eb3fc2aa214e,1001,Michael Fernandez,Black,10,340.36,Deposit,Staten Island ATM 1
-1/4/2025,3296c16d-c370-4de4-b8c1-4d96c7414dad,1001,Michael Fernandez,Black,10,2174.31,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,6996a0dd-fa03-46bf-9348-bc8fdc2c0d30,1001,Michael Fernandez,Black,10,2280.94,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,c9db3a91-3eca-4c78-aa4a-8f2523140f63,1001,Michael Fernandez,Black,10,1049.07,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,f514d803-0e7c-4713-9799-b57ffcf76ef6,1001,Michael Fernandez,Black,10,1481.75,Deposit,"Bay Shore, NY ATM 2"
-1/4/2025,d78d4e37-52d9-4901-9669-18d28a8056d6,1001,Michael Fernandez,Black,10,377.6,Deposit,Staten Island ATM 1
-1/4/2025,94126e03-f0ca-4e88-811c-f7439f2f131c,1001,Michael Fernandez,Black,10,1993.55,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,9d96707f-9059-4326-8fb4-77a35ad9c5ce,1001,Michael Fernandez,Black,10,1028.86,Withdrawal,NYC 6th Ave 44th St Branch
-1/5/2025,66c4c64f-9ecb-4972-9e30-33891ab37211,1001,Michael Fernandez,Black,10,995.28,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,c33707a4-6ce1-404e-abd2-3386fe0eedc0,1001,Michael Fernandez,Black,10,1575.23,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,958df1d0-8b6e-466a-ba71-c440e077fc1a,1001,Michael Fernandez,Black,10,1056.39,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/5/2025,ffff7d75-8b02-4903-bf09-f76ce84acd55,1001,Michael Fernandez,Black,10,618.99,Deposit,NYC 6th Ave 44th St Branch
-1/5/2025,07c330ae-09ea-4478-8560-ac9900225fbd,1001,Michael Fernandez,Black,10,2139.42,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,e23b453c-8f66-4885-8e5c-ad52f901cd34,1001,Michael Fernandez,Black,10,423.7,Withdrawal,Staten Island ATM 1
-1/5/2025,a04750bb-d4a5-4cfd-a369-cb2befeaf8f0,1001,Michael Fernandez,Black,10,1156.42,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,04b7ba2f-b66b-4989-be25-73aa6725bb91,1001,Michael Fernandez,Black,10,590.1,Withdrawal,Staten Island ATM 1
-1/5/2025,6fe0e29f-9e1a-41c0-8fbc-7fd6589dae93,1001,Michael Fernandez,Black,10,2267.02,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,7ba6a323-d6b7-4759-a790-728373014d67,1001,Michael Fernandez,Black,10,196.43,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,43c2eed1-b6cb-4e9c-b12d-cac3e56d674b,1001,Michael Fernandez,Black,10,56.31,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,c898f256-94fe-471e-a42f-a6f7e97182c9,1001,Michael Fernandez,Black,10,2297.33,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,ff2a1a40-031e-4b25-9f1a-667bbab7a74b,1001,Michael Fernandez,Black,10,1105.03,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/5/2025,009ac28e-809b-4d05-bc42-aef5f6f6b5a7,1001,Michael Fernandez,Black,10,1696.69,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,84e237fb-2f5a-4410-a708-3c26f1dfe67b,1001,Michael Fernandez,Black,10,1053.11,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/5/2025,ee2e4629-cb7a-4297-b556-9ab24204e573,1001,Michael Fernandez,Black,10,1075.27,Withdrawal,NYC 6th Ave 44th St Branch
-1/5/2025,6e5b86b7-b5af-4997-a7d9-5d8279440ba9,1001,Michael Fernandez,Black,10,714.82,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,b4ad9179-fc2f-42c4-a718-6c1106b7d25c,1001,Michael Fernandez,Black,10,2124.12,Withdrawal,"Bay Shore, NY ATM 2"
-1/1/2025,e8993b2f-25fd-4f57-84b9-33e6731190be,1002,Nicole Schultz MD,Black,38,111.09,Withdrawal,Staten Island ATM 1
-1/1/2025,fcaa719a-74a0-472e-8321-1a3688a75b96,1002,Nicole Schultz MD,Black,38,829.77,Withdrawal,NYC 6th Ave 44th St Branch
-1/1/2025,6db30707-a8bd-406b-8c6c-b84769a01bc6,1002,Nicole Schultz MD,Black,38,1778.14,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,ba073abb-7c96-4d3b-a839-af72bf45305a,1002,Nicole Schultz MD,Black,38,1447.96,Withdrawal,Staten Island ATM 1
-1/1/2025,c1e6ff0b-395f-4ff0-bd45-b4614c38dd26,1002,Nicole Schultz MD,Black,38,1839.66,Withdrawal,NYC 6th Ave 44th St Branch
-1/1/2025,11390dc8-1234-4ae2-972a-bdacb588536f,1002,Nicole Schultz MD,Black,38,1197.08,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,b4f24572-46a8-47d4-ab8d-9f9e8fce37e0,1002,Nicole Schultz MD,Black,38,867.26,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,aac3f0e1-0db9-44c1-ba80-ffd25157775e,1002,Nicole Schultz MD,Black,38,929.16,Withdrawal,Staten Island ATM 1
-1/1/2025,8ab5e404-4db4-45d7-8c3b-9271dbff5ebb,1002,Nicole Schultz MD,Black,38,1624.39,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,634edba5-9823-454f-a99f-7fb5f0f4d820,1002,Nicole Schultz MD,Black,38,1446.1,Deposit,Staten Island ATM 1
-1/1/2025,55263bf7-9f89-4902-8ee2-da71662febdb,1002,Nicole Schultz MD,Black,38,2127.94,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,ed3bbe92-c107-4d14-92ac-0029bb16f7e0,1002,Nicole Schultz MD,Black,38,1607.22,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,5d4bbd47-5f9a-40d3-b8b1-a981f9f08fb7,1002,Nicole Schultz MD,Black,38,1489.07,Withdrawal,"Bay Shore, NY ATM 2"
-1/1/2025,d8e9964e-ac29-4673-be8f-f115a2d1faa0,1002,Nicole Schultz MD,Black,38,568.85,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,1cfddb48-15d5-49d6-b307-33fd79ac974b,1002,Nicole Schultz MD,Black,38,1012.11,Deposit,Staten Island ATM 1
-1/1/2025,030d1e63-8d65-4ccd-8eef-aa17b5d4a47d,1002,Nicole Schultz MD,Black,38,125,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,deb6723a-bd72-4acc-9b86-90db8a326f31,1002,Nicole Schultz MD,Black,38,1571.79,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,20c9cc28-6630-4f77-ad4f-54e0294d8778,1002,Nicole Schultz MD,Black,38,353.6,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/1/2025,27cc4d1d-d458-46da-9e91-da6eca20add9,1002,Nicole Schultz MD,Black,38,1707.88,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,b0bfe1fb-9fdc-4b61-a82f-8d5e585e65c0,1002,Nicole Schultz MD,Black,38,385.55,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,96b094f3-1078-4706-8710-7d5c321dd689,1002,Nicole Schultz MD,Black,38,534.59,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,d09ca693-9662-45a1-a854-689ce88e07eb,1002,Nicole Schultz MD,Black,38,1417.85,Deposit,Staten Island ATM 1
-1/2/2025,2a5dac3d-2551-4235-aa3c-06da1c2d4f2d,1002,Nicole Schultz MD,Black,38,1982.39,Deposit,Staten Island ATM 1
-1/2/2025,d41f6c0d-0c7d-40e9-9493-f163a3b9ab34,1002,Nicole Schultz MD,Black,38,464.87,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,06b7a88a-cd42-4b23-9170-76aeee315034,1002,Nicole Schultz MD,Black,38,1204.77,Deposit,NYC 6th Ave 44th St Branch
-1/2/2025,e5cadd55-50e3-4590-94aa-cf2f5b2cb041,1002,Nicole Schultz MD,Black,38,2338.85,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/2/2025,0c0ea133-385f-41e9-8fa7-477e9ba97910,1002,Nicole Schultz MD,Black,38,78.67,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,cbecd323-4df7-4fc4-91c2-0bea01a6de6f,1002,Nicole Schultz MD,Black,38,578.68,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,f3a01f87-41fe-40bf-b2cb-e4393d4dbeb0,1002,Nicole Schultz MD,Black,38,1546.35,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,ba5d45ce-19f8-480e-bb25-98cdd62422fc,1002,Nicole Schultz MD,Black,38,52.77,Withdrawal,Brooklyn 4th Street Branch 2
-1/2/2025,79999dfe-841b-4f2a-b9ae-19f499cae3b5,1002,Nicole Schultz MD,Black,38,1561.51,Deposit,"Bay Shore, NY ATM 2"
-1/2/2025,93bdf260-71db-4934-8adf-465caf5ae88b,1002,Nicole Schultz MD,Black,38,896.58,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,a85c2def-d1b1-435e-8a05-1a0a5bd99a60,1002,Nicole Schultz MD,Black,38,1830.69,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,a2e8ffa7-8a26-4ed9-9a4c-1bae51dfd6df,1002,Nicole Schultz MD,Black,38,799.86,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,90b985f5-1c53-4003-882a-fac412e7b35b,1002,Nicole Schultz MD,Black,38,509.49,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,70321008-6893-4b2f-b7c6-4cd163dc2241,1002,Nicole Schultz MD,Black,38,511.42,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,b479698d-edc3-4e7a-9f5c-8e3a239f6851,1002,Nicole Schultz MD,Black,38,1121.7,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,45490e04-36b9-4b1b-bdf5-1eddf5b546ff,1002,Nicole Schultz MD,Black,38,2045.3,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,570caac9-18cb-4a3f-97ec-ccb3507a2532,1002,Nicole Schultz MD,Black,38,900.55,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/3/2025,65178566-7c93-45a0-9225-b1f88ede9360,1002,Nicole Schultz MD,Black,38,1858.61,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,6c7e6821-9932-438b-869e-b316c458c617,1002,Nicole Schultz MD,Black,38,215.56,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,f5a6095b-399c-4aa1-a733-016df3905408,1002,Nicole Schultz MD,Black,38,1757.5,Withdrawal,"Bay Shore, NY ATM 2"
-1/3/2025,5e687977-2f09-4730-9973-d35f42d7c7ef,1002,Nicole Schultz MD,Black,38,1297.4,Withdrawal,"Garden City, NY Main  Branch"
-1/3/2025,d59b1e5d-c96e-49a0-b8f8-9f163fa4aae0,1002,Nicole Schultz MD,Black,38,1199.51,Withdrawal,"Bay Shore, NY ATM 2"
-1/3/2025,63b0126f-9b36-4003-b4a5-0dab5ace71ec,1002,Nicole Schultz MD,Black,38,825.81,Deposit,Staten Island ATM 1
-1/3/2025,03e4d41e-64c0-4efb-abf9-30df6c22e01c,1002,Nicole Schultz MD,Black,38,2410.45,Deposit,"Garden City, NY Main  Branch"
-1/3/2025,6763ed2c-c366-48d6-8b7b-cf9e5fd1a1c0,1002,Nicole Schultz MD,Black,38,2328.85,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,0cb0055b-7c21-4a54-8264-032b52066b5b,1002,Nicole Schultz MD,Black,38,849.09,Withdrawal,Staten Island ATM 1
-1/3/2025,ba9e94cc-aaa9-4bc6-b6e1-69dee5b96e29,1002,Nicole Schultz MD,Black,38,1789.64,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/3/2025,95784112-ae80-478f-a114-87197ed4c57d,1002,Nicole Schultz MD,Black,38,365.34,Deposit,"Albany, NY, Main Street Branch 3"
-1/3/2025,134f31f8-66f2-4618-b3bd-d5776d8b34a5,1002,Nicole Schultz MD,Black,38,1362.83,Deposit,Staten Island ATM 1
-1/3/2025,5e4b9605-42a5-483d-a377-cdbadce0eae5,1002,Nicole Schultz MD,Black,38,406.11,Withdrawal,Staten Island ATM 1
-1/3/2025,a339edcb-8bec-4d71-87ed-0fe6bca58398,1002,Nicole Schultz MD,Black,38,610.91,Deposit,"Albany, NY, Main Street Branch 3"
-1/3/2025,2ebe1611-3ec9-427a-bc3b-460c3cbda521,1002,Nicole Schultz MD,Black,38,968.67,Withdrawal,Staten Island ATM 1
-1/3/2025,1372f587-b6f8-46c9-b0e7-62593951a513,1002,Nicole Schultz MD,Black,38,1315.35,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,3e1bee8a-f7d7-4f9c-9249-f5eab95ad98f,1002,Nicole Schultz MD,Black,38,526.21,Deposit,Staten Island ATM 1
-1/4/2025,18e9f0ca-b0a0-43d5-88ca-d7205e025616,1002,Nicole Schultz MD,Black,38,452.84,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,b01b3ad6-a199-44cc-8f24-2f291ede71ba,1002,Nicole Schultz MD,Black,38,1206.5,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,d77212cc-e51a-4e30-b39d-f781db9a1a7b,1002,Nicole Schultz MD,Black,38,1120.62,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,2b4a07c4-bc93-476b-9918-f039ae965913,1002,Nicole Schultz MD,Black,38,2229.77,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,56370b1b-16e5-46dd-8096-bc7deff9e444,1002,Nicole Schultz MD,Black,38,2478.18,Deposit,"Bay Shore, NY ATM 2"
-1/4/2025,3d212a07-3c1e-4899-8236-46a9d45840f2,1002,Nicole Schultz MD,Black,38,2018.84,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,50ac5e83-b767-44e9-8828-1fd4de4c956f,1002,Nicole Schultz MD,Black,38,998.76,Withdrawal,Staten Island ATM 1
-1/4/2025,53d4a4a5-1ac1-4508-bf9d-c417e2ec8782,1002,Nicole Schultz MD,Black,38,350.01,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,1d3538fc-f9bf-4426-85a5-76a25ab50eaa,1002,Nicole Schultz MD,Black,38,1749.7,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,06628062-7568-4296-83d7-4173c4613d02,1002,Nicole Schultz MD,Black,38,1179.79,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,3236b0e4-505a-4da8-b767-36dfbd26852e,1002,Nicole Schultz MD,Black,38,2445.72,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,61cd26da-f308-4161-a0e3-7084207634fe,1002,Nicole Schultz MD,Black,38,2009.03,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,bed27122-d787-4be5-b206-8d685b5cce7f,1002,Nicole Schultz MD,Black,38,1794.5,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,5d1729aa-0b5c-4db0-9a63-4334ad425a12,1002,Nicole Schultz MD,Black,38,549.38,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,d204895f-f84d-4b47-b9b5-0aa64a225007,1002,Nicole Schultz MD,Black,38,1893.87,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,e9ed8747-8e7b-4e2b-9584-b748e3772895,1002,Nicole Schultz MD,Black,38,2366.65,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,235bc3fa-cdbc-4efa-97b0-2b83b17c66cc,1002,Nicole Schultz MD,Black,38,190.18,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,997691dd-d402-49a4-9928-ea7d6b559959,1002,Nicole Schultz MD,Black,38,1461.4,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,d9283ef3-ffd9-4216-93bf-84eaa1863348,1002,Nicole Schultz MD,Black,38,2265.71,Withdrawal,"Garden City, NY Main  Branch"
-1/4/2025,65eea8ce-c3f8-471b-95f6-0be84b1a1a3c,1002,Nicole Schultz MD,Black,38,1313.39,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,85fe2bc7-e180-4713-a643-55e2480303e5,1002,Nicole Schultz MD,Black,38,2126.32,Withdrawal,Staten Island ATM 1
-1/4/2025,889626ed-a994-47e9-b59c-109c4a811a5c,1002,Nicole Schultz MD,Black,38,678.62,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,63f5e956-d02f-4930-aceb-d1acc8d3d58f,1002,Nicole Schultz MD,Black,38,934.73,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,f42e206b-ad19-4662-8c41-cc2d15570bd0,1002,Nicole Schultz MD,Black,38,1313.09,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,1e2e8a96-3893-4eeb-8c86-105ad0de6144,1002,Nicole Schultz MD,Black,38,1121.08,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,34b2968d-c9cd-4f4d-816e-14a489661133,1002,Nicole Schultz MD,Black,38,1310.48,Deposit,"Bay Shore, NY ATM 2"
-1/4/2025,cde87969-c8e9-4e6c-8721-da5dc00918ec,1002,Nicole Schultz MD,Black,38,216.03,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,ed8335d4-6bca-4cef-9898-5f88ad7bbf89,1002,Nicole Schultz MD,Black,38,1430.48,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,f92a9257-380b-4570-a627-b2811e4b111b,1002,Nicole Schultz MD,Black,38,472.41,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/5/2025,61b9a159-e377-4b12-a751-cd1d94a2dd85,1002,Nicole Schultz MD,Black,38,2234.72,Withdrawal,Staten Island ATM 1
-1/5/2025,3844b32a-aa62-4ffa-84e3-b1bcb61e201e,1002,Nicole Schultz MD,Black,38,1105.23,Deposit,Staten Island ATM 1
-1/5/2025,ff93a319-b0ff-4283-905a-6d73d125bf0f,1002,Nicole Schultz MD,Black,38,357.28,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,49126c8a-4f15-4408-b812-5751d78db1a6,1002,Nicole Schultz MD,Black,38,551.14,Deposit,"Garden City, NY Main  Branch"
-1/5/2025,33f653fd-4e17-40e8-88ea-6949ba138121,1002,Nicole Schultz MD,Black,38,90.14,Deposit,"Albany, NY, Main Street Branch 3"
-1/5/2025,d162e751-ca02-4c4d-b7b2-6ec521428add,1002,Nicole Schultz MD,Black,38,200.82,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,39e05fa6-a63a-4966-87fd-0fbf54c0f2f3,1002,Nicole Schultz MD,Black,38,2025.1,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,e16c50ff-2156-417d-86b9-70418e8b92c8,1002,Nicole Schultz MD,Black,38,69.68,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,a10293d4-7689-4547-88dd-b3bc2d288df1,1002,Nicole Schultz MD,Black,38,1231.16,Deposit,"Garden City, NY Main  Branch"
-1/5/2025,253b6d05-8916-4954-86ec-ced1380fa424,1002,Nicole Schultz MD,Black,38,1403.09,Withdrawal,Staten Island ATM 1
-1/5/2025,c07bb743-7ae8-4812-b5a0-53927e87488d,1002,Nicole Schultz MD,Black,38,493.92,Deposit,NYC 6th Ave 44th St Branch
-1/1/2025,c22c983d-bbbf-4b8c-8ec0-dcfa7a52c099,1003,Alexis Scott,Black,38,2184.02,Deposit,Staten Island ATM 1
-1/1/2025,4681bd1c-1925-43ca-bb94-0981c7c6e62d,1003,Alexis Scott,Black,38,883.82,Deposit,NYC 6th Ave 44th St Branch
-1/1/2025,2f8fb49c-19cc-47db-8426-617bd7ddb05a,1003,Alexis Scott,Black,38,1045.06,Withdrawal,NYC 6th Ave 44th St Branch
-1/1/2025,57efd143-ece8-4597-b921-636e22c16b78,1003,Alexis Scott,Black,38,320.22,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/1/2025,57dc8d66-4b3c-4643-9bfd-285aea806408,1003,Alexis Scott,Black,38,731.29,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,618d26e5-9f66-420b-826c-cc45b2ea478a,1003,Alexis Scott,Black,38,1010.61,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,7be86711-a9a2-492f-b8e8-5fbb500e0bf2,1003,Alexis Scott,Black,38,588.94,Withdrawal,NYC 6th Ave 44th St Branch
-1/1/2025,0684063e-bd4d-4401-84f7-1b07b9cd2737,1003,Alexis Scott,Black,38,714.27,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,46dd7d5c-3fcc-4113-bca7-25d5773b37d6,1003,Alexis Scott,Black,38,881.17,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,edcb9b08-b8bb-40db-94a7-a5f81050224b,1003,Alexis Scott,Black,38,436.3,Withdrawal,NYC 6th Ave 44th St Branch
-1/1/2025,96c49a18-6f81-481d-aa59-969f00b1910d,1003,Alexis Scott,Black,38,893.18,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,6f968ae0-d461-4b83-a11b-48adba1b089c,1003,Alexis Scott,Black,38,2159.97,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/1/2025,ca8cd285-32df-4ac0-960e-ed6d12d0ae74,1003,Alexis Scott,Black,38,1596.49,Deposit,NYC 6th Ave 44th St Branch
-1/1/2025,d8d6492c-247b-4ec8-9192-9a010a48bef0,1003,Alexis Scott,Black,38,2087.51,Withdrawal,NYC 6th Ave 44th St Branch
-1/1/2025,9bde36ea-78d5-46fb-ab36-f9adf77bd6e4,1003,Alexis Scott,Black,38,1310.96,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,ab1b04b3-e152-423f-b8c4-7f44b14c023d,1003,Alexis Scott,Black,38,970.28,Deposit,Staten Island ATM 1
-1/1/2025,8aa4bf81-0595-42b1-b9db-fa35b632b5be,1003,Alexis Scott,Black,38,1433.3,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,87f82c90-4c6e-4147-9308-60b5f4c7639b,1003,Alexis Scott,Black,38,1746.03,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,11e1b7d7-ce21-416b-a7f0-5f04f9005d86,1003,Alexis Scott,Black,38,1584.55,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,08efdaca-6c16-40cc-9044-0d946b1a2388,1003,Alexis Scott,Black,38,2397.69,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,f2303118-b2f6-4e2b-93a5-5198635c973a,1003,Alexis Scott,Black,38,2061.91,Withdrawal,Staten Island ATM 1
-1/1/2025,f613602d-0796-4562-a3fa-1ed7288e55ce,1003,Alexis Scott,Black,38,2441.07,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,4fd65daa-8fc3-47d3-bb2b-1480345d10c9,1003,Alexis Scott,Black,38,1592.22,Withdrawal,Brooklyn 4th Street Branch 2
-1/2/2025,4b709221-a946-4237-9722-c3d4ecaa3829,1003,Alexis Scott,Black,38,413.34,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,e77b7f72-55e1-49de-ba4d-854148d63e16,1003,Alexis Scott,Black,38,121.76,Deposit,"Bay Shore, NY ATM 2"
-1/2/2025,40c2a3b7-bb1f-4a7b-abcb-a6b9dd0e1677,1003,Alexis Scott,Black,38,1815.66,Deposit,NYC 6th Ave 44th St Branch
-1/2/2025,b18105bc-04be-4c14-b97a-fb9836401eff,1003,Alexis Scott,Black,38,1371.97,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,1aaf46f6-03d0-45e0-9868-8bc84a5d821d,1003,Alexis Scott,Black,38,271.9,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,1a04b8ff-4fd8-4781-8a6b-39c662d82c4f,1003,Alexis Scott,Black,38,744,Deposit,"Albany, NY, Main Street Branch 3"
-1/2/2025,5a1bff8a-3083-4f0e-beea-2ec4051b3c28,1003,Alexis Scott,Black,38,2386.32,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,42b13594-7e5b-47d4-9d4a-012879c49b97,1003,Alexis Scott,Black,38,1879.08,Withdrawal,Brooklyn 4th Street Branch 2
-1/2/2025,28d72280-725d-4831-b6ad-8bce2d0b2196,1003,Alexis Scott,Black,38,1655.36,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,ac03afdd-4ea9-4a09-80e1-57af40cc3a04,1003,Alexis Scott,Black,38,841.6,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,d049d645-2956-4a49-9112-f28d358e755a,1003,Alexis Scott,Black,38,1612.81,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,473969e2-122d-42f3-bf15-c9f753731cbc,1003,Alexis Scott,Black,38,2341.85,Deposit,"Bay Shore, NY ATM 2"
-1/2/2025,58791bb4-f786-4de0-891a-622127149881,1003,Alexis Scott,Black,38,898.12,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/2/2025,5c888c93-fb5b-4c97-a058-6795c12816e2,1003,Alexis Scott,Black,38,2052.75,Deposit,"Albany, NY, Main Street Branch 3"
-1/2/2025,dd758cbe-c79d-4e8b-ad64-055145f371ff,1003,Alexis Scott,Black,38,716.2,Deposit,Brooklyn 4th Street Branch 2
-1/2/2025,25152158-2dcb-4b12-b069-d9786d7ee863,1003,Alexis Scott,Black,38,687.85,Deposit,Staten Island ATM 1
-1/2/2025,076ccf73-f7c3-4be7-aeab-18f59ad1b8a5,1003,Alexis Scott,Black,38,37.62,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,b98fe8b9-1ebe-4fb0-a9dc-dfb798f816a1,1003,Alexis Scott,Black,38,1163.58,Deposit,"Bay Shore, NY ATM 2"
-1/2/2025,ecd11347-4880-4691-a0a9-a423356dbe1a,1003,Alexis Scott,Black,38,1013.77,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,0e9f01cf-0d74-4377-808e-347b7369bf4d,1003,Alexis Scott,Black,38,1053.84,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,6caa4c79-bcd9-4f1e-b343-eb6c57cac3ba,1003,Alexis Scott,Black,38,1476.09,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,6b64fabe-a393-4628-a9e4-d897a2c60616,1003,Alexis Scott,Black,38,1188.66,Withdrawal,Brooklyn 4th Street Branch 2
-1/3/2025,2ef4c05a-19d3-4935-a605-5f80bc0c5ba3,1003,Alexis Scott,Black,38,1671.61,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,bc080d2e-acf4-4f23-a5bb-2da9642aa20d,1003,Alexis Scott,Black,38,1730.96,Withdrawal,"Garden City, NY Main  Branch"
-1/3/2025,bbf66c1f-b9fe-4b2f-b142-b2c6b5bf4eec,1003,Alexis Scott,Black,38,543.35,Withdrawal,"Garden City, NY Main  Branch"
-1/3/2025,72e0a733-d840-4266-95df-0a3f3eebde67,1003,Alexis Scott,Black,38,1874.8,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,8f0c9efa-6760-47f1-8a79-572ae680ee5b,1003,Alexis Scott,Black,38,836.08,Deposit,"Albany, NY, Main Street Branch 3"
-1/3/2025,2db127e1-f5f9-49fd-b6cc-e49bcc887d25,1003,Alexis Scott,Black,38,469.07,Deposit,"Garden City, NY Main  Branch"
-1/3/2025,434775b8-889a-46dc-a547-b2ee69fa369a,1003,Alexis Scott,Black,38,656.64,Deposit,Staten Island ATM 1
-1/3/2025,f8e16a9e-66a5-4cd9-9265-13f722f05de9,1003,Alexis Scott,Black,38,2471.54,Deposit,Staten Island ATM 1
-1/3/2025,08d1a906-c32f-4756-83fe-8292794ad8bf,1003,Alexis Scott,Black,38,1476.74,Withdrawal,"Garden City, NY Main  Branch"
-1/3/2025,861aca7c-85a0-494d-8aa1-5a83a71484a8,1003,Alexis Scott,Black,38,485.96,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,13bd2b9a-5467-4852-9e61-ea4a8bce4c93,1003,Alexis Scott,Black,38,1459.69,Deposit,"Albany, NY, Main Street Branch 3"
-1/3/2025,5e4ec977-ccc6-4ea3-a3f7-be9ee6362efe,1003,Alexis Scott,Black,38,860,Withdrawal,"Garden City, NY Main  Branch"
-1/3/2025,1c1f422c-ca8d-4e97-afec-4dd589984a92,1003,Alexis Scott,Black,38,1272.95,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/3/2025,0303dd14-62eb-41d7-9b52-11df753ca867,1003,Alexis Scott,Black,38,2164.94,Deposit,"Albany, NY, Main Street Branch 3"
-1/3/2025,ac658412-3077-4b80-9435-dcff91da846e,1003,Alexis Scott,Black,38,1722.27,Deposit,"Garden City, NY Main  Branch"
-1/3/2025,4828275a-4879-4a21-9af2-2587bbda3f00,1003,Alexis Scott,Black,38,1703.72,Withdrawal,"Garden City, NY Main  Branch"
-1/3/2025,49314315-9366-47cd-a534-dc4bc05e1556,1003,Alexis Scott,Black,38,2130.75,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,fb857440-d20b-4de0-a583-97e4a1949004,1003,Alexis Scott,Black,38,1881.28,Withdrawal,Staten Island ATM 1
-1/4/2025,9db28a95-648a-4c82-a4c5-0417f7e103e4,1003,Alexis Scott,Black,38,1080.43,Deposit,Staten Island ATM 1
-1/4/2025,6bbb7f96-277a-40f7-99ba-05a3c36bdf15,1003,Alexis Scott,Black,38,2453.87,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,3c9913e9-4cc8-49d8-ab4f-b57cc6cbed6e,1003,Alexis Scott,Black,38,2233.21,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,208bab41-92a4-4ac3-9566-6b4ad46a2670,1003,Alexis Scott,Black,38,1180.4,Deposit,"Bay Shore, NY ATM 2"
-1/4/2025,d66961f9-1c1e-4241-8580-ad1779510e56,1003,Alexis Scott,Black,38,397.32,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,bf945e41-c56f-4ce5-974a-719a1c43dac8,1003,Alexis Scott,Black,38,91.49,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,c42be17f-ebbc-4814-927d-88e2096f221e,1003,Alexis Scott,Black,38,1409.6,Deposit,Staten Island ATM 1
-1/4/2025,da85624e-84bb-4859-b247-cb9200c8b6c1,1003,Alexis Scott,Black,38,463.82,Withdrawal,"Garden City, NY Main  Branch"
-1/4/2025,d4905b3d-ed91-4a86-b50c-3f808a369a69,1003,Alexis Scott,Black,38,1260.15,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,276feaeb-86e0-4805-8490-db17ab2dd9dd,1003,Alexis Scott,Black,38,1644.59,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,c70d5e45-3b1b-4617-9225-2c287bf17ced,1003,Alexis Scott,Black,38,477.83,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,6ca3a377-1ba5-4436-9360-e5170b44c6c2,1003,Alexis Scott,Black,38,1793.24,Withdrawal,"Garden City, NY Main  Branch"
-1/4/2025,b2e9d7c7-3958-457e-9fdd-10a954c0f043,1003,Alexis Scott,Black,38,1608.22,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,5e7872d4-cddf-4f66-843d-6cf110918411,1003,Alexis Scott,Black,38,1784.05,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,af7e0d1a-1c26-49ca-8a7f-76fd62d8b5d8,1003,Alexis Scott,Black,38,255.6,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,379fde94-43b9-41e1-bb1d-90af4ad362f7,1003,Alexis Scott,Black,38,115.06,Deposit,NYC 6th Ave 44th St Branch
-1/5/2025,618107ae-4ee9-4d51-a753-d89186a570ec,1003,Alexis Scott,Black,38,1435.81,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,8f3d2bf0-14b3-4152-895b-51f5fdadca28,1003,Alexis Scott,Black,38,1988.72,Deposit,"Garden City, NY Main  Branch"
-1/5/2025,1da268f2-95fd-4598-b441-d572338c2789,1003,Alexis Scott,Black,38,2050.95,Withdrawal,NYC 6th Ave 44th St Branch
-1/5/2025,df21b9d9-6268-490b-94df-ce9b61a4d4ee,1003,Alexis Scott,Black,38,2402.61,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,7f0ba16a-b286-4b7f-91a0-783c5eae0f6e,1003,Alexis Scott,Black,38,1075.71,Withdrawal,NYC 6th Ave 44th St Branch
-1/5/2025,a6e4f2d8-44b1-46ce-8c90-e7503f10dadd,1003,Alexis Scott,Black,38,2335.17,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,d7253fd6-4571-4287-b7fc-0e6a2a829d49,1003,Alexis Scott,Black,38,998.05,Deposit,Brooklyn 4th Street Branch 2
-1/5/2025,79caada6-60ad-4df6-9109-6a3d95eca9a9,1003,Alexis Scott,Black,38,2005.34,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,140a2297-52fa-4f9c-a076-ed926715d814,1003,Alexis Scott,Black,38,802.7,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/5/2025,0fd637a0-3955-49ac-a0af-26cdb0b876b5,1003,Alexis Scott,Black,38,279.73,Deposit,Brooklyn 4th Street Branch 2
-1/5/2025,3f55a6ef-fbac-404a-94e6-ba5de031510f,1003,Alexis Scott,Black,38,2365.2,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,77cc0777-c1d4-4b4a-b6f4-82d778b9c6b1,1003,Alexis Scott,Black,38,608.16,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,64f5bda3-25ae-4426-b66e-261fd13fc220,1003,Alexis Scott,Black,38,2129.51,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,d0816da7-2898-4968-be25-f1cb0129636b,1003,Alexis Scott,Black,38,569.63,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,b79246ed-d915-4be2-929b-99c5b0836c67,1003,Alexis Scott,Black,38,220.34,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,d4a1097a-e724-467f-b648-7b6213ac7e76,1003,Alexis Scott,Black,38,335.66,Withdrawal,Staten Island ATM 1
-1/5/2025,aaabe858-3424-457c-a642-e08612ed8036,1003,Alexis Scott,Black,38,2372.12,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,f9cdc46a-22e3-45d9-8dc7-7cf2ea4ac1e2,1003,Alexis Scott,Black,38,1235.6,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,2304b0cb-e42a-43d7-b7c0-59acbca0ad3e,1003,Alexis Scott,Black,38,217.09,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,8b436542-8ea9-4054-87a5-995c3e85cd20,1003,Alexis Scott,Black,38,171.55,Deposit,"Bay Shore, NY ATM 2"
+TransactionDate,TransactionID,CustomerID,CustomerName,CustomerSex,CustomerAge,TransactionAmount,transactionType,TransactionBranch_ATMLocation
+1/1/2025,e1345720-62b4-4ebb-84eb-76520bd7bede,1001,Michael Fernandez,Male,10,1875.83,Deposit,NYC 6th Ave 44th St Branch
+1/1/2025,c67a4d47-b99d-48c6-ba48-a11c25470720,1001,Michael Fernandez,Male,10,277.35,Withdrawal,NYC 6th Ave 44th St Branch
+1/1/2025,2de2731d-4980-4c11-892d-f91cb6afd2a6,1001,Michael Fernandez,Male,10,2301.89,Withdrawal,Staten Island ATM 1
+1/1/2025,e17e2247-67b2-4f38-a5f6-b4143e58f9fd,1001,Michael Fernandez,Male,10,188.39,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,84ed0c0d-f3a1-4b43-865c-db75911ee4ce,1001,Michael Fernandez,Male,10,1386.16,Withdrawal,Staten Island ATM 1
+1/1/2025,2df5dbf7-6b53-48a3-972b-5a52df1cabd1,1001,Michael Fernandez,Male,10,266.03,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,0af87070-b74e-460c-a383-8284f12864af,1001,Michael Fernandez,Male,10,2261.51,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,f9d884b8-f2c9-4f4c-8daf-88307743aab8,1001,Michael Fernandez,Male,10,196.91,Withdrawal,"Bay Shore, NY ATM 2"
+1/1/2025,a1526015-45ab-4335-b8e1-98cee753ada4,1001,Michael Fernandez,Male,10,1436.68,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/1/2025,fa2cbdd8-351f-4fab-a700-8bbf5da79563,1001,Michael Fernandez,Male,10,185.83,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/1/2025,0b40ebb2-6fa3-4f61-8de9-fe04e23a0720,1001,Michael Fernandez,Male,10,663.05,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,9eebab91-c157-4894-9904-e1cf9129158f,1001,Michael Fernandez,Male,10,1744.21,Withdrawal,Staten Island ATM 1
+1/1/2025,e47fc657-5ce3-467d-93f6-cad6c08213fc,1001,Michael Fernandez,Male,10,105.27,Withdrawal,Staten Island ATM 1
+1/1/2025,b4439098-5fb1-44c2-822c-a73af9aba969,1001,Michael Fernandez,Male,10,2269.99,Deposit,Staten Island ATM 1
+1/1/2025,cfdc8256-bdd9-4333-91a5-921d097c2250,1001,Michael Fernandez,Male,10,1397.13,Withdrawal,NYC 6th Ave 44th St Branch
+1/1/2025,a75a5135-4809-4be2-a886-c0d166420cb1,1001,Michael Fernandez,Male,10,963.77,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,ed322df9-73a8-45da-8b2b-8bb879e77d82,1001,Michael Fernandez,Male,10,1711.73,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,7097f942-d369-4649-8ef1-967f452f3e6c,1001,Michael Fernandez,Male,10,2019.34,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,0ce5209e-b841-430b-a838-6c5f1c1a6832,1001,Michael Fernandez,Male,10,1899.03,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,d7e5a16c-d58e-4076-8f3b-55aedab82d13,1001,Michael Fernandez,Male,10,486.51,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,2ba9522a-bd79-456a-b58e-d7186343d204,1001,Michael Fernandez,Male,10,933.28,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,c4c03866-28c0-4957-b3da-9b2c67fb06b2,1001,Michael Fernandez,Male,10,505.55,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,e445c2dd-8644-4560-8102-d9d6efaabab8,1001,Michael Fernandez,Male,10,1887.67,Deposit,Staten Island ATM 1
+1/1/2025,ddc3cbcf-72b3-4293-a9fe-ee4732015960,1001,Michael Fernandez,Male,10,1439.16,Withdrawal,"Bay Shore, NY ATM 2"
+1/1/2025,4e5033d4-637b-4638-aa37-3ebe0aa42983,1001,Michael Fernandez,Male,10,1360.3,Deposit,NYC 6th Ave 44th St Branch
+1/2/2025,056f7f04-c71d-4f2b-b8f2-00ce848565bf,1001,Michael Fernandez,Male,10,387.59,Deposit,Staten Island ATM 1
+1/2/2025,b87a7387-e6b9-4d40-a843-1c9aa77d9c43,1001,Michael Fernandez,Male,10,1553.31,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,a0f5dc5b-f37b-4199-8247-0ab9f4efa6d3,1001,Michael Fernandez,Male,10,1686.3,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,256fb666-050d-40cd-928a-d7e0b59b9f6e,1001,Michael Fernandez,Male,10,936.27,Deposit,"Albany, NY, Main Street Branch 3"
+1/2/2025,0b345422-2faf-417c-a1c2-bc2b44a70f62,1001,Michael Fernandez,Male,10,1432.18,Deposit,NYC 6th Ave 44th St Branch
+1/2/2025,86f3480a-eb0d-4062-8053-7aa1e905a79c,1001,Michael Fernandez,Male,10,27.25,Deposit,Brooklyn 4th Street Branch 2
+1/2/2025,4675f4e1-e869-4532-9dc2-8e3e2010d85c,1001,Michael Fernandez,Male,10,620.7,Deposit,Brooklyn 4th Street Branch 2
+1/2/2025,f0eff219-c359-45c6-bea3-bd0e6c8cecf4,1001,Michael Fernandez,Male,10,1641.07,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/2/2025,e87a2970-26e7-48a9-b924-0dda6e490f06,1001,Michael Fernandez,Male,10,881.36,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,b8938bda-8426-47a7-9f09-2aec8a04501a,1001,Michael Fernandez,Male,10,225.43,Deposit,Staten Island ATM 1
+1/2/2025,b97ad938-e653-4b77-b6dc-500cbf7d9687,1001,Michael Fernandez,Male,10,1374.85,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,cfcade3e-2557-424d-bc4d-3ab995394e2f,1001,Michael Fernandez,Male,10,1453.13,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/2/2025,aac0a49f-6781-41ef-8af2-008b92d35a48,1001,Michael Fernandez,Male,10,349.54,Withdrawal,Brooklyn 4th Street Branch 2
+1/2/2025,3d45d2f2-89bb-44c5-87e7-ec3c9d0d9d76,1001,Michael Fernandez,Male,10,530.11,Deposit,Staten Island ATM 1
+1/2/2025,daaff545-2588-436f-9df3-2ad757706118,1001,Michael Fernandez,Male,10,1541.77,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/2/2025,ec8943db-b753-4710-b820-785783340b87,1001,Michael Fernandez,Male,10,727.4,Withdrawal,Staten Island ATM 1
+1/2/2025,39687d02-98b8-4ae5-9693-b8cddeac4359,1001,Michael Fernandez,Male,10,449.17,Deposit,"Bay Shore, NY ATM 2"
+1/2/2025,44749f01-3a5b-440c-acf0-7c8a0267e8c7,1001,Michael Fernandez,Male,10,2488.46,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,da3e36fd-66dc-4395-a229-dbc34971fbfd,1001,Michael Fernandez,Male,10,244.25,Withdrawal,"Bay Shore, NY ATM 2"
+1/3/2025,2bcf69fb-cf92-439c-b7d1-c104d6e6c815,1001,Michael Fernandez,Male,10,1953.87,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,07d787e6-a13d-4378-bc1c-c94eee665bd8,1001,Michael Fernandez,Male,10,1199.43,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,c2e02179-83a7-4484-999a-7f36fb3acf79,1001,Michael Fernandez,Male,10,2406.37,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,5c5d5c0b-8054-45e3-9364-8106416b1ebc,1001,Michael Fernandez,Male,10,2472.86,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,786dec3f-4077-4af9-9d0c-6150c70997dc,1001,Michael Fernandez,Male,10,974.27,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,862f1382-3cd4-41e8-968c-54bdc13e762b,1001,Michael Fernandez,Male,10,514.66,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/3/2025,584b6a3d-1aef-4d11-b4b5-f2a53413a823,1001,Michael Fernandez,Male,10,1103.81,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,27b6a708-e201-4ba6-a5d4-c8854d3a26b6,1001,Michael Fernandez,Male,10,2084.23,Withdrawal,"Garden City, NY Main  Branch"
+1/3/2025,eb51da44-a695-43ff-8d75-804fa6678519,1001,Michael Fernandez,Male,10,2058.68,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,63883f98-f4f6-493e-ab00-04e14ab32634,1001,Michael Fernandez,Male,10,1613.87,Withdrawal,Staten Island ATM 1
+1/3/2025,ac39b872-ce0d-4670-9bcb-83854d8009c9,1001,Michael Fernandez,Male,10,962.95,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/3/2025,c73fbecb-5e68-4fcc-9680-f2c120fdb9cd,1001,Michael Fernandez,Male,10,984.25,Deposit,Staten Island ATM 1
+1/3/2025,258e781b-84c2-4e8b-94bf-f805a9ee4337,1001,Michael Fernandez,Male,10,529.29,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,0fd476bd-aba6-4b1c-844f-44878e4f588d,1001,Michael Fernandez,Male,10,616.69,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,c602c07a-d713-4b90-be44-4fe777e01a41,1001,Michael Fernandez,Male,10,1781.94,Withdrawal,Brooklyn 4th Street Branch 2
+1/3/2025,72b4e14f-c285-4c68-8684-1145956dc507,1001,Michael Fernandez,Male,10,1198.85,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/3/2025,b6a633f1-e0f4-4e28-97be-74323171239a,1001,Michael Fernandez,Male,10,2340.3,Withdrawal,"Garden City, NY Main  Branch"
+1/3/2025,7f4d6f32-3faa-4336-9346-1d3f3aeefc2f,1001,Michael Fernandez,Male,10,571.37,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,59177f56-c1ea-41f0-8131-bb9be9f07522,1001,Michael Fernandez,Male,10,1515.59,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,4cf5ddd9-d935-4b94-a13d-4b6117540b8d,1001,Michael Fernandez,Male,10,283.93,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,94c57103-b8f7-4d4a-8171-ea7847011525,1001,Michael Fernandez,Male,10,2337.93,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,ada4414b-7282-4978-8c2a-7943e11dd2eb,1001,Michael Fernandez,Male,10,300.98,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,ca4c226c-9ed6-4b2d-8c22-76dcc8bd6112,1001,Michael Fernandez,Male,10,1946.41,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,d732be49-195a-422a-b774-51d9a065453b,1001,Michael Fernandez,Male,10,287.58,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,e1c72efb-16cf-4da4-a2c8-eafc563fd311,1001,Michael Fernandez,Male,10,1329.89,Withdrawal,Staten Island ATM 1
+1/4/2025,110c2737-0d3a-44d3-b09c-43f9bbcc745b,1001,Michael Fernandez,Male,10,2195.85,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,b84c0cbd-8b57-4503-910b-345dd82735cc,1001,Michael Fernandez,Male,10,108.37,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,f60ff51b-3085-417b-9c75-1181819f0c31,1001,Michael Fernandez,Male,10,1061.73,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,e713b0ee-47f3-4c65-9d6a-69eb5255f638,1001,Michael Fernandez,Male,10,1215.57,Deposit,"Bay Shore, NY ATM 2"
+1/4/2025,ef4afd51-a5e4-4280-a806-12df9103fb63,1001,Michael Fernandez,Male,10,2398.84,Deposit,NYC 6th Ave 44th St Branch
+1/4/2025,0147c9e9-3c1e-4def-9fd2-d02267101797,1001,Michael Fernandez,Male,10,75.91,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,705e370c-50f1-47fa-b0a5-eb3fc2aa214e,1001,Michael Fernandez,Male,10,340.36,Deposit,Staten Island ATM 1
+1/4/2025,3296c16d-c370-4de4-b8c1-4d96c7414dad,1001,Michael Fernandez,Male,10,2174.31,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,6996a0dd-fa03-46bf-9348-bc8fdc2c0d30,1001,Michael Fernandez,Male,10,2280.94,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,c9db3a91-3eca-4c78-aa4a-8f2523140f63,1001,Michael Fernandez,Male,10,1049.07,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,f514d803-0e7c-4713-9799-b57ffcf76ef6,1001,Michael Fernandez,Male,10,1481.75,Deposit,"Bay Shore, NY ATM 2"
+1/4/2025,d78d4e37-52d9-4901-9669-18d28a8056d6,1001,Michael Fernandez,Male,10,377.6,Deposit,Staten Island ATM 1
+1/4/2025,94126e03-f0ca-4e88-811c-f7439f2f131c,1001,Michael Fernandez,Male,10,1993.55,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,9d96707f-9059-4326-8fb4-77a35ad9c5ce,1001,Michael Fernandez,Male,10,1028.86,Withdrawal,NYC 6th Ave 44th St Branch
+1/5/2025,66c4c64f-9ecb-4972-9e30-33891ab37211,1001,Michael Fernandez,Male,10,995.28,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,c33707a4-6ce1-404e-abd2-3386fe0eedc0,1001,Michael Fernandez,Male,10,1575.23,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,958df1d0-8b6e-466a-ba71-c440e077fc1a,1001,Michael Fernandez,Male,10,1056.39,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/5/2025,ffff7d75-8b02-4903-bf09-f76ce84acd55,1001,Michael Fernandez,Male,10,618.99,Deposit,NYC 6th Ave 44th St Branch
+1/5/2025,07c330ae-09ea-4478-8560-ac9900225fbd,1001,Michael Fernandez,Male,10,2139.42,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,e23b453c-8f66-4885-8e5c-ad52f901cd34,1001,Michael Fernandez,Male,10,423.7,Withdrawal,Staten Island ATM 1
+1/5/2025,a04750bb-d4a5-4cfd-a369-cb2befeaf8f0,1001,Michael Fernandez,Male,10,1156.42,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,04b7ba2f-b66b-4989-be25-73aa6725bb91,1001,Michael Fernandez,Male,10,590.1,Withdrawal,Staten Island ATM 1
+1/5/2025,6fe0e29f-9e1a-41c0-8fbc-7fd6589dae93,1001,Michael Fernandez,Male,10,2267.02,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,7ba6a323-d6b7-4759-a790-728373014d67,1001,Michael Fernandez,Male,10,196.43,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,43c2eed1-b6cb-4e9c-b12d-cac3e56d674b,1001,Michael Fernandez,Male,10,56.31,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,c898f256-94fe-471e-a42f-a6f7e97182c9,1001,Michael Fernandez,Male,10,2297.33,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,ff2a1a40-031e-4b25-9f1a-667bbab7a74b,1001,Michael Fernandez,Male,10,1105.03,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/5/2025,009ac28e-809b-4d05-bc42-aef5f6f6b5a7,1001,Michael Fernandez,Male,10,1696.69,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,84e237fb-2f5a-4410-a708-3c26f1dfe67b,1001,Michael Fernandez,Male,10,1053.11,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/5/2025,ee2e4629-cb7a-4297-b556-9ab24204e573,1001,Michael Fernandez,Male,10,1075.27,Withdrawal,NYC 6th Ave 44th St Branch
+1/5/2025,6e5b86b7-b5af-4997-a7d9-5d8279440ba9,1001,Michael Fernandez,Male,10,714.82,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,b4ad9179-fc2f-42c4-a718-6c1106b7d25c,1001,Michael Fernandez,Male,10,2124.12,Withdrawal,"Bay Shore, NY ATM 2"
+1/1/2025,e8993b2f-25fd-4f57-84b9-33e6731190be,1002,Nicole Schultz MD,Female,38,111.09,Withdrawal,Staten Island ATM 1
+1/1/2025,fcaa719a-74a0-472e-8321-1a3688a75b96,1002,Nicole Schultz MD,Female,38,829.77,Withdrawal,NYC 6th Ave 44th St Branch
+1/1/2025,6db30707-a8bd-406b-8c6c-b84769a01bc6,1002,Nicole Schultz MD,Female,38,1778.14,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,ba073abb-7c96-4d3b-a839-af72bf45305a,1002,Nicole Schultz MD,Female,38,1447.96,Withdrawal,Staten Island ATM 1
+1/1/2025,c1e6ff0b-395f-4ff0-bd45-b4614c38dd26,1002,Nicole Schultz MD,Female,38,1839.66,Withdrawal,NYC 6th Ave 44th St Branch
+1/1/2025,11390dc8-1234-4ae2-972a-bdacb588536f,1002,Nicole Schultz MD,Female,38,1197.08,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,b4f24572-46a8-47d4-ab8d-9f9e8fce37e0,1002,Nicole Schultz MD,Female,38,867.26,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,aac3f0e1-0db9-44c1-ba80-ffd25157775e,1002,Nicole Schultz MD,Female,38,929.16,Withdrawal,Staten Island ATM 1
+1/1/2025,8ab5e404-4db4-45d7-8c3b-9271dbff5ebb,1002,Nicole Schultz MD,Female,38,1624.39,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,634edba5-9823-454f-a99f-7fb5f0f4d820,1002,Nicole Schultz MD,Female,38,1446.1,Deposit,Staten Island ATM 1
+1/1/2025,55263bf7-9f89-4902-8ee2-da71662febdb,1002,Nicole Schultz MD,Female,38,2127.94,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,ed3bbe92-c107-4d14-92ac-0029bb16f7e0,1002,Nicole Schultz MD,Female,38,1607.22,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,5d4bbd47-5f9a-40d3-b8b1-a981f9f08fb7,1002,Nicole Schultz MD,Female,38,1489.07,Withdrawal,"Bay Shore, NY ATM 2"
+1/1/2025,d8e9964e-ac29-4673-be8f-f115a2d1faa0,1002,Nicole Schultz MD,Female,38,568.85,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,1cfddb48-15d5-49d6-b307-33fd79ac974b,1002,Nicole Schultz MD,Female,38,1012.11,Deposit,Staten Island ATM 1
+1/1/2025,030d1e63-8d65-4ccd-8eef-aa17b5d4a47d,1002,Nicole Schultz MD,Female,38,125,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,deb6723a-bd72-4acc-9b86-90db8a326f31,1002,Nicole Schultz MD,Female,38,1571.79,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,20c9cc28-6630-4f77-ad4f-54e0294d8778,1002,Nicole Schultz MD,Female,38,353.6,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/1/2025,27cc4d1d-d458-46da-9e91-da6eca20add9,1002,Nicole Schultz MD,Female,38,1707.88,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,b0bfe1fb-9fdc-4b61-a82f-8d5e585e65c0,1002,Nicole Schultz MD,Female,38,385.55,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,96b094f3-1078-4706-8710-7d5c321dd689,1002,Nicole Schultz MD,Female,38,534.59,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,d09ca693-9662-45a1-a854-689ce88e07eb,1002,Nicole Schultz MD,Female,38,1417.85,Deposit,Staten Island ATM 1
+1/2/2025,2a5dac3d-2551-4235-aa3c-06da1c2d4f2d,1002,Nicole Schultz MD,Female,38,1982.39,Deposit,Staten Island ATM 1
+1/2/2025,d41f6c0d-0c7d-40e9-9493-f163a3b9ab34,1002,Nicole Schultz MD,Female,38,464.87,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,06b7a88a-cd42-4b23-9170-76aeee315034,1002,Nicole Schultz MD,Female,38,1204.77,Deposit,NYC 6th Ave 44th St Branch
+1/2/2025,e5cadd55-50e3-4590-94aa-cf2f5b2cb041,1002,Nicole Schultz MD,Female,38,2338.85,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/2/2025,0c0ea133-385f-41e9-8fa7-477e9ba97910,1002,Nicole Schultz MD,Female,38,78.67,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,cbecd323-4df7-4fc4-91c2-0bea01a6de6f,1002,Nicole Schultz MD,Female,38,578.68,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,f3a01f87-41fe-40bf-b2cb-e4393d4dbeb0,1002,Nicole Schultz MD,Female,38,1546.35,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,ba5d45ce-19f8-480e-bb25-98cdd62422fc,1002,Nicole Schultz MD,Female,38,52.77,Withdrawal,Brooklyn 4th Street Branch 2
+1/2/2025,79999dfe-841b-4f2a-b9ae-19f499cae3b5,1002,Nicole Schultz MD,Female,38,1561.51,Deposit,"Bay Shore, NY ATM 2"
+1/2/2025,93bdf260-71db-4934-8adf-465caf5ae88b,1002,Nicole Schultz MD,Female,38,896.58,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,a85c2def-d1b1-435e-8a05-1a0a5bd99a60,1002,Nicole Schultz MD,Female,38,1830.69,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,a2e8ffa7-8a26-4ed9-9a4c-1bae51dfd6df,1002,Nicole Schultz MD,Female,38,799.86,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,90b985f5-1c53-4003-882a-fac412e7b35b,1002,Nicole Schultz MD,Female,38,509.49,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,70321008-6893-4b2f-b7c6-4cd163dc2241,1002,Nicole Schultz MD,Female,38,511.42,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,b479698d-edc3-4e7a-9f5c-8e3a239f6851,1002,Nicole Schultz MD,Female,38,1121.7,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,45490e04-36b9-4b1b-bdf5-1eddf5b546ff,1002,Nicole Schultz MD,Female,38,2045.3,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,570caac9-18cb-4a3f-97ec-ccb3507a2532,1002,Nicole Schultz MD,Female,38,900.55,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/3/2025,65178566-7c93-45a0-9225-b1f88ede9360,1002,Nicole Schultz MD,Female,38,1858.61,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,6c7e6821-9932-438b-869e-b316c458c617,1002,Nicole Schultz MD,Female,38,215.56,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,f5a6095b-399c-4aa1-a733-016df3905408,1002,Nicole Schultz MD,Female,38,1757.5,Withdrawal,"Bay Shore, NY ATM 2"
+1/3/2025,5e687977-2f09-4730-9973-d35f42d7c7ef,1002,Nicole Schultz MD,Female,38,1297.4,Withdrawal,"Garden City, NY Main  Branch"
+1/3/2025,d59b1e5d-c96e-49a0-b8f8-9f163fa4aae0,1002,Nicole Schultz MD,Female,38,1199.51,Withdrawal,"Bay Shore, NY ATM 2"
+1/3/2025,63b0126f-9b36-4003-b4a5-0dab5ace71ec,1002,Nicole Schultz MD,Female,38,825.81,Deposit,Staten Island ATM 1
+1/3/2025,03e4d41e-64c0-4efb-abf9-30df6c22e01c,1002,Nicole Schultz MD,Female,38,2410.45,Deposit,"Garden City, NY Main  Branch"
+1/3/2025,6763ed2c-c366-48d6-8b7b-cf9e5fd1a1c0,1002,Nicole Schultz MD,Female,38,2328.85,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,0cb0055b-7c21-4a54-8264-032b52066b5b,1002,Nicole Schultz MD,Female,38,849.09,Withdrawal,Staten Island ATM 1
+1/3/2025,ba9e94cc-aaa9-4bc6-b6e1-69dee5b96e29,1002,Nicole Schultz MD,Female,38,1789.64,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/3/2025,95784112-ae80-478f-a114-87197ed4c57d,1002,Nicole Schultz MD,Female,38,365.34,Deposit,"Albany, NY, Main Street Branch 3"
+1/3/2025,134f31f8-66f2-4618-b3bd-d5776d8b34a5,1002,Nicole Schultz MD,Female,38,1362.83,Deposit,Staten Island ATM 1
+1/3/2025,5e4b9605-42a5-483d-a377-cdbadce0eae5,1002,Nicole Schultz MD,Female,38,406.11,Withdrawal,Staten Island ATM 1
+1/3/2025,a339edcb-8bec-4d71-87ed-0fe6bca58398,1002,Nicole Schultz MD,Female,38,610.91,Deposit,"Albany, NY, Main Street Branch 3"
+1/3/2025,2ebe1611-3ec9-427a-bc3b-460c3cbda521,1002,Nicole Schultz MD,Female,38,968.67,Withdrawal,Staten Island ATM 1
+1/3/2025,1372f587-b6f8-46c9-b0e7-62593951a513,1002,Nicole Schultz MD,Female,38,1315.35,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,3e1bee8a-f7d7-4f9c-9249-f5eab95ad98f,1002,Nicole Schultz MD,Female,38,526.21,Deposit,Staten Island ATM 1
+1/4/2025,18e9f0ca-b0a0-43d5-88ca-d7205e025616,1002,Nicole Schultz MD,Female,38,452.84,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,b01b3ad6-a199-44cc-8f24-2f291ede71ba,1002,Nicole Schultz MD,Female,38,1206.5,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,d77212cc-e51a-4e30-b39d-f781db9a1a7b,1002,Nicole Schultz MD,Female,38,1120.62,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,2b4a07c4-bc93-476b-9918-f039ae965913,1002,Nicole Schultz MD,Female,38,2229.77,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,56370b1b-16e5-46dd-8096-bc7deff9e444,1002,Nicole Schultz MD,Female,38,2478.18,Deposit,"Bay Shore, NY ATM 2"
+1/4/2025,3d212a07-3c1e-4899-8236-46a9d45840f2,1002,Nicole Schultz MD,Female,38,2018.84,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,50ac5e83-b767-44e9-8828-1fd4de4c956f,1002,Nicole Schultz MD,Female,38,998.76,Withdrawal,Staten Island ATM 1
+1/4/2025,53d4a4a5-1ac1-4508-bf9d-c417e2ec8782,1002,Nicole Schultz MD,Female,38,350.01,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,1d3538fc-f9bf-4426-85a5-76a25ab50eaa,1002,Nicole Schultz MD,Female,38,1749.7,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,06628062-7568-4296-83d7-4173c4613d02,1002,Nicole Schultz MD,Female,38,1179.79,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,3236b0e4-505a-4da8-b767-36dfbd26852e,1002,Nicole Schultz MD,Female,38,2445.72,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,61cd26da-f308-4161-a0e3-7084207634fe,1002,Nicole Schultz MD,Female,38,2009.03,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,bed27122-d787-4be5-b206-8d685b5cce7f,1002,Nicole Schultz MD,Female,38,1794.5,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,5d1729aa-0b5c-4db0-9a63-4334ad425a12,1002,Nicole Schultz MD,Female,38,549.38,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,d204895f-f84d-4b47-b9b5-0aa64a225007,1002,Nicole Schultz MD,Female,38,1893.87,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,e9ed8747-8e7b-4e2b-9584-b748e3772895,1002,Nicole Schultz MD,Female,38,2366.65,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,235bc3fa-cdbc-4efa-97b0-2b83b17c66cc,1002,Nicole Schultz MD,Female,38,190.18,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,997691dd-d402-49a4-9928-ea7d6b559959,1002,Nicole Schultz MD,Female,38,1461.4,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,d9283ef3-ffd9-4216-93bf-84eaa1863348,1002,Nicole Schultz MD,Female,38,2265.71,Withdrawal,"Garden City, NY Main  Branch"
+1/4/2025,65eea8ce-c3f8-471b-95f6-0be84b1a1a3c,1002,Nicole Schultz MD,Female,38,1313.39,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,85fe2bc7-e180-4713-a643-55e2480303e5,1002,Nicole Schultz MD,Female,38,2126.32,Withdrawal,Staten Island ATM 1
+1/4/2025,889626ed-a994-47e9-b59c-109c4a811a5c,1002,Nicole Schultz MD,Female,38,678.62,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,63f5e956-d02f-4930-aceb-d1acc8d3d58f,1002,Nicole Schultz MD,Female,38,934.73,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,f42e206b-ad19-4662-8c41-cc2d15570bd0,1002,Nicole Schultz MD,Female,38,1313.09,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,1e2e8a96-3893-4eeb-8c86-105ad0de6144,1002,Nicole Schultz MD,Female,38,1121.08,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,34b2968d-c9cd-4f4d-816e-14a489661133,1002,Nicole Schultz MD,Female,38,1310.48,Deposit,"Bay Shore, NY ATM 2"
+1/4/2025,cde87969-c8e9-4e6c-8721-da5dc00918ec,1002,Nicole Schultz MD,Female,38,216.03,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,ed8335d4-6bca-4cef-9898-5f88ad7bbf89,1002,Nicole Schultz MD,Female,38,1430.48,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,f92a9257-380b-4570-a627-b2811e4b111b,1002,Nicole Schultz MD,Female,38,472.41,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/5/2025,61b9a159-e377-4b12-a751-cd1d94a2dd85,1002,Nicole Schultz MD,Female,38,2234.72,Withdrawal,Staten Island ATM 1
+1/5/2025,3844b32a-aa62-4ffa-84e3-b1bcb61e201e,1002,Nicole Schultz MD,Female,38,1105.23,Deposit,Staten Island ATM 1
+1/5/2025,ff93a319-b0ff-4283-905a-6d73d125bf0f,1002,Nicole Schultz MD,Female,38,357.28,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,49126c8a-4f15-4408-b812-5751d78db1a6,1002,Nicole Schultz MD,Female,38,551.14,Deposit,"Garden City, NY Main  Branch"
+1/5/2025,33f653fd-4e17-40e8-88ea-6949ba138121,1002,Nicole Schultz MD,Female,38,90.14,Deposit,"Albany, NY, Main Street Branch 3"
+1/5/2025,d162e751-ca02-4c4d-b7b2-6ec521428add,1002,Nicole Schultz MD,Female,38,200.82,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,39e05fa6-a63a-4966-87fd-0fbf54c0f2f3,1002,Nicole Schultz MD,Female,38,2025.1,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,e16c50ff-2156-417d-86b9-70418e8b92c8,1002,Nicole Schultz MD,Female,38,69.68,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,a10293d4-7689-4547-88dd-b3bc2d288df1,1002,Nicole Schultz MD,Female,38,1231.16,Deposit,"Garden City, NY Main  Branch"
+1/5/2025,253b6d05-8916-4954-86ec-ced1380fa424,1002,Nicole Schultz MD,Female,38,1403.09,Withdrawal,Staten Island ATM 1
+1/5/2025,c07bb743-7ae8-4812-b5a0-53927e87488d,1002,Nicole Schultz MD,Female,38,493.92,Deposit,NYC 6th Ave 44th St Branch
+1/1/2025,c22c983d-bbbf-4b8c-8ec0-dcfa7a52c099,1003,Alexis Scott,Female,38,2184.02,Deposit,Staten Island ATM 1
+1/1/2025,4681bd1c-1925-43ca-bb94-0981c7c6e62d,1003,Alexis Scott,Female,38,883.82,Deposit,NYC 6th Ave 44th St Branch
+1/1/2025,2f8fb49c-19cc-47db-8426-617bd7ddb05a,1003,Alexis Scott,Female,38,1045.06,Withdrawal,NYC 6th Ave 44th St Branch
+1/1/2025,57efd143-ece8-4597-b921-636e22c16b78,1003,Alexis Scott,Female,38,320.22,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/1/2025,57dc8d66-4b3c-4643-9bfd-285aea806408,1003,Alexis Scott,Female,38,731.29,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,618d26e5-9f66-420b-826c-cc45b2ea478a,1003,Alexis Scott,Female,38,1010.61,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,7be86711-a9a2-492f-b8e8-5fbb500e0bf2,1003,Alexis Scott,Female,38,588.94,Withdrawal,NYC 6th Ave 44th St Branch
+1/1/2025,0684063e-bd4d-4401-84f7-1b07b9cd2737,1003,Alexis Scott,Female,38,714.27,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,46dd7d5c-3fcc-4113-bca7-25d5773b37d6,1003,Alexis Scott,Female,38,881.17,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,edcb9b08-b8bb-40db-94a7-a5f81050224b,1003,Alexis Scott,Female,38,436.3,Withdrawal,NYC 6th Ave 44th St Branch
+1/1/2025,96c49a18-6f81-481d-aa59-969f00b1910d,1003,Alexis Scott,Female,38,893.18,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,6f968ae0-d461-4b83-a11b-48adba1b089c,1003,Alexis Scott,Female,38,2159.97,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/1/2025,ca8cd285-32df-4ac0-960e-ed6d12d0ae74,1003,Alexis Scott,Female,38,1596.49,Deposit,NYC 6th Ave 44th St Branch
+1/1/2025,d8d6492c-247b-4ec8-9192-9a010a48bef0,1003,Alexis Scott,Female,38,2087.51,Withdrawal,NYC 6th Ave 44th St Branch
+1/1/2025,9bde36ea-78d5-46fb-ab36-f9adf77bd6e4,1003,Alexis Scott,Female,38,1310.96,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,ab1b04b3-e152-423f-b8c4-7f44b14c023d,1003,Alexis Scott,Female,38,970.28,Deposit,Staten Island ATM 1
+1/1/2025,8aa4bf81-0595-42b1-b9db-fa35b632b5be,1003,Alexis Scott,Female,38,1433.3,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,87f82c90-4c6e-4147-9308-60b5f4c7639b,1003,Alexis Scott,Female,38,1746.03,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,11e1b7d7-ce21-416b-a7f0-5f04f9005d86,1003,Alexis Scott,Female,38,1584.55,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,08efdaca-6c16-40cc-9044-0d946b1a2388,1003,Alexis Scott,Female,38,2397.69,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,f2303118-b2f6-4e2b-93a5-5198635c973a,1003,Alexis Scott,Female,38,2061.91,Withdrawal,Staten Island ATM 1
+1/1/2025,f613602d-0796-4562-a3fa-1ed7288e55ce,1003,Alexis Scott,Female,38,2441.07,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,4fd65daa-8fc3-47d3-bb2b-1480345d10c9,1003,Alexis Scott,Female,38,1592.22,Withdrawal,Brooklyn 4th Street Branch 2
+1/2/2025,4b709221-a946-4237-9722-c3d4ecaa3829,1003,Alexis Scott,Female,38,413.34,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,e77b7f72-55e1-49de-ba4d-854148d63e16,1003,Alexis Scott,Female,38,121.76,Deposit,"Bay Shore, NY ATM 2"
+1/2/2025,40c2a3b7-bb1f-4a7b-abcb-a6b9dd0e1677,1003,Alexis Scott,Female,38,1815.66,Deposit,NYC 6th Ave 44th St Branch
+1/2/2025,b18105bc-04be-4c14-b97a-fb9836401eff,1003,Alexis Scott,Female,38,1371.97,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,1aaf46f6-03d0-45e0-9868-8bc84a5d821d,1003,Alexis Scott,Female,38,271.9,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,1a04b8ff-4fd8-4781-8a6b-39c662d82c4f,1003,Alexis Scott,Female,38,744,Deposit,"Albany, NY, Main Street Branch 3"
+1/2/2025,5a1bff8a-3083-4f0e-beea-2ec4051b3c28,1003,Alexis Scott,Female,38,2386.32,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,42b13594-7e5b-47d4-9d4a-012879c49b97,1003,Alexis Scott,Female,38,1879.08,Withdrawal,Brooklyn 4th Street Branch 2
+1/2/2025,28d72280-725d-4831-b6ad-8bce2d0b2196,1003,Alexis Scott,Female,38,1655.36,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,ac03afdd-4ea9-4a09-80e1-57af40cc3a04,1003,Alexis Scott,Female,38,841.6,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,d049d645-2956-4a49-9112-f28d358e755a,1003,Alexis Scott,Female,38,1612.81,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,473969e2-122d-42f3-bf15-c9f753731cbc,1003,Alexis Scott,Female,38,2341.85,Deposit,"Bay Shore, NY ATM 2"
+1/2/2025,58791bb4-f786-4de0-891a-622127149881,1003,Alexis Scott,Female,38,898.12,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/2/2025,5c888c93-fb5b-4c97-a058-6795c12816e2,1003,Alexis Scott,Female,38,2052.75,Deposit,"Albany, NY, Main Street Branch 3"
+1/2/2025,dd758cbe-c79d-4e8b-ad64-055145f371ff,1003,Alexis Scott,Female,38,716.2,Deposit,Brooklyn 4th Street Branch 2
+1/2/2025,25152158-2dcb-4b12-b069-d9786d7ee863,1003,Alexis Scott,Female,38,687.85,Deposit,Staten Island ATM 1
+1/2/2025,076ccf73-f7c3-4be7-aeab-18f59ad1b8a5,1003,Alexis Scott,Female,38,37.62,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,b98fe8b9-1ebe-4fb0-a9dc-dfb798f816a1,1003,Alexis Scott,Female,38,1163.58,Deposit,"Bay Shore, NY ATM 2"
+1/2/2025,ecd11347-4880-4691-a0a9-a423356dbe1a,1003,Alexis Scott,Female,38,1013.77,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,0e9f01cf-0d74-4377-808e-347b7369bf4d,1003,Alexis Scott,Female,38,1053.84,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,6caa4c79-bcd9-4f1e-b343-eb6c57cac3ba,1003,Alexis Scott,Female,38,1476.09,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,6b64fabe-a393-4628-a9e4-d897a2c60616,1003,Alexis Scott,Female,38,1188.66,Withdrawal,Brooklyn 4th Street Branch 2
+1/3/2025,2ef4c05a-19d3-4935-a605-5f80bc0c5ba3,1003,Alexis Scott,Female,38,1671.61,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,bc080d2e-acf4-4f23-a5bb-2da9642aa20d,1003,Alexis Scott,Female,38,1730.96,Withdrawal,"Garden City, NY Main  Branch"
+1/3/2025,bbf66c1f-b9fe-4b2f-b142-b2c6b5bf4eec,1003,Alexis Scott,Female,38,543.35,Withdrawal,"Garden City, NY Main  Branch"
+1/3/2025,72e0a733-d840-4266-95df-0a3f3eebde67,1003,Alexis Scott,Female,38,1874.8,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,8f0c9efa-6760-47f1-8a79-572ae680ee5b,1003,Alexis Scott,Female,38,836.08,Deposit,"Albany, NY, Main Street Branch 3"
+1/3/2025,2db127e1-f5f9-49fd-b6cc-e49bcc887d25,1003,Alexis Scott,Female,38,469.07,Deposit,"Garden City, NY Main  Branch"
+1/3/2025,434775b8-889a-46dc-a547-b2ee69fa369a,1003,Alexis Scott,Female,38,656.64,Deposit,Staten Island ATM 1
+1/3/2025,f8e16a9e-66a5-4cd9-9265-13f722f05de9,1003,Alexis Scott,Female,38,2471.54,Deposit,Staten Island ATM 1
+1/3/2025,08d1a906-c32f-4756-83fe-8292794ad8bf,1003,Alexis Scott,Female,38,1476.74,Withdrawal,"Garden City, NY Main  Branch"
+1/3/2025,861aca7c-85a0-494d-8aa1-5a83a71484a8,1003,Alexis Scott,Female,38,485.96,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,13bd2b9a-5467-4852-9e61-ea4a8bce4c93,1003,Alexis Scott,Female,38,1459.69,Deposit,"Albany, NY, Main Street Branch 3"
+1/3/2025,5e4ec977-ccc6-4ea3-a3f7-be9ee6362efe,1003,Alexis Scott,Female,38,860,Withdrawal,"Garden City, NY Main  Branch"
+1/3/2025,1c1f422c-ca8d-4e97-afec-4dd589984a92,1003,Alexis Scott,Female,38,1272.95,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/3/2025,0303dd14-62eb-41d7-9b52-11df753ca867,1003,Alexis Scott,Female,38,2164.94,Deposit,"Albany, NY, Main Street Branch 3"
+1/3/2025,ac658412-3077-4b80-9435-dcff91da846e,1003,Alexis Scott,Female,38,1722.27,Deposit,"Garden City, NY Main  Branch"
+1/3/2025,4828275a-4879-4a21-9af2-2587bbda3f00,1003,Alexis Scott,Female,38,1703.72,Withdrawal,"Garden City, NY Main  Branch"
+1/3/2025,49314315-9366-47cd-a534-dc4bc05e1556,1003,Alexis Scott,Female,38,2130.75,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,fb857440-d20b-4de0-a583-97e4a1949004,1003,Alexis Scott,Female,38,1881.28,Withdrawal,Staten Island ATM 1
+1/4/2025,9db28a95-648a-4c82-a4c5-0417f7e103e4,1003,Alexis Scott,Female,38,1080.43,Deposit,Staten Island ATM 1
+1/4/2025,6bbb7f96-277a-40f7-99ba-05a3c36bdf15,1003,Alexis Scott,Female,38,2453.87,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,3c9913e9-4cc8-49d8-ab4f-b57cc6cbed6e,1003,Alexis Scott,Female,38,2233.21,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,208bab41-92a4-4ac3-9566-6b4ad46a2670,1003,Alexis Scott,Female,38,1180.4,Deposit,"Bay Shore, NY ATM 2"
+1/4/2025,d66961f9-1c1e-4241-8580-ad1779510e56,1003,Alexis Scott,Female,38,397.32,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,bf945e41-c56f-4ce5-974a-719a1c43dac8,1003,Alexis Scott,Female,38,91.49,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,c42be17f-ebbc-4814-927d-88e2096f221e,1003,Alexis Scott,Female,38,1409.6,Deposit,Staten Island ATM 1
+1/4/2025,da85624e-84bb-4859-b247-cb9200c8b6c1,1003,Alexis Scott,Female,38,463.82,Withdrawal,"Garden City, NY Main  Branch"
+1/4/2025,d4905b3d-ed91-4a86-b50c-3f808a369a69,1003,Alexis Scott,Female,38,1260.15,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,276feaeb-86e0-4805-8490-db17ab2dd9dd,1003,Alexis Scott,Female,38,1644.59,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,c70d5e45-3b1b-4617-9225-2c287bf17ced,1003,Alexis Scott,Female,38,477.83,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,6ca3a377-1ba5-4436-9360-e5170b44c6c2,1003,Alexis Scott,Female,38,1793.24,Withdrawal,"Garden City, NY Main  Branch"
+1/4/2025,b2e9d7c7-3958-457e-9fdd-10a954c0f043,1003,Alexis Scott,Female,38,1608.22,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,5e7872d4-cddf-4f66-843d-6cf110918411,1003,Alexis Scott,Female,38,1784.05,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,af7e0d1a-1c26-49ca-8a7f-76fd62d8b5d8,1003,Alexis Scott,Female,38,255.6,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,379fde94-43b9-41e1-bb1d-90af4ad362f7,1003,Alexis Scott,Female,38,115.06,Deposit,NYC 6th Ave 44th St Branch
+1/5/2025,618107ae-4ee9-4d51-a753-d89186a570ec,1003,Alexis Scott,Female,38,1435.81,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,8f3d2bf0-14b3-4152-895b-51f5fdadca28,1003,Alexis Scott,Female,38,1988.72,Deposit,"Garden City, NY Main  Branch"
+1/5/2025,1da268f2-95fd-4598-b441-d572338c2789,1003,Alexis Scott,Female,38,2050.95,Withdrawal,NYC 6th Ave 44th St Branch
+1/5/2025,df21b9d9-6268-490b-94df-ce9b61a4d4ee,1003,Alexis Scott,Female,38,2402.61,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,7f0ba16a-b286-4b7f-91a0-783c5eae0f6e,1003,Alexis Scott,Female,38,1075.71,Withdrawal,NYC 6th Ave 44th St Branch
+1/5/2025,a6e4f2d8-44b1-46ce-8c90-e7503f10dadd,1003,Alexis Scott,Female,38,2335.17,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,d7253fd6-4571-4287-b7fc-0e6a2a829d49,1003,Alexis Scott,Female,38,998.05,Deposit,Brooklyn 4th Street Branch 2
+1/5/2025,79caada6-60ad-4df6-9109-6a3d95eca9a9,1003,Alexis Scott,Female,38,2005.34,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,140a2297-52fa-4f9c-a076-ed926715d814,1003,Alexis Scott,Female,38,802.7,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/5/2025,0fd637a0-3955-49ac-a0af-26cdb0b876b5,1003,Alexis Scott,Female,38,279.73,Deposit,Brooklyn 4th Street Branch 2
+1/5/2025,3f55a6ef-fbac-404a-94e6-ba5de031510f,1003,Alexis Scott,Female,38,2365.2,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,77cc0777-c1d4-4b4a-b6f4-82d778b9c6b1,1003,Alexis Scott,Female,38,608.16,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,64f5bda3-25ae-4426-b66e-261fd13fc220,1003,Alexis Scott,Female,38,2129.51,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,d0816da7-2898-4968-be25-f1cb0129636b,1003,Alexis Scott,Female,38,569.63,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,b79246ed-d915-4be2-929b-99c5b0836c67,1003,Alexis Scott,Female,38,220.34,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,d4a1097a-e724-467f-b648-7b6213ac7e76,1003,Alexis Scott,Female,38,335.66,Withdrawal,Staten Island ATM 1
+1/5/2025,aaabe858-3424-457c-a642-e08612ed8036,1003,Alexis Scott,Female,38,2372.12,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,f9cdc46a-22e3-45d9-8dc7-7cf2ea4ac1e2,1003,Alexis Scott,Female,38,1235.6,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,2304b0cb-e42a-43d7-b7c0-59acbca0ad3e,1003,Alexis Scott,Female,38,217.09,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,8b436542-8ea9-4054-87a5-995c3e85cd20,1003,Alexis Scott,Female,38,171.55,Deposit,"Bay Shore, NY ATM 2"
 1/1/2025,bba56740-cc60-4169-ad3b-7e1c044ab7f8,1004,Brianna Horton,Other,7,2054.19,Withdrawal,Staten Island ATM 1
 1/1/2025,5df0524c-1c34-4f34-ba00-0e0a01530794,1004,Brianna Horton,Other,7,1594.37,Withdrawal,"Bay Shore, NY ATM 2"
 1/1/2025,4bfbde68-eade-4f4f-9ca9-0fb41a42c71e,1004,Brianna Horton,Other,7,1024.28,Deposit,Staten Island ATM 1
@@ -386,500 +386,500 @@ TransactionDate,TransactionID,CustomerID,CustomerName,CustomerEthnicity,Customer
 1/5/2025,7c09acea-9fcd-48dd-a209-452dc422d68f,1004,Brianna Horton,Other,7,1240.1,Withdrawal,Brooklyn 4th Street Branch 2
 1/5/2025,3ac8d4e2-b646-4984-a526-1a0b4e0abdb7,1004,Brianna Horton,Other,7,1890.5,Withdrawal,NYC 6th Ave 44th St Branch
 1/5/2025,7ae1f667-dfee-451f-a92f-2003a19fc5dd,1004,Brianna Horton,Other,7,169.55,Deposit,Staten Island ATM 1
-1/1/2025,bc909c58-28e8-4fdc-af2b-31ad140ede0b,1005,Tracie Rios,Black,12,892.32,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,9c5cf41b-8839-46da-ab08-6bf71864309c,1005,Tracie Rios,Black,12,1965.27,Withdrawal,Staten Island ATM 1
-1/1/2025,c06f35f1-f963-499c-a09a-cd6d8e26667d,1005,Tracie Rios,Black,12,1257.47,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,ff18bca7-1635-45fb-9e65-39b7375b394f,1005,Tracie Rios,Black,12,1878.78,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,bd87b89f-5e40-45c7-af0b-354e8cc5f4d2,1005,Tracie Rios,Black,12,16.41,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,d1b23a32-3be3-4ccc-997b-dbacdc45f1bd,1005,Tracie Rios,Black,12,2468.15,Deposit,Staten Island ATM 1
-1/1/2025,5e611183-e55c-4970-bc15-cb21c5d8f1a3,1005,Tracie Rios,Black,12,2470.68,Deposit,Staten Island ATM 1
-1/1/2025,05a64b11-ec7e-4e76-8054-03fd275f05ce,1005,Tracie Rios,Black,12,1207.7,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,a4d59941-621b-450b-922d-4607d7240bf3,1005,Tracie Rios,Black,12,2229.99,Deposit,Staten Island ATM 1
-1/1/2025,4699854a-a241-4625-a9f0-fd440e9d5fe2,1005,Tracie Rios,Black,12,847.62,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,e04dfcaa-8a16-4343-9cfa-8880af000f48,1005,Tracie Rios,Black,12,2369.45,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,8ec22d0f-e0d4-492d-945a-8424b98ed68c,1005,Tracie Rios,Black,12,2245.56,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,b0e4071b-803f-43bb-90f1-a1cd615e2aa5,1005,Tracie Rios,Black,12,362.44,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,ebff18c4-7ffb-4428-9a10-6a65ebf4660f,1005,Tracie Rios,Black,12,1736.76,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,08dfdf66-30ce-4daf-b210-13f0a0420c31,1005,Tracie Rios,Black,12,1757.01,Deposit,Staten Island ATM 1
-1/1/2025,9d9e5fe1-30c8-4f24-9eb7-ae28bf8980df,1005,Tracie Rios,Black,12,1683.47,Deposit,Staten Island ATM 1
-1/1/2025,e8153ca6-fd64-430f-8ac7-2862caaced52,1005,Tracie Rios,Black,12,537.9,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/2/2025,0f4be137-ea77-4302-8e1c-3e90c78931ab,1005,Tracie Rios,Black,12,1192.03,Withdrawal,Staten Island ATM 1
-1/2/2025,1c10dcc9-9c1e-4b09-874e-fed226d0692e,1005,Tracie Rios,Black,12,273.31,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,c32591e0-2702-4902-be3f-d5587d789c0d,1005,Tracie Rios,Black,12,1378.74,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,93312392-3c6a-4594-8b5c-5f6b4cf844fb,1005,Tracie Rios,Black,12,763.48,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,bc6c6daf-54d8-4d48-b3cf-7b471111761f,1005,Tracie Rios,Black,12,1976.46,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,211933b2-6c77-41d6-ab07-60b17e2aef88,1005,Tracie Rios,Black,12,328.98,Deposit,NYC 6th Ave 44th St Branch
-1/2/2025,0a15a855-cc13-4d6c-9404-81bab73cdcbc,1005,Tracie Rios,Black,12,2304.56,Deposit,"Bay Shore, NY ATM 2"
-1/2/2025,533251ca-8831-4928-8a81-3415b0335b83,1005,Tracie Rios,Black,12,1402.47,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,ec427c2b-0a2f-4761-9667-8365e88556d0,1005,Tracie Rios,Black,12,2252.45,Deposit,Staten Island ATM 1
-1/2/2025,a6fb5629-b872-486e-bd91-9bfe16760ed8,1005,Tracie Rios,Black,12,1373.46,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,36a70595-7b94-40b9-870b-bd49d3d515de,1005,Tracie Rios,Black,12,2059.37,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,ec0089a0-70db-4b52-bd7a-f99ce5815172,1005,Tracie Rios,Black,12,1386.89,Withdrawal,Staten Island ATM 1
-1/2/2025,60870c94-34ce-4f37-b64d-b92ba6613350,1005,Tracie Rios,Black,12,2144.03,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,32bc277f-2a50-4743-b4e2-6dbbe74d50e9,1005,Tracie Rios,Black,12,647.78,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,35100c8e-a100-42d7-b4b1-6249cb91f222,1005,Tracie Rios,Black,12,552.3,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,7b5e4791-e020-4875-bdf2-72532ab8e798,1005,Tracie Rios,Black,12,1482.51,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,55f7fb9c-3f42-462b-9923-98dd2bd2a4ef,1005,Tracie Rios,Black,12,1863.91,Deposit,"Garden City, NY Main  Branch"
-1/3/2025,6f1105fc-47ff-44b8-b9c9-fb64e8455098,1005,Tracie Rios,Black,12,2344.1,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/3/2025,97f35289-665e-4b38-a2ac-f3c06a2313dc,1005,Tracie Rios,Black,12,1014.79,Deposit,Staten Island ATM 1
-1/3/2025,5a8645e4-424e-447b-a56b-dae0de3ace78,1005,Tracie Rios,Black,12,2493.1,Withdrawal,Brooklyn 4th Street Branch 2
-1/3/2025,a31ad851-06a6-42e5-9808-4d031cbb0155,1005,Tracie Rios,Black,12,1235.51,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,79436576-2d35-414c-9cd1-02ee05755b94,1005,Tracie Rios,Black,12,1671.27,Deposit,Staten Island ATM 1
-1/3/2025,b22e1272-8ddb-4e45-bc42-9927caf85e51,1005,Tracie Rios,Black,12,988.09,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,7a251d3f-730c-4f4a-8a6d-4401503b1e58,1005,Tracie Rios,Black,12,213.38,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,fb268dcb-ce25-4129-98b1-c8e8b3444e54,1005,Tracie Rios,Black,12,1014.09,Withdrawal,"Garden City, NY Main  Branch"
-1/3/2025,362edfd7-81dc-4d5b-b23d-a74c74e63f8a,1005,Tracie Rios,Black,12,968.91,Withdrawal,Brooklyn 4th Street Branch 2
-1/3/2025,7dbcfe16-1c44-4034-a39f-03e553096f35,1005,Tracie Rios,Black,12,1301.32,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,e9dfb856-1720-4bd9-b323-6a0788e13834,1005,Tracie Rios,Black,12,2416.96,Withdrawal,"Bay Shore, NY ATM 2"
-1/3/2025,77af9480-1872-413a-8f51-3c3d736964d9,1005,Tracie Rios,Black,12,2359.35,Withdrawal,"Garden City, NY Main  Branch"
-1/3/2025,86e30c20-7f91-4fcf-9ca0-c3de191b531a,1005,Tracie Rios,Black,12,304.91,Withdrawal,Staten Island ATM 1
-1/3/2025,7c439d0e-2162-40e7-a9d6-fb44116f1927,1005,Tracie Rios,Black,12,1519.22,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,4a6162a8-2e6d-45e1-a0ca-b938f37b8802,1005,Tracie Rios,Black,12,1058.57,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,853fe7a5-2713-45be-8dcb-2367168596ce,1005,Tracie Rios,Black,12,1327.97,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,27aeb661-b8ed-45e5-aba6-4c4e0c91b61c,1005,Tracie Rios,Black,12,1444.33,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,e83ee966-0dc6-4a0f-907c-c66b3113bc46,1005,Tracie Rios,Black,12,965.57,Withdrawal,Brooklyn 4th Street Branch 2
-1/3/2025,7eba2231-31b9-41ff-8e01-83fa9b266b7f,1005,Tracie Rios,Black,12,1710.58,Deposit,NYC 6th Ave 44th St Branch
-1/4/2025,bea5dc6b-d1f0-4f00-9c8d-a0722a545215,1005,Tracie Rios,Black,12,1084.76,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,ac337470-cf33-4924-ab88-5b4f6f94499c,1005,Tracie Rios,Black,12,1165.87,Deposit,Staten Island ATM 1
-1/4/2025,5a33b98b-427f-4329-a536-bd53e0c8374f,1005,Tracie Rios,Black,12,901.92,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,e395bff5-9902-4203-9a40-134f396a7b7d,1005,Tracie Rios,Black,12,1258.91,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,da25952f-d98f-4fc7-8f0b-b0feaec1f6fc,1005,Tracie Rios,Black,12,1163.2,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,83778e93-390a-4f16-8b6e-a66c74dc5c8f,1005,Tracie Rios,Black,12,1322.31,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,b5836261-2a2b-49c7-9db3-5ac8d18bbce7,1005,Tracie Rios,Black,12,166.84,Deposit,"Bay Shore, NY ATM 2"
-1/4/2025,75fe33ff-c7ad-463b-b5df-b48f0ce2a03e,1005,Tracie Rios,Black,12,418.08,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,e429d2c0-9651-4fd1-949a-f7b406cfc910,1005,Tracie Rios,Black,12,815.53,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,3f3eab72-e887-4ea2-b068-cc265d2bc76e,1005,Tracie Rios,Black,12,2123.47,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,3381bc4b-c4f3-42a6-9834-51bcb4c34153,1005,Tracie Rios,Black,12,2115.69,Withdrawal,Staten Island ATM 1
-1/4/2025,23951929-66ca-4eec-9d8f-fc9a99582eea,1005,Tracie Rios,Black,12,2111.9,Deposit,NYC 6th Ave 44th St Branch
-1/4/2025,1d303c0a-e3b2-474b-8ec2-244c2b1a8834,1005,Tracie Rios,Black,12,237.96,Deposit,NYC 6th Ave 44th St Branch
-1/4/2025,cb2e5275-c7cf-4214-baf4-c01f1bd258e4,1005,Tracie Rios,Black,12,2391.27,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,03b35f82-f4ce-4c46-88a5-3f65e6ec73a9,1005,Tracie Rios,Black,12,103.27,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,04facc65-4c97-4df5-a588-d6f62936ac20,1005,Tracie Rios,Black,12,1905.58,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,79cf83fb-33ce-493a-9710-049954a3d8bf,1005,Tracie Rios,Black,12,175,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,c8de02ea-8bb4-473a-8d36-15f2c34f8d9b,1005,Tracie Rios,Black,12,1347.07,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,afc1c7e1-72bd-4e0e-bd79-90add49c4a6f,1005,Tracie Rios,Black,12,1584.97,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,8f0da099-68ff-4d7e-97c8-2ae6b903b3b7,1005,Tracie Rios,Black,12,202.37,Deposit,NYC 6th Ave 44th St Branch
-1/5/2025,d019973d-97f3-44e6-8ddb-2b0d2dcd0c5c,1005,Tracie Rios,Black,12,1367.9,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,64ebaf38-dd92-4458-ba07-07168dcac247,1005,Tracie Rios,Black,12,1188.51,Withdrawal,Staten Island ATM 1
-1/5/2025,23024218-8282-4522-8151-c21f60efcce3,1005,Tracie Rios,Black,12,649.64,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,60f14d14-755b-40ea-949f-f61d62e28a8c,1005,Tracie Rios,Black,12,622.23,Deposit,Brooklyn 4th Street Branch 2
-1/5/2025,3b1b48f9-94ca-4d8e-be80-51dbb2f37726,1005,Tracie Rios,Black,12,2094.51,Withdrawal,Staten Island ATM 1
-1/5/2025,79d4c70a-8117-4e82-b6d0-5abd88f3aa23,1005,Tracie Rios,Black,12,185.7,Deposit,Staten Island ATM 1
-1/5/2025,d4970d53-0670-42d5-952e-791d05a777e6,1005,Tracie Rios,Black,12,1537.39,Withdrawal,NYC 6th Ave 44th St Branch
-1/5/2025,42740971-9cf2-4681-8821-e30566790038,1005,Tracie Rios,Black,12,53.85,Withdrawal,NYC 6th Ave 44th St Branch
-1/5/2025,e9165f17-4ac6-4333-945d-f6402525a262,1005,Tracie Rios,Black,12,1045.66,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,ac7eb735-1cf2-42f9-840b-7c2fcc7ef5a8,1005,Tracie Rios,Black,12,2219.39,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,83c18f79-5b28-40ba-a7cb-d2303990ba4a,1005,Tracie Rios,Black,12,565.37,Deposit,Staten Island ATM 1
-1/5/2025,b5a7feeb-a8b2-45e9-ae74-9ddc42f09611,1005,Tracie Rios,Black,12,984.56,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/5/2025,5d9008e7-181e-42b8-a5bf-1f8f67f0ec99,1005,Tracie Rios,Black,12,1712.01,Withdrawal,Staten Island ATM 1
-1/5/2025,fedd94d1-22bb-4acc-a8ac-a9c031251391,1005,Tracie Rios,Black,12,1300.7,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,2934c727-25aa-4d3d-9f3e-66b97b7d8b0f,1005,Tracie Rios,Black,12,1290.84,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,6de85e9e-fbbb-40b9-90c3-61e01b7a5af0,1005,Tracie Rios,Black,12,1864.19,Deposit,"Albany, NY, Main Street Branch 3"
-1/5/2025,3315fa3f-4621-4c32-a319-c3547554551b,1005,Tracie Rios,Black,12,828.6,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,90b3b16e-4821-455d-a6c9-17a3d39df03b,1005,Tracie Rios,Black,12,1696.01,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,705845f6-22f5-4e48-a5b1-ccd950e6aef1,1006,Natalie Anderson,White,56,2077.28,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,44e03ef5-8bde-44a0-add9-446c5ed8e51e,1006,Natalie Anderson,White,56,144.5,Deposit,NYC 6th Ave 44th St Branch
-1/1/2025,0af733e2-fcf8-4ad2-8aeb-be7fe6e094dc,1006,Natalie Anderson,White,56,396.81,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,d2774796-59a6-458d-b7d4-26548c6426d0,1006,Natalie Anderson,White,56,1672.05,Withdrawal,Staten Island ATM 1
-1/1/2025,85ea548e-e8c0-481d-a021-e0afaa1244cf,1006,Natalie Anderson,White,56,1474.03,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,6f3551cd-6a29-4e96-86b8-f64cb4c3b3d2,1006,Natalie Anderson,White,56,148.05,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,03bae30d-e4af-4942-b50f-39c6c8e74699,1006,Natalie Anderson,White,56,1075.12,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,ae0ef094-460b-42a6-9cc8-04b4cad0a957,1006,Natalie Anderson,White,56,2343.6,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,2b8d7931-c1bf-4c7e-aef0-62b628c52715,1006,Natalie Anderson,White,56,1886.98,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,69fcbaae-168a-4c7b-9be1-b91f52c28fbd,1006,Natalie Anderson,White,56,1007.35,Withdrawal,Staten Island ATM 1
-1/1/2025,b7aae8a2-b941-417f-888e-089e2324fd1e,1006,Natalie Anderson,White,56,1049.09,Withdrawal,NYC 6th Ave 44th St Branch
-1/1/2025,a3c4bbd8-6d54-4dd9-bd06-86f68b86939e,1006,Natalie Anderson,White,56,1423.57,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,2bec5e35-12db-4604-84f1-039750b94fa1,1006,Natalie Anderson,White,56,1584.58,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,3bfa15cf-8363-49db-b9cf-9328ee0a6891,1006,Natalie Anderson,White,56,231.35,Withdrawal,"Bay Shore, NY ATM 2"
-1/1/2025,07c368e2-4ff3-40eb-8166-fd9d5230ee11,1006,Natalie Anderson,White,56,1614.41,Deposit,Staten Island ATM 1
-1/1/2025,9eca2d15-eb9f-4f9a-b124-a11baacb6ee0,1006,Natalie Anderson,White,56,995.91,Withdrawal,Staten Island ATM 1
-1/1/2025,6f3fc2cf-99c8-4b53-87e5-fae7bc96abe3,1006,Natalie Anderson,White,56,2369.42,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,d9d5d1a2-28f6-4551-9933-a5d287321ddd,1006,Natalie Anderson,White,56,42.08,Deposit,"Bay Shore, NY ATM 2"
-1/2/2025,1ee18154-709e-4dbb-b07d-b9ad43782554,1006,Natalie Anderson,White,56,1507.1,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,ec645acd-8cc0-4610-a357-f9596ba8ede2,1006,Natalie Anderson,White,56,131.55,Deposit,"Bay Shore, NY ATM 2"
-1/2/2025,79d1c005-2582-4570-b1ae-0aed432a496c,1006,Natalie Anderson,White,56,1175.57,Withdrawal,Brooklyn 4th Street Branch 2
-1/2/2025,ebe39407-24fe-49f0-9c00-6a03e6031131,1006,Natalie Anderson,White,56,140.29,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,b30e9835-d5ac-46c3-b9f4-8a39b727932d,1006,Natalie Anderson,White,56,969.03,Deposit,Staten Island ATM 1
-1/2/2025,ccb5db8f-4964-4c01-b775-44091b9f9029,1006,Natalie Anderson,White,56,1506.39,Deposit,"Albany, NY, Main Street Branch 3"
-1/2/2025,867e9b9c-fad8-41ae-90c4-de140460b199,1006,Natalie Anderson,White,56,935.38,Withdrawal,Staten Island ATM 1
-1/2/2025,068d4735-b7d7-44e1-9a0d-e417875fc8d5,1006,Natalie Anderson,White,56,901.28,Deposit,NYC 6th Ave 44th St Branch
-1/2/2025,8a98a618-a061-4a97-9358-54650f2e62d9,1006,Natalie Anderson,White,56,929.48,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,81146353-5598-47e3-899a-8efb5767ddb7,1006,Natalie Anderson,White,56,1673.61,Deposit,Brooklyn 4th Street Branch 2
-1/2/2025,39311f00-6123-4fff-90fa-f83092b3dbbf,1006,Natalie Anderson,White,56,1509.8,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/2/2025,1c6899e4-a92f-42f2-be12-6df5a86ca230,1006,Natalie Anderson,White,56,621.32,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,25ba027a-4e28-467f-8366-caa515669ccf,1006,Natalie Anderson,White,56,785.09,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/2/2025,38bf10c2-e91d-460b-9a1a-18cd59d8dc1c,1006,Natalie Anderson,White,56,588.22,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,2331a4b6-bba3-4723-9c37-fa56f3c9fcb4,1006,Natalie Anderson,White,56,1706.3,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,b206271b-f11e-4c96-b63e-ab8783fca931,1006,Natalie Anderson,White,56,1803.54,Withdrawal,Staten Island ATM 1
-1/2/2025,94c80826-9a5f-4263-acd0-2abba3866026,1006,Natalie Anderson,White,56,1877.72,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,713d608e-76f9-4be3-a6a4-740cb1e22eda,1006,Natalie Anderson,White,56,689.46,Deposit,"Albany, NY, Main Street Branch 3"
-1/2/2025,b3e3c860-bc1c-41ac-ad16-78d71d5e124d,1006,Natalie Anderson,White,56,71.85,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,ddb67aa1-2c37-4926-af62-77a7219b82ee,1006,Natalie Anderson,White,56,1894.38,Withdrawal,Brooklyn 4th Street Branch 2
-1/2/2025,3993f6e6-dd26-4df8-9471-bfb6cd238882,1006,Natalie Anderson,White,56,103.55,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,5c57364c-9632-4ae8-9b0e-ffb3ebd66d52,1006,Natalie Anderson,White,56,1680.33,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,e4d7eb6c-e24d-474a-9352-768afc5f2067,1006,Natalie Anderson,White,56,452.58,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/2/2025,357a8a9c-21ea-4aad-a32c-1926cbcd71e2,1006,Natalie Anderson,White,56,1481.8,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,c896cee7-74fa-46e5-b916-2d2f45b5a42f,1006,Natalie Anderson,White,56,700.33,Withdrawal,Staten Island ATM 1
-1/3/2025,7f21b80a-807e-4457-b9f6-1709513d13d2,1006,Natalie Anderson,White,56,1710.8,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/3/2025,ab1b854e-6c86-4fc3-be64-f1deb31934b7,1006,Natalie Anderson,White,56,311.89,Withdrawal,Staten Island ATM 1
-1/3/2025,c5a7145b-50cc-4c2b-ad5b-ead151471f3b,1006,Natalie Anderson,White,56,1231.58,Withdrawal,"Garden City, NY Main  Branch"
-1/3/2025,f8426ee5-cf8d-450a-8ed4-a1b6aed936fd,1006,Natalie Anderson,White,56,1145.38,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,a0fac54e-d464-4317-9c98-763e150aa53e,1006,Natalie Anderson,White,56,1024.68,Deposit,"Garden City, NY Main  Branch"
-1/3/2025,61faf0e6-a26c-4b4c-bd2a-39cc3817bdd2,1006,Natalie Anderson,White,56,883.49,Withdrawal,Brooklyn 4th Street Branch 2
-1/3/2025,bfa33099-748d-4961-9903-7d9328eca4fc,1006,Natalie Anderson,White,56,715.47,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,fc3e79dd-8745-4d19-9f03-0206d08bb45b,1006,Natalie Anderson,White,56,184.87,Deposit,Staten Island ATM 1
-1/3/2025,dfd32c8a-7a20-4cdf-af37-116ef7a97949,1006,Natalie Anderson,White,56,1537.22,Withdrawal,Brooklyn 4th Street Branch 2
-1/3/2025,90427c38-ac59-4a30-90fc-b13874d2e8d0,1006,Natalie Anderson,White,56,1217.3,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,c692775f-5e19-4891-9505-e0675bd3c1b0,1006,Natalie Anderson,White,56,1356.81,Deposit,"Garden City, NY Main  Branch"
-1/3/2025,626b31df-0203-4e90-ae67-0069860a2273,1006,Natalie Anderson,White,56,891.34,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,9e72067c-2ae3-4a17-bb34-2a4b7f444f27,1006,Natalie Anderson,White,56,1653.89,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,b9ab780e-94be-46c8-8105-a8f2f8cd9bde,1006,Natalie Anderson,White,56,857.83,Deposit,"Albany, NY, Main Street Branch 3"
-1/3/2025,28ba90ae-fbad-4c8e-803e-2a6f9212d496,1006,Natalie Anderson,White,56,5.59,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,6d9708df-9c23-4590-8f09-647eaaee5cab,1006,Natalie Anderson,White,56,526.18,Deposit,"Garden City, NY Main  Branch"
-1/3/2025,c7a0b388-938a-4bad-a69d-c89fbbf1e246,1006,Natalie Anderson,White,56,1952.84,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,7cf1579f-901b-47df-84e2-bc45fb519654,1006,Natalie Anderson,White,56,761.27,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,9f4c5437-c5d0-4ebd-83ec-6bd6f24a9b6f,1006,Natalie Anderson,White,56,733.56,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,4317b595-7df7-4cf9-94e1-499489f55932,1006,Natalie Anderson,White,56,2179.42,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,f99aad4b-7975-4398-9fd4-71d72109b2a8,1006,Natalie Anderson,White,56,1198.55,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,8f6db373-5377-49ea-ac16-fd5f3da70e5e,1006,Natalie Anderson,White,56,387.21,Deposit,"Bay Shore, NY ATM 2"
-1/4/2025,df781809-cc55-43d4-a7e5-6392e1485e88,1006,Natalie Anderson,White,56,1930.13,Withdrawal,Staten Island ATM 1
-1/4/2025,e289c489-93cb-4852-90ac-a991c98b791c,1006,Natalie Anderson,White,56,364.02,Withdrawal,"Garden City, NY Main  Branch"
-1/4/2025,7a080fd4-2f14-4057-982c-a6f9468241c6,1006,Natalie Anderson,White,56,1180.86,Withdrawal,Staten Island ATM 1
-1/4/2025,4ef4c6cf-9efc-4c5d-9087-5ac054a7784b,1006,Natalie Anderson,White,56,539.18,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,4f2337b6-3a5b-40b2-9a82-69fa48555698,1006,Natalie Anderson,White,56,1098.02,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,d37ce061-c3f0-405a-b5b1-75e8a840704f,1006,Natalie Anderson,White,56,1825.02,Withdrawal,Staten Island ATM 1
-1/4/2025,08702b27-ef0f-431d-825a-6d96ada14316,1006,Natalie Anderson,White,56,548.68,Deposit,"Bay Shore, NY ATM 2"
-1/4/2025,dc790758-d43e-4dbc-ad50-ce86c846d119,1006,Natalie Anderson,White,56,1067.06,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,6695f743-b40f-4881-944a-6a9a4fa24ab2,1006,Natalie Anderson,White,56,84.47,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,32889288-73cb-44e5-b4f5-4064338db07a,1006,Natalie Anderson,White,56,138.48,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,d6a51a8b-1d3d-46c2-844a-8f2d08acd5f6,1006,Natalie Anderson,White,56,463.47,Deposit,NYC 6th Ave 44th St Branch
-1/4/2025,7fee9b11-3e5c-4bb9-9043-3e23af764ddd,1006,Natalie Anderson,White,56,11.42,Deposit,Staten Island ATM 1
-1/4/2025,3a094df9-3ab6-4045-b931-d4a32b8018bc,1006,Natalie Anderson,White,56,1397.9,Withdrawal,Staten Island ATM 1
-1/4/2025,4e5c7b21-e65e-45ec-a700-54b47cfe6a31,1006,Natalie Anderson,White,56,180.74,Withdrawal,Staten Island ATM 1
-1/4/2025,92df7627-1623-49c7-bb5c-c6b916255246,1006,Natalie Anderson,White,56,1079.71,Deposit,Staten Island ATM 1
-1/4/2025,d5dbc691-f050-4f71-a79f-5548fafe1789,1006,Natalie Anderson,White,56,2055.51,Withdrawal,Staten Island ATM 1
-1/4/2025,3372aab2-5daa-46d7-988c-8761ab3762ca,1006,Natalie Anderson,White,56,1939.74,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,31ff23ce-c063-43f7-8dd2-5f7e986048f4,1006,Natalie Anderson,White,56,1935.1,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,b77567d4-c245-4261-bf84-89e5876031a4,1006,Natalie Anderson,White,56,380.41,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,14852128-5f37-4dca-92cc-1cdb111c4b8b,1006,Natalie Anderson,White,56,236.66,Withdrawal,"Garden City, NY Main  Branch"
-1/4/2025,c518df3d-f626-4ca4-a2f3-d3ddb787589b,1006,Natalie Anderson,White,56,910.53,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,124b3b94-e618-4e6c-acea-4944899f8716,1006,Natalie Anderson,White,56,777.31,Deposit,NYC 6th Ave 44th St Branch
-1/5/2025,7d262cbc-977e-4dcf-9179-96850e96ad62,1006,Natalie Anderson,White,56,84.2,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,4de77acf-1906-4ba0-b768-cd176ce250a0,1006,Natalie Anderson,White,56,1169.38,Deposit,Brooklyn 4th Street Branch 2
-1/5/2025,0409d149-562b-4a4e-8f86-055e0ccf6a32,1006,Natalie Anderson,White,56,45.54,Deposit,"Albany, NY, Main Street Branch 3"
-1/5/2025,e51951f8-c672-4caa-8c2a-6e19e6d6c134,1006,Natalie Anderson,White,56,212.43,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,8cb10ae6-c769-48db-aaf0-eaa65fbeabe0,1006,Natalie Anderson,White,56,617.97,Deposit,"Albany, NY, Main Street Branch 3"
-1/5/2025,64fbca8d-9591-498d-8bae-9f744215575e,1006,Natalie Anderson,White,56,1450.43,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,f8c22cd8-797e-4df8-8f12-693a00463fcc,1006,Natalie Anderson,White,56,2440.2,Deposit,Staten Island ATM 1
-1/5/2025,3233b8af-61a7-4418-9cc8-8d50eaa43d72,1006,Natalie Anderson,White,56,442.61,Withdrawal,NYC 6th Ave 44th St Branch
-1/5/2025,8b15871b-89c2-4e86-92ac-191f60ecf723,1006,Natalie Anderson,White,56,1439.84,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,ea9aacad-0ff7-4a87-bb71-0e20e0cee411,1006,Natalie Anderson,White,56,889.86,Withdrawal,NYC 6th Ave 44th St Branch
-1/5/2025,87d8b32c-8f0f-4054-bb04-09a1a126e611,1006,Natalie Anderson,White,56,41.59,Deposit,Staten Island ATM 1
-1/5/2025,96bbe02c-51ed-496a-832d-6f23283352cb,1006,Natalie Anderson,White,56,706.43,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,3f6a17c1-7e1b-4d63-9632-9d0d66871e0f,1006,Natalie Anderson,White,56,1213.81,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,8201bd49-5552-4fa2-9982-95e13295c012,1006,Natalie Anderson,White,56,606.14,Deposit,Staten Island ATM 1
-1/5/2025,dd784f39-f6c2-45e5-a7f5-be295627bc5b,1006,Natalie Anderson,White,56,2142.4,Withdrawal,NYC 6th Ave 44th St Branch
-1/5/2025,56283be7-2048-4067-ba91-c18b8230ebe0,1006,Natalie Anderson,White,56,173.42,Deposit,Staten Island ATM 1
-1/5/2025,24b6389e-1e6c-479a-9dfd-d87ba2c7b3a8,1006,Natalie Anderson,White,56,169.32,Deposit,"Albany, NY, Main Street Branch 3"
-1/5/2025,d741619f-18a6-438a-b297-e0e34a341045,1006,Natalie Anderson,White,56,127.66,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,7e3d2faf-2690-4b08-bc6e-e8d34a0a7f02,1007,Tony Acosta,Black,28,1400.18,Deposit,NYC 6th Ave 44th St Branch
-1/1/2025,ccb6eef0-01f6-4332-97c3-0e2965d41dc5,1007,Tony Acosta,Black,28,1966.61,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,3a0b9adc-a672-4c62-9a51-51ee170be445,1007,Tony Acosta,Black,28,987.37,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,b677ad02-fa96-456b-9e91-83dd28adc3fc,1007,Tony Acosta,Black,28,1723.84,Deposit,NYC 6th Ave 44th St Branch
-1/1/2025,d2c841b7-181f-480f-a776-3eb919be3535,1007,Tony Acosta,Black,28,2045.08,Deposit,Staten Island ATM 1
-1/1/2025,5a721ff6-9985-459e-87f6-28a12e4ff9ad,1007,Tony Acosta,Black,28,1364.13,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,88cdfbeb-2fee-40ca-9603-6030467cb6ef,1007,Tony Acosta,Black,28,2483.63,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,27f39392-04d9-4e4b-98ad-485ebd359278,1007,Tony Acosta,Black,28,1633.98,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,65442905-8055-43a6-9123-fe44acce2b22,1007,Tony Acosta,Black,28,1312.32,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,c49a31a4-a0a4-4054-a114-503968b0a668,1007,Tony Acosta,Black,28,1811.27,Deposit,Staten Island ATM 1
-1/1/2025,94e54258-148e-41fb-8159-f413883ef9ad,1007,Tony Acosta,Black,28,1537.37,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,441ae074-4c79-4337-bc2b-d2f3742d0d0b,1007,Tony Acosta,Black,28,634.24,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,a62e5f1d-a444-4851-ba44-de1e8f2e88ec,1007,Tony Acosta,Black,28,824.63,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,80457e89-c535-4ecf-95b8-5832c90bdaa4,1007,Tony Acosta,Black,28,372.24,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,821c81ef-43cd-46db-846b-746bb7f0b68b,1007,Tony Acosta,Black,28,1496.41,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,988b9c81-12ea-4f66-ad75-9b6ef1ece2d2,1007,Tony Acosta,Black,28,81.74,Withdrawal,Staten Island ATM 1
-1/1/2025,379ea11b-d913-4c8e-92c0-70f6ce66c4b1,1007,Tony Acosta,Black,28,132.32,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/1/2025,5dc17d6a-6f83-4477-9ead-160b17ebe383,1007,Tony Acosta,Black,28,842.72,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,9abaf3bc-4790-49ce-ba3b-f067d0d563a1,1007,Tony Acosta,Black,28,1349.61,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,4c319720-75dd-4e8f-aba5-deafa634cb30,1007,Tony Acosta,Black,28,1613.84,Withdrawal,Staten Island ATM 1
-1/1/2025,1277e80f-9ebd-45ce-8989-40a4f11517ed,1007,Tony Acosta,Black,28,766.94,Deposit,Brooklyn 4th Street Branch 2
-1/2/2025,3a4e4c2d-d264-44f1-9e5f-f4999cb9bd51,1007,Tony Acosta,Black,28,1176.47,Deposit,Staten Island ATM 1
-1/2/2025,177097ff-d700-4c57-9816-e1cbb8bd459f,1007,Tony Acosta,Black,28,1291.8,Deposit,Brooklyn 4th Street Branch 2
-1/2/2025,3f3efc97-8b03-4d5b-8ec3-d3d4e3e2c2d9,1007,Tony Acosta,Black,28,520.48,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,873ff3a7-c233-4ebe-b26d-958cb755a67f,1007,Tony Acosta,Black,28,583.11,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/2/2025,5209dc50-b824-46da-8372-828eb37572a1,1007,Tony Acosta,Black,28,1176.32,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,ee008f9d-45ce-4124-8ab5-30af4cfd9ce4,1007,Tony Acosta,Black,28,1874.69,Deposit,"Bay Shore, NY ATM 2"
-1/2/2025,45c436c2-8789-4728-8e14-2dfe5d63597c,1007,Tony Acosta,Black,28,773.36,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,1d4a4815-48b7-4226-90de-2b60543cf487,1007,Tony Acosta,Black,28,1987.76,Withdrawal,Staten Island ATM 1
-1/2/2025,75698b2d-1ff2-43f4-abb3-1aca230a70ac,1007,Tony Acosta,Black,28,381.36,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,317fe238-2b02-499c-82b8-852c1ebe152c,1007,Tony Acosta,Black,28,651.02,Deposit,"Bay Shore, NY ATM 2"
-1/2/2025,3fca8a63-b889-44a9-bbb8-b206e8feb08f,1007,Tony Acosta,Black,28,769.87,Deposit,"Albany, NY, Main Street Branch 3"
-1/2/2025,5926c2d5-1083-4af4-84f8-2d1230be64ea,1007,Tony Acosta,Black,28,508.94,Deposit,Brooklyn 4th Street Branch 2
-1/2/2025,5b9256c2-248a-4b47-92be-1bb49f12a65b,1007,Tony Acosta,Black,28,1194.32,Deposit,Staten Island ATM 1
-1/2/2025,263f2081-0cd2-4888-8264-7df51b442fb7,1007,Tony Acosta,Black,28,2147.99,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,635c999b-c295-4761-9367-a7c9a1edfae3,1007,Tony Acosta,Black,28,180.03,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,c3718002-afc9-455c-af9b-bef92fed19f1,1007,Tony Acosta,Black,28,1089.66,Deposit,"Albany, NY, Main Street Branch 3"
-1/2/2025,932f0cac-bb84-4692-9bd8-be5c5a05ee67,1007,Tony Acosta,Black,28,477.39,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,0ed957ec-79a0-4c2c-8b08-5c7e57d87904,1007,Tony Acosta,Black,28,967.58,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,80925ae2-7896-4a91-84eb-63aa65b3c504,1007,Tony Acosta,Black,28,1241.56,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,f2d10947-e0b1-461d-b519-02857e3f99b6,1007,Tony Acosta,Black,28,1523.99,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,70d6a9a3-60da-443c-b176-d4424af1e9c2,1007,Tony Acosta,Black,28,2114.43,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,e585b1c5-0d88-4c06-9e2d-a3ef3266b62d,1007,Tony Acosta,Black,28,1037.5,Deposit,Staten Island ATM 1
-1/2/2025,7ed364bc-1ac5-4f02-9198-da6877a3ef61,1007,Tony Acosta,Black,28,1959.47,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,12fb15aa-e541-4dbc-84a1-501d23a62c79,1007,Tony Acosta,Black,28,794.65,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,1193baa6-ffbe-4285-80d7-4d3a4615317f,1007,Tony Acosta,Black,28,934.1,Withdrawal,Staten Island ATM 1
-1/2/2025,8af72e79-0da6-41d0-a2b4-49029432884e,1007,Tony Acosta,Black,28,2454.04,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,0b18199b-b3ba-42d1-a4e9-d2339298a75d,1007,Tony Acosta,Black,28,1148.7,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,002496cc-0827-47de-869f-0658cf658cfc,1007,Tony Acosta,Black,28,1873.58,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,1ef4ced5-4bfe-4eb2-876b-cf98eb2f31ee,1007,Tony Acosta,Black,28,1110.86,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,5781715e-b4c5-400d-8d98-8fc54bf88204,1007,Tony Acosta,Black,28,717.46,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,8b5dbe44-55e3-4a75-860b-83a5a869cd13,1007,Tony Acosta,Black,28,1995.79,Deposit,"Garden City, NY Main  Branch"
-1/3/2025,04c1b5d6-4d7e-43e1-b409-e844cd44796e,1007,Tony Acosta,Black,28,1349.53,Withdrawal,Brooklyn 4th Street Branch 2
-1/3/2025,55cf8fbc-0d8b-465f-a7e4-691016ffde35,1007,Tony Acosta,Black,28,2098.13,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/3/2025,475c1a61-dcee-411d-a6b1-af09c1f81951,1007,Tony Acosta,Black,28,897.52,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,2face9a9-2bf4-448b-84db-edbd8bb3e954,1007,Tony Acosta,Black,28,267.34,Withdrawal,Brooklyn 4th Street Branch 2
-1/3/2025,8d03cb83-1294-40a6-8c60-d723b78edf6c,1007,Tony Acosta,Black,28,658.03,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,658aa15b-6da8-437c-a596-00f1c252c3f4,1007,Tony Acosta,Black,28,1314.32,Withdrawal,Staten Island ATM 1
-1/3/2025,0894ab84-0d26-416a-a96e-b4b076c359d1,1007,Tony Acosta,Black,28,1085.56,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,5c58bb76-9597-41f7-89cf-dc030a8d69c2,1007,Tony Acosta,Black,28,1836.99,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/3/2025,a55a16cb-87d3-4c13-9373-7f7fc5e0f975,1007,Tony Acosta,Black,28,2122.9,Deposit,Staten Island ATM 1
-1/3/2025,53d63811-d197-4e05-b876-f6672904bec6,1007,Tony Acosta,Black,28,1478.24,Deposit,"Albany, NY, Main Street Branch 3"
-1/3/2025,8e70bd2c-0124-430d-a809-68ed842320f7,1007,Tony Acosta,Black,28,1260.43,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,a2273a06-da5c-4cb3-886b-bcb041ac891c,1007,Tony Acosta,Black,28,436.29,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,ef0c3f0a-a60c-4041-b444-bb24badd9b08,1007,Tony Acosta,Black,28,2331.18,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,98cd8b62-3375-47ce-a18e-a1f6cf91c72c,1007,Tony Acosta,Black,28,339.6,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,a91c1d80-7f16-4937-9f86-3d91b8f6421f,1007,Tony Acosta,Black,28,640.64,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,7ce9b0e0-ce92-4e8f-9075-9cb35d85cbc0,1007,Tony Acosta,Black,28,1431.72,Withdrawal,Staten Island ATM 1
-1/4/2025,cdfee403-4381-499c-9774-fe9ba57e46cc,1007,Tony Acosta,Black,28,910.55,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,a0e89dad-0ea8-4ff3-b130-04c307ed25d4,1007,Tony Acosta,Black,28,883.69,Deposit,"Bay Shore, NY ATM 2"
-1/4/2025,fa7fd267-2b39-490e-b1fc-7e068e5342aa,1007,Tony Acosta,Black,28,567.61,Deposit,"Bay Shore, NY ATM 2"
-1/4/2025,1cbb5800-3d12-40e2-acea-c97bd6b924ad,1007,Tony Acosta,Black,28,619.47,Withdrawal,Staten Island ATM 1
-1/4/2025,4e96e881-e053-42ab-aff1-706c93ef5027,1007,Tony Acosta,Black,28,2383,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,b9947e7b-2ef5-4b91-ae05-b68af50e079d,1007,Tony Acosta,Black,28,1242.45,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,75ca3329-eb4f-4ac4-9b86-ec7bc3ef1c15,1007,Tony Acosta,Black,28,1286.62,Withdrawal,"Garden City, NY Main  Branch"
-1/4/2025,ba0b9908-5197-4983-a455-fac744aae569,1007,Tony Acosta,Black,28,2392.88,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,d54767a1-0b33-43d4-b5be-3cd1f9cc67cc,1007,Tony Acosta,Black,28,1886.13,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,deb9df07-4793-4cde-b5b7-a8ba12acdbad,1007,Tony Acosta,Black,28,2240.71,Deposit,NYC 6th Ave 44th St Branch
-1/4/2025,214b0143-72b4-4bb0-8cd7-74cca3f06152,1007,Tony Acosta,Black,28,2011.07,Withdrawal,Staten Island ATM 1
-1/4/2025,b578d178-1eaa-4ace-8843-b1f0bc813d1c,1007,Tony Acosta,Black,28,657.54,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,9de8a60a-30c2-4621-a1ea-bbdd3a355396,1007,Tony Acosta,Black,28,2326.81,Withdrawal,Staten Island ATM 1
-1/4/2025,cf797691-3ad7-40b8-bbf3-1ed236788482,1007,Tony Acosta,Black,28,998.88,Withdrawal,Staten Island ATM 1
-1/4/2025,91c52c0d-21b0-4ce7-8ee5-0c61db2e42ea,1007,Tony Acosta,Black,28,2260.96,Deposit,NYC 6th Ave 44th St Branch
-1/4/2025,ae59aaf9-f697-43c6-b575-484e0b6d999c,1007,Tony Acosta,Black,28,1058.91,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,28631fb8-184b-45d3-898d-117c80e7e169,1007,Tony Acosta,Black,28,658.86,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,b2ca58ee-a4c7-461f-ace7-0da27ce660eb,1007,Tony Acosta,Black,28,1898.51,Deposit,NYC 6th Ave 44th St Branch
-1/5/2025,3fb648c1-3fc2-4e17-8f59-f3c4c5442018,1007,Tony Acosta,Black,28,1813.24,Deposit,Brooklyn 4th Street Branch 2
-1/5/2025,67c0afa3-f011-4fcb-8166-fed5b115edfb,1007,Tony Acosta,Black,28,1439.57,Deposit,"Albany, NY, Main Street Branch 3"
-1/5/2025,59d24218-8ea9-48d6-8bee-2fae4e566569,1007,Tony Acosta,Black,28,1502,Deposit,NYC 6th Ave 44th St Branch
-1/5/2025,90b8cf14-8989-4a1b-9829-f21ffc362d06,1007,Tony Acosta,Black,28,1613.67,Deposit,"Garden City, NY Main  Branch"
-1/5/2025,b5307070-6599-4e53-84a9-65b28d772b61,1007,Tony Acosta,Black,28,1480,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,449c3720-12d5-4484-87df-0d4926e841fc,1007,Tony Acosta,Black,28,2071.23,Withdrawal,Staten Island ATM 1
-1/5/2025,5561ea49-28ad-40b5-af52-36fd832b75a0,1007,Tony Acosta,Black,28,198.71,Withdrawal,NYC 6th Ave 44th St Branch
-1/5/2025,d6beb0b6-a497-4e40-9b6b-757cb8a9ed5a,1007,Tony Acosta,Black,28,1627.98,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,1a310db7-90b7-469b-b9b6-7fe3322ef00b,1007,Tony Acosta,Black,28,654.06,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,6a3e4206-7253-4230-8380-9150de64d0ac,1007,Tony Acosta,Black,28,2314.57,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,d8d530b8-1a59-46a4-b220-4d45f7b9ad36,1007,Tony Acosta,Black,28,689.72,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,e4d3c9aa-9b8f-4cf8-9f46-fcf7b3147133,1007,Tony Acosta,Black,28,420.33,Withdrawal,Staten Island ATM 1
-1/5/2025,8e549bde-a34d-42fc-80cc-077e7ead2190,1007,Tony Acosta,Black,28,2122.85,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,c50f0998-0e73-4ae3-a1a7-a41646f8ad63,1007,Tony Acosta,Black,28,706.21,Deposit,"Garden City, NY Main  Branch"
-1/5/2025,5326f706-51f0-40a5-a12d-6929283adaca,1007,Tony Acosta,Black,28,827.65,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,4c2fb236-a27b-4e8e-acc7-d9cb3f13ae7a,1007,Tony Acosta,Black,28,1657.88,Withdrawal,Staten Island ATM 1
-1/5/2025,3b72a96a-0cd3-4fa1-990a-a72e59e49bde,1007,Tony Acosta,Black,28,2024.94,Deposit,Staten Island ATM 1
-1/5/2025,453e1bf2-e01e-4d84-8878-cf8b27b09c41,1007,Tony Acosta,Black,28,314.25,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,aba6c368-d1bb-486b-a1ec-f4fc278c990d,1007,Tony Acosta,Black,28,1449.6,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,566cd81a-dc31-44e1-83a1-d540b1fd74ce,1007,Tony Acosta,Black,28,1873.76,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,7f9ff81c-13b1-47db-a5e4-3264dfe19a6f,1007,Tony Acosta,Black,28,278.61,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,b8d9d900-cb60-449a-b599-4d2b93fc2743,1007,Tony Acosta,Black,28,64.72,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,59bcfcfc-b8a4-44b6-ad69-1981d39b959c,1007,Tony Acosta,Black,28,1327.89,Deposit,"Albany, NY, Main Street Branch 3"
-1/5/2025,60cb734c-6cd6-44cd-8aa7-4a1489761397,1007,Tony Acosta,Black,28,1763.22,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,1095308d-fab8-4ab3-b60f-fe694d4aa2c2,1008,Kristin Williams,White,53,750.86,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,6f41dbdf-b518-4150-8d1c-9bb2b7e03ec3,1008,Kristin Williams,White,53,1456.9,Withdrawal,"Bay Shore, NY ATM 2"
-1/1/2025,63dd0070-4f8b-4a8c-8939-dfb4cc93f670,1008,Kristin Williams,White,53,1397.37,Withdrawal,Staten Island ATM 1
-1/1/2025,c810632e-6f9c-41e1-9ff8-4eb9ddcbb970,1008,Kristin Williams,White,53,366.12,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,7e560bae-2cdb-48d6-8484-17e5ec62e39a,1008,Kristin Williams,White,53,1741.37,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,ff72d613-ebd8-4c74-8a57-98b5043ad8e2,1008,Kristin Williams,White,53,1374.41,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,6edb4aac-6d9c-4ec9-99a0-c8fb636b0f27,1008,Kristin Williams,White,53,559.43,Withdrawal,"Bay Shore, NY ATM 2"
-1/1/2025,97067d63-2f97-4844-8505-aaaf34708254,1008,Kristin Williams,White,53,357.49,Withdrawal,Staten Island ATM 1
-1/1/2025,a522adcf-3ad5-466a-8d24-841dd25e53ed,1008,Kristin Williams,White,53,2422.95,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,0c297189-ccec-483e-b722-cfe93ade45e6,1008,Kristin Williams,White,53,1685.98,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,0ac56b9e-cb0e-425d-b849-6d72367f3406,1008,Kristin Williams,White,53,204.46,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,4ab23fd8-4927-43f8-b38f-3e484b2f23f6,1008,Kristin Williams,White,53,1295.5,Deposit,"Albany, NY, Main Street Branch 3"
-1/1/2025,39aecdc9-b0d5-4c66-a26f-53f64989722e,1008,Kristin Williams,White,53,2112.13,Withdrawal,"Bay Shore, NY ATM 2"
-1/1/2025,47f84d97-f75d-4e6d-ab7e-493ff63e42fa,1008,Kristin Williams,White,53,747.47,Withdrawal,NYC 6th Ave 44th St Branch
-1/1/2025,ff552eb3-2c95-4266-8a5c-a102f28de67a,1008,Kristin Williams,White,53,1656.3,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,81e6b3a1-9b6b-4038-a65d-5cbdb78fd247,1008,Kristin Williams,White,53,1513.26,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,919919d5-b687-441e-bb03-fef51ba27d21,1008,Kristin Williams,White,53,2317.26,Deposit,Staten Island ATM 1
-1/1/2025,44c20cfb-ec8c-4b4e-966c-d516b0886ae0,1008,Kristin Williams,White,53,2429.13,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,17cb11cd-5a11-4abe-8e80-c6340b01a839,1008,Kristin Williams,White,53,784.51,Withdrawal,Staten Island ATM 1
-1/1/2025,598a1353-a178-4bfe-a31d-3e0673af66f6,1008,Kristin Williams,White,53,2326.55,Withdrawal,"Bay Shore, NY ATM 2"
-1/1/2025,ab6ad309-bda3-4386-b899-7b09947925a6,1008,Kristin Williams,White,53,1585.82,Deposit,Staten Island ATM 1
-1/2/2025,34d810ca-55b4-4dbe-9e61-f1d9f23d5df4,1008,Kristin Williams,White,53,952.22,Withdrawal,Brooklyn 4th Street Branch 2
-1/2/2025,4b93db3a-9258-4e26-a64f-84cc1137cecb,1008,Kristin Williams,White,53,1915.7,Deposit,"Albany, NY, Main Street Branch 3"
-1/2/2025,d2371c8c-2e71-4945-aef4-a5fc8c5c3074,1008,Kristin Williams,White,53,1219.08,Withdrawal,Brooklyn 4th Street Branch 2
-1/2/2025,c4d7f16e-5ed0-41e0-b006-66e0bfc98fa9,1008,Kristin Williams,White,53,2405.22,Deposit,NYC 6th Ave 44th St Branch
-1/2/2025,4f5f2c19-9c7d-4d9a-831f-8b6854db033c,1008,Kristin Williams,White,53,1203.64,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,2d73fa98-8cb5-44c1-bdf2-d8f0968becd8,1008,Kristin Williams,White,53,2257.35,Withdrawal,Brooklyn 4th Street Branch 2
-1/2/2025,fbdd5f82-385d-49b4-a41f-721b565c4691,1008,Kristin Williams,White,53,2366.08,Deposit,NYC 6th Ave 44th St Branch
-1/2/2025,aec20a77-b3c5-454a-914e-75860c2bfb1e,1008,Kristin Williams,White,53,1337.86,Deposit,"Albany, NY, Main Street Branch 3"
-1/2/2025,524dd69c-7cd5-4336-a3f3-243fc43845fb,1008,Kristin Williams,White,53,1351.11,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,9b36342f-f0a1-4ba7-baeb-263ba45cec3a,1008,Kristin Williams,White,53,1714.14,Withdrawal,Staten Island ATM 1
-1/2/2025,651667aa-da46-4297-9f2a-38a2080cdcc5,1008,Kristin Williams,White,53,240.94,Withdrawal,Staten Island ATM 1
-1/2/2025,0995a3e1-9262-42e6-8b90-3da2282ce8d8,1008,Kristin Williams,White,53,265.98,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,669a0319-71fc-41a2-a7c5-3b93bd14032a,1008,Kristin Williams,White,53,4.47,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,44c1ee00-7bf2-4cb1-970b-6021f20449d5,1008,Kristin Williams,White,53,519.67,Deposit,Brooklyn 4th Street Branch 2
-1/2/2025,dc56a57f-caea-4d1c-aabb-f358cd9a4d19,1008,Kristin Williams,White,53,1904.42,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,c2243d77-522b-4cb5-8710-df58a26d4754,1008,Kristin Williams,White,53,2461.16,Deposit,Staten Island ATM 1
-1/3/2025,3f331dcf-ff08-4ce9-af11-1c7bbeaa4207,1008,Kristin Williams,White,53,2375.55,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,2abd3f2e-2ecb-43c9-a591-ad1e18cde649,1008,Kristin Williams,White,53,1423.26,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,64c2d5ea-4ca2-48f7-ae31-a905013bc9a7,1008,Kristin Williams,White,53,721.8,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,0f78d38c-e84a-41a0-8d55-ea47cdfc1697,1008,Kristin Williams,White,53,520.84,Deposit,Staten Island ATM 1
-1/3/2025,79d29f3b-56d4-45e6-a0fd-a632c5fc4793,1008,Kristin Williams,White,53,291.54,Deposit,"Garden City, NY Main  Branch"
-1/3/2025,4aa1da1d-811e-4477-b3ec-78e6828a04c5,1008,Kristin Williams,White,53,440.5,Withdrawal,Brooklyn 4th Street Branch 2
-1/3/2025,9c7f0432-a0b3-4dc1-b056-6ff8e384952a,1008,Kristin Williams,White,53,1317.27,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,3190af99-952e-4057-9353-b6788def871c,1008,Kristin Williams,White,53,576.31,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,2acc44fa-1001-4941-aff5-b2fc7f004351,1008,Kristin Williams,White,53,1409.52,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,8dfcd993-6f11-4d93-a0d2-dbfc8a3df9d5,1008,Kristin Williams,White,53,246.36,Deposit,Staten Island ATM 1
-1/3/2025,5b993a3d-a0b7-4bda-a854-2a37d67fb357,1008,Kristin Williams,White,53,593.63,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,64411590-1e3a-4a6a-ade7-feef253b3e9f,1008,Kristin Williams,White,53,931.72,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,643e9729-5c99-49ab-b400-172c3c88d1a4,1008,Kristin Williams,White,53,815.15,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,25099503-5ebe-4f78-a119-558d9948f573,1008,Kristin Williams,White,53,1600.35,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,4a4027b1-76c5-4732-98ce-120ffb07e38b,1008,Kristin Williams,White,53,695.42,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,46234889-bd00-4955-9a16-6ff4595afea8,1008,Kristin Williams,White,53,441.37,Withdrawal,Staten Island ATM 1
-1/3/2025,45a00cc0-38e6-4f67-a645-d9a4458aba61,1008,Kristin Williams,White,53,451.22,Deposit,"Albany, NY, Main Street Branch 3"
-1/3/2025,cab2ea79-f966-4922-ba41-902ef867691c,1008,Kristin Williams,White,53,1191.88,Deposit,"Albany, NY, Main Street Branch 3"
-1/3/2025,94d6f7e7-c151-4d76-9654-39fb721b48c8,1008,Kristin Williams,White,53,234.26,Withdrawal,Staten Island ATM 1
-1/3/2025,6826f301-6575-4e63-ac7b-6816a694dac8,1008,Kristin Williams,White,53,1321.15,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,5a10914b-b210-4114-9f71-4af235bcde2c,1008,Kristin Williams,White,53,781.85,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,a37a96f4-9f81-4849-bff5-1f3f9efe283a,1008,Kristin Williams,White,53,482.32,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,4958ebea-7565-4bb6-8f0d-448f9aea8bfe,1008,Kristin Williams,White,53,264.92,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,12ffb990-a633-46cb-a382-efd9eaf59bb0,1008,Kristin Williams,White,53,122.36,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,5a6e3e44-f76b-4b29-adb2-f34f3ac1f416,1008,Kristin Williams,White,53,247.95,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,6fc8c520-c9bc-42bc-98e4-b3674d9b83b3,1008,Kristin Williams,White,53,2147.55,Deposit,"Bay Shore, NY ATM 2"
-1/4/2025,20a0294b-6615-4858-a3af-ae37c61bfd7a,1008,Kristin Williams,White,53,1252.17,Deposit,Staten Island ATM 1
-1/4/2025,67aca411-2375-440f-9008-8a7fb26d6c47,1008,Kristin Williams,White,53,1709.97,Deposit,NYC 6th Ave 44th St Branch
-1/4/2025,18f0fd56-ca2b-428e-93ce-c1eb50a39476,1008,Kristin Williams,White,53,2027.99,Deposit,Staten Island ATM 1
-1/4/2025,08f6a528-a04f-4ec8-80e6-4f80e2be2f1c,1008,Kristin Williams,White,53,1181.82,Withdrawal,Staten Island ATM 1
-1/4/2025,1d26aa83-c1c1-4721-a820-d52ba3ed4f30,1008,Kristin Williams,White,53,1318.19,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,649e5e89-f32e-47ab-a7d9-d249b0a3c42b,1008,Kristin Williams,White,53,2038.28,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,ff20e6a8-64fa-40cb-91ff-dcfc02d242f5,1008,Kristin Williams,White,53,1438.91,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,d884a1b4-4423-435a-a789-24eabcc33ba5,1008,Kristin Williams,White,53,2307.93,Deposit,"Albany, NY, Main Street Branch 3"
-1/5/2025,c5055e97-90c1-48ec-b360-cae481545e43,1008,Kristin Williams,White,53,2375.66,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,ba977fb6-568d-4f3b-ba6d-1918abc9ad39,1008,Kristin Williams,White,53,1228.36,Deposit,Staten Island ATM 1
-1/5/2025,831e68f1-bbe6-46e5-847d-57e90ea99981,1008,Kristin Williams,White,53,1741.03,Deposit,"Garden City, NY Main  Branch"
-1/5/2025,6a1d2610-3c38-4c86-8312-19e04e2cbe89,1008,Kristin Williams,White,53,793.29,Deposit,NYC 6th Ave 44th St Branch
-1/5/2025,fb6f1db0-2c33-4dcc-bf1b-fccb95570b32,1008,Kristin Williams,White,53,1321.04,Deposit,Staten Island ATM 1
-1/5/2025,6d687548-8cb0-45c3-b255-ad057c3b762b,1008,Kristin Williams,White,53,1539.27,Deposit,"Garden City, NY Main  Branch"
-1/5/2025,3a70d903-83f0-45fb-8a41-fea019dd4428,1008,Kristin Williams,White,53,1082.13,Deposit,Brooklyn 4th Street Branch 2
-1/5/2025,ad52d72e-2caf-4580-b437-addaec20c5a2,1008,Kristin Williams,White,53,2319.49,Withdrawal,Staten Island ATM 1
-1/5/2025,57a2029e-4157-4cfe-bd40-fad5862975ec,1008,Kristin Williams,White,53,1093.68,Deposit,"Albany, NY, Main Street Branch 3"
-1/5/2025,b0760812-c176-4477-aa11-fab0775f160d,1008,Kristin Williams,White,53,1817.31,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/5/2025,a5326309-b32a-4c5a-aadc-6bb2c4fc2317,1008,Kristin Williams,White,53,1093.44,Withdrawal,Staten Island ATM 1
-1/5/2025,bad1a0af-a567-469f-aa40-d024211997b7,1008,Kristin Williams,White,53,2175.24,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/5/2025,cdc4a295-63a2-41df-93f6-ad860aee8445,1008,Kristin Williams,White,53,1905.14,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,f91f2ba5-d7e6-4acb-80e9-d08aea4c6116,1008,Kristin Williams,White,53,969.46,Withdrawal,NYC 6th Ave 44th St Branch
-1/5/2025,d859f89f-ef5d-4924-8491-fc518f580462,1008,Kristin Williams,White,53,42.12,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,ca66256d-1d9d-4a57-812d-795529d42a37,1008,Kristin Williams,White,53,1323.08,Withdrawal,Staten Island ATM 1
-1/5/2025,877c09ba-5194-4e3d-bb02-235be8ba699e,1008,Kristin Williams,White,53,1784.27,Deposit,Brooklyn 4th Street Branch 2
-1/5/2025,19415659-b1a0-4a3d-b34f-c8d9eb9e1748,1008,Kristin Williams,White,53,2032.44,Deposit,"Garden City, NY Main  Branch"
-1/5/2025,8d32ad6d-586f-43d0-9170-3471a951323d,1008,Kristin Williams,White,53,1367.18,Deposit,Staten Island ATM 1
-1/5/2025,39a974d6-7971-4b40-98bf-3e6bd0299180,1008,Kristin Williams,White,53,1623.17,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,df60e8a1-2d45-48fc-b6f2-3333924f0044,1008,Kristin Williams,White,53,335.85,Deposit,"Albany, NY, Main Street Branch 3"
-1/5/2025,33689fca-d356-47d2-8654-27b8e10f45ab,1008,Kristin Williams,White,53,670.85,Withdrawal,"Bay Shore, NY ATM 2"
-1/5/2025,7f66f168-4b57-446f-96a0-8fc5772e4378,1008,Kristin Williams,White,53,1868.09,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/5/2025,fd360f02-13d0-491b-a597-4baffe8d5961,1008,Kristin Williams,White,53,1959.26,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,eebd31de-b2b0-4e48-b476-a6172df53985,1009,Matthew Matthews,Hispanic,25,535.38,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,a0ff2318-4ae7-4a98-a61a-3a385267a1a7,1009,Matthew Matthews,Hispanic,25,218.94,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,df49f88b-9610-4644-b17d-db7fb0577191,1009,Matthew Matthews,Hispanic,25,472.17,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,6de5ad4d-eb2f-42bc-be84-efefe291533a,1009,Matthew Matthews,Hispanic,25,1319.23,Withdrawal,Staten Island ATM 1
-1/1/2025,5c48e90c-ed41-4bd4-9105-00fae003b65d,1009,Matthew Matthews,Hispanic,25,1358.32,Withdrawal,Staten Island ATM 1
-1/1/2025,d0a1c18c-1860-4054-ace2-e8b6a686c1b8,1009,Matthew Matthews,Hispanic,25,2192.25,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/1/2025,1a73cc46-e084-48eb-9851-e196d2be5cf0,1009,Matthew Matthews,Hispanic,25,1961.15,Withdrawal,"Bay Shore, NY ATM 2"
-1/1/2025,a3992dcc-db27-4767-baaa-def0c0fad978,1009,Matthew Matthews,Hispanic,25,431,Deposit,NYC 6th Ave 44th St Branch
-1/1/2025,aa7fe743-189e-4107-ae5d-8351e74c837a,1009,Matthew Matthews,Hispanic,25,2286.27,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/1/2025,0d5be5e9-2d78-476f-9665-669b1e58de05,1009,Matthew Matthews,Hispanic,25,2255.15,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/1/2025,a48d4d82-d70c-463f-9b62-c39bdb4fd51d,1009,Matthew Matthews,Hispanic,25,1180.06,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,ba0fd2fe-c79a-4cde-941e-7457b1f6968b,1009,Matthew Matthews,Hispanic,25,1153.76,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,b9368ff3-c9e6-41a2-a200-63aa6725f2b6,1009,Matthew Matthews,Hispanic,25,1216.61,Withdrawal,"Bay Shore, NY ATM 2"
-1/1/2025,e2289a50-1d8e-416e-b5f4-a0b914dd1791,1009,Matthew Matthews,Hispanic,25,1175.82,Deposit,NYC 6th Ave 44th St Branch
-1/1/2025,031a207b-e73e-4b7d-a0e8-dc257b591387,1009,Matthew Matthews,Hispanic,25,518.38,Deposit,Staten Island ATM 1
-1/1/2025,4b8f8f2b-1ce3-4920-8cbd-bc9c0e7bbb64,1009,Matthew Matthews,Hispanic,25,2040.85,Withdrawal,Brooklyn 4th Street Branch 2
-1/1/2025,07abe09f-df2f-40e0-92b4-564d2e863cd2,1009,Matthew Matthews,Hispanic,25,1769.21,Deposit,"Bay Shore, NY ATM 2"
-1/1/2025,0e19892c-5935-4d3b-b2b7-7bdf2cdb558b,1009,Matthew Matthews,Hispanic,25,1215.94,Withdrawal,"Garden City, NY Main  Branch"
-1/1/2025,0b731237-e10b-4266-af0a-faa67829f390,1009,Matthew Matthews,Hispanic,25,980.88,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,429a809c-b06c-4fc6-80a4-e26146da0614,1009,Matthew Matthews,Hispanic,25,1630.71,Withdrawal,Staten Island ATM 1
-1/1/2025,5a394411-e0d6-40a6-b328-c77c3aeebe58,1009,Matthew Matthews,Hispanic,25,2315.79,Deposit,"Garden City, NY Main  Branch"
-1/1/2025,41e2d34a-6952-4b41-ac6c-24f2f6b65255,1009,Matthew Matthews,Hispanic,25,2220.79,Deposit,Brooklyn 4th Street Branch 2
-1/1/2025,69ab5fcc-0d2e-4051-be7b-ae15349e11e8,1009,Matthew Matthews,Hispanic,25,281.64,Deposit,Brooklyn 4th Street Branch 2
-1/2/2025,9add8b21-d3bb-4c76-847d-ed5b81c6c011,1009,Matthew Matthews,Hispanic,25,2181.4,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,75a03ed8-8e9f-4225-aea5-bdec8d2f0dc0,1009,Matthew Matthews,Hispanic,25,1234.35,Deposit,Staten Island ATM 1
-1/2/2025,cfb011be-4d46-494a-b4a9-7395d5621c17,1009,Matthew Matthews,Hispanic,25,2310.58,Withdrawal,Brooklyn 4th Street Branch 2
-1/2/2025,5b8a1493-2783-41c1-8180-5dce5cbb00cd,1009,Matthew Matthews,Hispanic,25,291.33,Deposit,Brooklyn 4th Street Branch 2
-1/2/2025,35ebe01c-0287-470e-ab2f-8041918097f5,1009,Matthew Matthews,Hispanic,25,1700.34,Deposit,"Garden City, NY Main  Branch"
-1/2/2025,b6738834-86f8-4ce0-9517-190afd229777,1009,Matthew Matthews,Hispanic,25,449.93,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/2/2025,40cef4f9-9ad1-45be-a884-e286dd3a2eaa,1009,Matthew Matthews,Hispanic,25,1850.01,Deposit,"Albany, NY, Main Street Branch 3"
-1/2/2025,8be5d138-0d6a-4b27-9dbb-e92dcdd4107e,1009,Matthew Matthews,Hispanic,25,2187.54,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,9999a100-9739-4020-9685-60c615943223,1009,Matthew Matthews,Hispanic,25,951.13,Deposit,NYC 6th Ave 44th St Branch
-1/2/2025,b8728fce-cb59-4a51-8114-abfcc0b99b53,1009,Matthew Matthews,Hispanic,25,2050.53,Deposit,"Bay Shore, NY ATM 2"
-1/2/2025,1732373d-5912-4cb6-bfff-d1f90b6c999d,1009,Matthew Matthews,Hispanic,25,783.18,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/2/2025,3ad99671-97d8-48f9-a2eb-db7de1c6f056,1009,Matthew Matthews,Hispanic,25,2440.65,Deposit,NYC 6th Ave 44th St Branch
-1/2/2025,56f104b4-3185-4562-84ca-f5ebea8c13ab,1009,Matthew Matthews,Hispanic,25,651.37,Deposit,"Bay Shore, NY ATM 2"
-1/2/2025,934a04c6-5b7c-48ec-8834-150633908f54,1009,Matthew Matthews,Hispanic,25,348.29,Deposit,Staten Island ATM 1
-1/2/2025,eda3eba1-66ef-4e72-bca1-c3e4f539dedf,1009,Matthew Matthews,Hispanic,25,1338.81,Deposit,NYC 6th Ave 44th St Branch
-1/2/2025,0b8d48b1-3753-495a-beeb-01a647d5bf99,1009,Matthew Matthews,Hispanic,25,2470.65,Withdrawal,"Bay Shore, NY ATM 2"
-1/2/2025,ee469c6d-ef87-4692-b44b-af117782eba8,1009,Matthew Matthews,Hispanic,25,129.57,Withdrawal,"Garden City, NY Main  Branch"
-1/2/2025,f5c1eec2-46e0-48c9-966f-d2f3576cfa91,1009,Matthew Matthews,Hispanic,25,1068.78,Deposit,Brooklyn 4th Street Branch 2
-1/2/2025,033035e7-2c78-4618-8d7b-29be396f26a5,1009,Matthew Matthews,Hispanic,25,165.96,Withdrawal,NYC 6th Ave 44th St Branch
-1/2/2025,216746d4-08b9-4858-a0c0-1b4ffae64192,1009,Matthew Matthews,Hispanic,25,32.31,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,628ab45a-1da9-46ca-b64a-72987fde9a90,1009,Matthew Matthews,Hispanic,25,2443.27,Deposit,Staten Island ATM 1
-1/3/2025,bceac862-bc3e-4d6e-9fc9-fd68dbaad1bc,1009,Matthew Matthews,Hispanic,25,1140.24,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,c0aa8e45-7bdc-4c4f-bd0a-7a6e25354e35,1009,Matthew Matthews,Hispanic,25,1814.33,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,eeedd27c-7db9-4c9c-af62-69c0a4fedc90,1009,Matthew Matthews,Hispanic,25,95.7,Deposit,"Garden City, NY Main  Branch"
-1/3/2025,8aa69473-25de-4209-b4c7-f67cdb6e62c7,1009,Matthew Matthews,Hispanic,25,569.68,Withdrawal,Brooklyn 4th Street Branch 2
-1/3/2025,04c52fac-5fa9-4146-8bde-a10187292988,1009,Matthew Matthews,Hispanic,25,966.47,Deposit,Staten Island ATM 1
-1/3/2025,bdb1d17a-40c2-4d80-b730-7a76bbb27b69,1009,Matthew Matthews,Hispanic,25,744.75,Deposit,"Garden City, NY Main  Branch"
-1/3/2025,07a6bbfe-2754-49c9-bb8e-3cecaf39f9a8,1009,Matthew Matthews,Hispanic,25,539.7,Withdrawal,Staten Island ATM 1
-1/3/2025,f80cea68-90ce-4870-bc2e-fe52b985aed2,1009,Matthew Matthews,Hispanic,25,2074.2,Deposit,Staten Island ATM 1
-1/3/2025,1ce0489e-2c4a-4a3f-b17a-c6d3402f24a6,1009,Matthew Matthews,Hispanic,25,1432.12,Deposit,NYC 6th Ave 44th St Branch
-1/3/2025,aed6f20c-40c2-4f9f-9e89-dcf35f1f0a1d,1009,Matthew Matthews,Hispanic,25,180.53,Deposit,"Garden City, NY Main  Branch"
-1/3/2025,4a96cea3-4c94-4abd-8a9f-2731d5b31d2a,1009,Matthew Matthews,Hispanic,25,2043.83,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,712fba7a-e08b-44e8-a224-b3b3ed724e39,1009,Matthew Matthews,Hispanic,25,2129.83,Withdrawal,Brooklyn 4th Street Branch 2
-1/3/2025,a61eedc5-bc12-4d0a-9af0-8581f98d4dcc,1009,Matthew Matthews,Hispanic,25,1195.51,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,af8008be-07ee-4ffe-8355-4f71a9688512,1009,Matthew Matthews,Hispanic,25,2034.59,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,c4ba4f19-621a-413a-8735-f62c89fb78ff,1009,Matthew Matthews,Hispanic,25,129.47,Withdrawal,NYC 6th Ave 44th St Branch
-1/3/2025,a2cf06c0-3050-4ce4-87f0-e43cb84af4f6,1009,Matthew Matthews,Hispanic,25,1222.95,Deposit,"Bay Shore, NY ATM 2"
-1/3/2025,3e00eb9f-9af0-46ed-a031-5af23e3f3635,1009,Matthew Matthews,Hispanic,25,377.83,Deposit,"Albany, NY, Main Street Branch 3"
-1/3/2025,224b53a9-e4c2-4c5b-a1e8-f7facda3679a,1009,Matthew Matthews,Hispanic,25,2033.13,Deposit,Brooklyn 4th Street Branch 2
-1/3/2025,4ccf18bf-3333-4979-a70d-ca646df75320,1009,Matthew Matthews,Hispanic,25,1316.85,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,15a21e65-d20a-4449-965a-33cdc8b837c1,1009,Matthew Matthews,Hispanic,25,1345.62,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,f32aa8ae-281e-4a09-b43f-ddcc5293d83b,1009,Matthew Matthews,Hispanic,25,1255.43,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,f51cc29a-4778-4bba-a292-9f73195cc8c7,1009,Matthew Matthews,Hispanic,25,312.55,Withdrawal,"Garden City, NY Main  Branch"
-1/4/2025,2c3ae6e3-4b6c-4ed8-9f22-16a87d9133b8,1009,Matthew Matthews,Hispanic,25,643.1,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,78351502-9f21-4400-b11a-3b62863fbad3,1009,Matthew Matthews,Hispanic,25,1012.49,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,c9e22929-68cc-4220-a4ac-46d4db7a31ef,1009,Matthew Matthews,Hispanic,25,215.61,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,775ef76b-7ed2-43be-87d3-53d11dfe34cb,1009,Matthew Matthews,Hispanic,25,42.63,Deposit,NYC 6th Ave 44th St Branch
-1/4/2025,4968da73-8a34-4515-aa4f-e763d68ef9eb,1009,Matthew Matthews,Hispanic,25,636.25,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,9eeec748-06c2-4a7d-896b-38cc720d2fa5,1009,Matthew Matthews,Hispanic,25,744.75,Deposit,NYC 6th Ave 44th St Branch
-1/4/2025,adca4092-3ffe-463d-8540-36fe5d2469be,1009,Matthew Matthews,Hispanic,25,747.94,Deposit,"Garden City, NY Main  Branch"
-1/4/2025,2af5da3b-c363-4075-9342-fa38c0ee6aa2,1009,Matthew Matthews,Hispanic,25,1969.69,Withdrawal,NYC 6th Ave 44th St Branch
-1/4/2025,bebf498e-247b-425b-8876-5e232ac7e262,1009,Matthew Matthews,Hispanic,25,1646.12,Deposit,"Bay Shore, NY ATM 2"
-1/4/2025,735f7b39-ab73-4528-8243-0bd47c0f7d89,1009,Matthew Matthews,Hispanic,25,227.62,Withdrawal,Brooklyn 4th Street Branch 2
-1/4/2025,93cb8e54-b84d-4a6a-827c-12373d606e46,1009,Matthew Matthews,Hispanic,25,1966.31,Withdrawal,"Bay Shore, NY ATM 2"
-1/4/2025,e1ac79a7-b8d3-4e04-85e6-dd9ac89e2507,1009,Matthew Matthews,Hispanic,25,696.32,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/4/2025,54ceb47f-4a71-4fb3-a3b8-5481aabe6950,1009,Matthew Matthews,Hispanic,25,1157.31,Deposit,"Albany, NY, Main Street Branch 3"
-1/4/2025,da8517db-1a30-4b0d-9717-3f91e956669a,1009,Matthew Matthews,Hispanic,25,1381.4,Withdrawal,"Garden City, NY Main  Branch"
-1/4/2025,2505ee6e-433d-440c-89f5-45434d14a01a,1009,Matthew Matthews,Hispanic,25,2074.76,Deposit,Brooklyn 4th Street Branch 2
-1/4/2025,3328928c-e6ad-4110-b4b2-0b70c6d14387,1009,Matthew Matthews,Hispanic,25,856.12,Withdrawal,"Garden City, NY Main  Branch"
-1/5/2025,b7f0bb5b-2a48-499e-80dd-185b8d573bdc,1009,Matthew Matthews,Hispanic,25,2494.84,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,c7f4fcf8-7c99-4f01-973b-7cab56e491da,1009,Matthew Matthews,Hispanic,25,2323.16,Deposit,Brooklyn 4th Street Branch 2
-1/5/2025,e93cb985-d1ef-41c2-a154-09064d07919c,1009,Matthew Matthews,Hispanic,25,1133.57,Withdrawal,Brooklyn 4th Street Branch 2
-1/5/2025,cbc2bf5f-f60c-43c4-9ec9-c23f89cc60ed,1009,Matthew Matthews,Hispanic,25,1195.7,Withdrawal,"Albany, NY, Main Street Branch 3"
-1/5/2025,0977d9ea-2967-49f5-9dbd-ea964ceca087,1009,Matthew Matthews,Hispanic,25,815.35,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,f370d69d-f641-4e9f-8332-b8d31376a636,1009,Matthew Matthews,Hispanic,25,724.41,Withdrawal,Staten Island ATM 1
-1/5/2025,6a454b91-9281-4ed1-85bc-699759f3b18c,1009,Matthew Matthews,Hispanic,25,921.09,Deposit,Brooklyn 4th Street Branch 2
-1/5/2025,c5c3c3ff-577c-462f-917d-3f696cff163e,1009,Matthew Matthews,Hispanic,25,1343.46,Deposit,"Bay Shore, NY ATM 2"
-1/5/2025,ef751b32-b5b9-46f1-bef5-980da354f6d5,1009,Matthew Matthews,Hispanic,25,1165.68,Deposit,Staten Island ATM 1
-1/5/2025,035cbe3c-8421-4043-9447-5c3936f41f18,1009,Matthew Matthews,Hispanic,25,1008.93,Deposit,"Garden City, NY Main  Branch"
-1/5/2025,cf1cfadd-7521-46da-bf1b-7ea03a1ee308,1009,Matthew Matthews,Hispanic,25,747.84,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,bc909c58-28e8-4fdc-af2b-31ad140ede0b,1005,Tracie Rios,Female,12,892.32,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,9c5cf41b-8839-46da-ab08-6bf71864309c,1005,Tracie Rios,Female,12,1965.27,Withdrawal,Staten Island ATM 1
+1/1/2025,c06f35f1-f963-499c-a09a-cd6d8e26667d,1005,Tracie Rios,Female,12,1257.47,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,ff18bca7-1635-45fb-9e65-39b7375b394f,1005,Tracie Rios,Female,12,1878.78,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,bd87b89f-5e40-45c7-af0b-354e8cc5f4d2,1005,Tracie Rios,Female,12,16.41,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,d1b23a32-3be3-4ccc-997b-dbacdc45f1bd,1005,Tracie Rios,Female,12,2468.15,Deposit,Staten Island ATM 1
+1/1/2025,5e611183-e55c-4970-bc15-cb21c5d8f1a3,1005,Tracie Rios,Female,12,2470.68,Deposit,Staten Island ATM 1
+1/1/2025,05a64b11-ec7e-4e76-8054-03fd275f05ce,1005,Tracie Rios,Female,12,1207.7,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,a4d59941-621b-450b-922d-4607d7240bf3,1005,Tracie Rios,Female,12,2229.99,Deposit,Staten Island ATM 1
+1/1/2025,4699854a-a241-4625-a9f0-fd440e9d5fe2,1005,Tracie Rios,Female,12,847.62,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,e04dfcaa-8a16-4343-9cfa-8880af000f48,1005,Tracie Rios,Female,12,2369.45,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,8ec22d0f-e0d4-492d-945a-8424b98ed68c,1005,Tracie Rios,Female,12,2245.56,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,b0e4071b-803f-43bb-90f1-a1cd615e2aa5,1005,Tracie Rios,Female,12,362.44,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,ebff18c4-7ffb-4428-9a10-6a65ebf4660f,1005,Tracie Rios,Female,12,1736.76,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,08dfdf66-30ce-4daf-b210-13f0a0420c31,1005,Tracie Rios,Female,12,1757.01,Deposit,Staten Island ATM 1
+1/1/2025,9d9e5fe1-30c8-4f24-9eb7-ae28bf8980df,1005,Tracie Rios,Female,12,1683.47,Deposit,Staten Island ATM 1
+1/1/2025,e8153ca6-fd64-430f-8ac7-2862caaced52,1005,Tracie Rios,Female,12,537.9,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/2/2025,0f4be137-ea77-4302-8e1c-3e90c78931ab,1005,Tracie Rios,Female,12,1192.03,Withdrawal,Staten Island ATM 1
+1/2/2025,1c10dcc9-9c1e-4b09-874e-fed226d0692e,1005,Tracie Rios,Female,12,273.31,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,c32591e0-2702-4902-be3f-d5587d789c0d,1005,Tracie Rios,Female,12,1378.74,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,93312392-3c6a-4594-8b5c-5f6b4cf844fb,1005,Tracie Rios,Female,12,763.48,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,bc6c6daf-54d8-4d48-b3cf-7b471111761f,1005,Tracie Rios,Female,12,1976.46,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,211933b2-6c77-41d6-ab07-60b17e2aef88,1005,Tracie Rios,Female,12,328.98,Deposit,NYC 6th Ave 44th St Branch
+1/2/2025,0a15a855-cc13-4d6c-9404-81bab73cdcbc,1005,Tracie Rios,Female,12,2304.56,Deposit,"Bay Shore, NY ATM 2"
+1/2/2025,533251ca-8831-4928-8a81-3415b0335b83,1005,Tracie Rios,Female,12,1402.47,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,ec427c2b-0a2f-4761-9667-8365e88556d0,1005,Tracie Rios,Female,12,2252.45,Deposit,Staten Island ATM 1
+1/2/2025,a6fb5629-b872-486e-bd91-9bfe16760ed8,1005,Tracie Rios,Female,12,1373.46,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,36a70595-7b94-40b9-870b-bd49d3d515de,1005,Tracie Rios,Female,12,2059.37,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,ec0089a0-70db-4b52-bd7a-f99ce5815172,1005,Tracie Rios,Female,12,1386.89,Withdrawal,Staten Island ATM 1
+1/2/2025,60870c94-34ce-4f37-b64d-b92ba6613350,1005,Tracie Rios,Female,12,2144.03,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,32bc277f-2a50-4743-b4e2-6dbbe74d50e9,1005,Tracie Rios,Female,12,647.78,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,35100c8e-a100-42d7-b4b1-6249cb91f222,1005,Tracie Rios,Female,12,552.3,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,7b5e4791-e020-4875-bdf2-72532ab8e798,1005,Tracie Rios,Female,12,1482.51,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,55f7fb9c-3f42-462b-9923-98dd2bd2a4ef,1005,Tracie Rios,Female,12,1863.91,Deposit,"Garden City, NY Main  Branch"
+1/3/2025,6f1105fc-47ff-44b8-b9c9-fb64e8455098,1005,Tracie Rios,Female,12,2344.1,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/3/2025,97f35289-665e-4b38-a2ac-f3c06a2313dc,1005,Tracie Rios,Female,12,1014.79,Deposit,Staten Island ATM 1
+1/3/2025,5a8645e4-424e-447b-a56b-dae0de3ace78,1005,Tracie Rios,Female,12,2493.1,Withdrawal,Brooklyn 4th Street Branch 2
+1/3/2025,a31ad851-06a6-42e5-9808-4d031cbb0155,1005,Tracie Rios,Female,12,1235.51,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,79436576-2d35-414c-9cd1-02ee05755b94,1005,Tracie Rios,Female,12,1671.27,Deposit,Staten Island ATM 1
+1/3/2025,b22e1272-8ddb-4e45-bc42-9927caf85e51,1005,Tracie Rios,Female,12,988.09,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,7a251d3f-730c-4f4a-8a6d-4401503b1e58,1005,Tracie Rios,Female,12,213.38,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,fb268dcb-ce25-4129-98b1-c8e8b3444e54,1005,Tracie Rios,Female,12,1014.09,Withdrawal,"Garden City, NY Main  Branch"
+1/3/2025,362edfd7-81dc-4d5b-b23d-a74c74e63f8a,1005,Tracie Rios,Female,12,968.91,Withdrawal,Brooklyn 4th Street Branch 2
+1/3/2025,7dbcfe16-1c44-4034-a39f-03e553096f35,1005,Tracie Rios,Female,12,1301.32,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,e9dfb856-1720-4bd9-b323-6a0788e13834,1005,Tracie Rios,Female,12,2416.96,Withdrawal,"Bay Shore, NY ATM 2"
+1/3/2025,77af9480-1872-413a-8f51-3c3d736964d9,1005,Tracie Rios,Female,12,2359.35,Withdrawal,"Garden City, NY Main  Branch"
+1/3/2025,86e30c20-7f91-4fcf-9ca0-c3de191b531a,1005,Tracie Rios,Female,12,304.91,Withdrawal,Staten Island ATM 1
+1/3/2025,7c439d0e-2162-40e7-a9d6-fb44116f1927,1005,Tracie Rios,Female,12,1519.22,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,4a6162a8-2e6d-45e1-a0ca-b938f37b8802,1005,Tracie Rios,Female,12,1058.57,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,853fe7a5-2713-45be-8dcb-2367168596ce,1005,Tracie Rios,Female,12,1327.97,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,27aeb661-b8ed-45e5-aba6-4c4e0c91b61c,1005,Tracie Rios,Female,12,1444.33,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,e83ee966-0dc6-4a0f-907c-c66b3113bc46,1005,Tracie Rios,Female,12,965.57,Withdrawal,Brooklyn 4th Street Branch 2
+1/3/2025,7eba2231-31b9-41ff-8e01-83fa9b266b7f,1005,Tracie Rios,Female,12,1710.58,Deposit,NYC 6th Ave 44th St Branch
+1/4/2025,bea5dc6b-d1f0-4f00-9c8d-a0722a545215,1005,Tracie Rios,Female,12,1084.76,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,ac337470-cf33-4924-ab88-5b4f6f94499c,1005,Tracie Rios,Female,12,1165.87,Deposit,Staten Island ATM 1
+1/4/2025,5a33b98b-427f-4329-a536-bd53e0c8374f,1005,Tracie Rios,Female,12,901.92,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,e395bff5-9902-4203-9a40-134f396a7b7d,1005,Tracie Rios,Female,12,1258.91,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,da25952f-d98f-4fc7-8f0b-b0feaec1f6fc,1005,Tracie Rios,Female,12,1163.2,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,83778e93-390a-4f16-8b6e-a66c74dc5c8f,1005,Tracie Rios,Female,12,1322.31,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,b5836261-2a2b-49c7-9db3-5ac8d18bbce7,1005,Tracie Rios,Female,12,166.84,Deposit,"Bay Shore, NY ATM 2"
+1/4/2025,75fe33ff-c7ad-463b-b5df-b48f0ce2a03e,1005,Tracie Rios,Female,12,418.08,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,e429d2c0-9651-4fd1-949a-f7b406cfc910,1005,Tracie Rios,Female,12,815.53,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,3f3eab72-e887-4ea2-b068-cc265d2bc76e,1005,Tracie Rios,Female,12,2123.47,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,3381bc4b-c4f3-42a6-9834-51bcb4c34153,1005,Tracie Rios,Female,12,2115.69,Withdrawal,Staten Island ATM 1
+1/4/2025,23951929-66ca-4eec-9d8f-fc9a99582eea,1005,Tracie Rios,Female,12,2111.9,Deposit,NYC 6th Ave 44th St Branch
+1/4/2025,1d303c0a-e3b2-474b-8ec2-244c2b1a8834,1005,Tracie Rios,Female,12,237.96,Deposit,NYC 6th Ave 44th St Branch
+1/4/2025,cb2e5275-c7cf-4214-baf4-c01f1bd258e4,1005,Tracie Rios,Female,12,2391.27,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,03b35f82-f4ce-4c46-88a5-3f65e6ec73a9,1005,Tracie Rios,Female,12,103.27,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,04facc65-4c97-4df5-a588-d6f62936ac20,1005,Tracie Rios,Female,12,1905.58,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,79cf83fb-33ce-493a-9710-049954a3d8bf,1005,Tracie Rios,Female,12,175,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,c8de02ea-8bb4-473a-8d36-15f2c34f8d9b,1005,Tracie Rios,Female,12,1347.07,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,afc1c7e1-72bd-4e0e-bd79-90add49c4a6f,1005,Tracie Rios,Female,12,1584.97,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,8f0da099-68ff-4d7e-97c8-2ae6b903b3b7,1005,Tracie Rios,Female,12,202.37,Deposit,NYC 6th Ave 44th St Branch
+1/5/2025,d019973d-97f3-44e6-8ddb-2b0d2dcd0c5c,1005,Tracie Rios,Female,12,1367.9,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,64ebaf38-dd92-4458-ba07-07168dcac247,1005,Tracie Rios,Female,12,1188.51,Withdrawal,Staten Island ATM 1
+1/5/2025,23024218-8282-4522-8151-c21f60efcce3,1005,Tracie Rios,Female,12,649.64,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,60f14d14-755b-40ea-949f-f61d62e28a8c,1005,Tracie Rios,Female,12,622.23,Deposit,Brooklyn 4th Street Branch 2
+1/5/2025,3b1b48f9-94ca-4d8e-be80-51dbb2f37726,1005,Tracie Rios,Female,12,2094.51,Withdrawal,Staten Island ATM 1
+1/5/2025,79d4c70a-8117-4e82-b6d0-5abd88f3aa23,1005,Tracie Rios,Female,12,185.7,Deposit,Staten Island ATM 1
+1/5/2025,d4970d53-0670-42d5-952e-791d05a777e6,1005,Tracie Rios,Female,12,1537.39,Withdrawal,NYC 6th Ave 44th St Branch
+1/5/2025,42740971-9cf2-4681-8821-e30566790038,1005,Tracie Rios,Female,12,53.85,Withdrawal,NYC 6th Ave 44th St Branch
+1/5/2025,e9165f17-4ac6-4333-945d-f6402525a262,1005,Tracie Rios,Female,12,1045.66,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,ac7eb735-1cf2-42f9-840b-7c2fcc7ef5a8,1005,Tracie Rios,Female,12,2219.39,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,83c18f79-5b28-40ba-a7cb-d2303990ba4a,1005,Tracie Rios,Female,12,565.37,Deposit,Staten Island ATM 1
+1/5/2025,b5a7feeb-a8b2-45e9-ae74-9ddc42f09611,1005,Tracie Rios,Female,12,984.56,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/5/2025,5d9008e7-181e-42b8-a5bf-1f8f67f0ec99,1005,Tracie Rios,Female,12,1712.01,Withdrawal,Staten Island ATM 1
+1/5/2025,fedd94d1-22bb-4acc-a8ac-a9c031251391,1005,Tracie Rios,Female,12,1300.7,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,2934c727-25aa-4d3d-9f3e-66b97b7d8b0f,1005,Tracie Rios,Female,12,1290.84,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,6de85e9e-fbbb-40b9-90c3-61e01b7a5af0,1005,Tracie Rios,Female,12,1864.19,Deposit,"Albany, NY, Main Street Branch 3"
+1/5/2025,3315fa3f-4621-4c32-a319-c3547554551b,1005,Tracie Rios,Female,12,828.6,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,90b3b16e-4821-455d-a6c9-17a3d39df03b,1005,Tracie Rios,Female,12,1696.01,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,705845f6-22f5-4e48-a5b1-ccd950e6aef1,1006,Natalie Anderson,Female,56,2077.28,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,44e03ef5-8bde-44a0-add9-446c5ed8e51e,1006,Natalie Anderson,Female,56,144.5,Deposit,NYC 6th Ave 44th St Branch
+1/1/2025,0af733e2-fcf8-4ad2-8aeb-be7fe6e094dc,1006,Natalie Anderson,Female,56,396.81,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,d2774796-59a6-458d-b7d4-26548c6426d0,1006,Natalie Anderson,Female,56,1672.05,Withdrawal,Staten Island ATM 1
+1/1/2025,85ea548e-e8c0-481d-a021-e0afaa1244cf,1006,Natalie Anderson,Female,56,1474.03,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,6f3551cd-6a29-4e96-86b8-f64cb4c3b3d2,1006,Natalie Anderson,Female,56,148.05,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,03bae30d-e4af-4942-b50f-39c6c8e74699,1006,Natalie Anderson,Female,56,1075.12,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,ae0ef094-460b-42a6-9cc8-04b4cad0a957,1006,Natalie Anderson,Female,56,2343.6,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,2b8d7931-c1bf-4c7e-aef0-62b628c52715,1006,Natalie Anderson,Female,56,1886.98,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,69fcbaae-168a-4c7b-9be1-b91f52c28fbd,1006,Natalie Anderson,Female,56,1007.35,Withdrawal,Staten Island ATM 1
+1/1/2025,b7aae8a2-b941-417f-888e-089e2324fd1e,1006,Natalie Anderson,Female,56,1049.09,Withdrawal,NYC 6th Ave 44th St Branch
+1/1/2025,a3c4bbd8-6d54-4dd9-bd06-86f68b86939e,1006,Natalie Anderson,Female,56,1423.57,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,2bec5e35-12db-4604-84f1-039750b94fa1,1006,Natalie Anderson,Female,56,1584.58,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,3bfa15cf-8363-49db-b9cf-9328ee0a6891,1006,Natalie Anderson,Female,56,231.35,Withdrawal,"Bay Shore, NY ATM 2"
+1/1/2025,07c368e2-4ff3-40eb-8166-fd9d5230ee11,1006,Natalie Anderson,Female,56,1614.41,Deposit,Staten Island ATM 1
+1/1/2025,9eca2d15-eb9f-4f9a-b124-a11baacb6ee0,1006,Natalie Anderson,Female,56,995.91,Withdrawal,Staten Island ATM 1
+1/1/2025,6f3fc2cf-99c8-4b53-87e5-fae7bc96abe3,1006,Natalie Anderson,Female,56,2369.42,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,d9d5d1a2-28f6-4551-9933-a5d287321ddd,1006,Natalie Anderson,Female,56,42.08,Deposit,"Bay Shore, NY ATM 2"
+1/2/2025,1ee18154-709e-4dbb-b07d-b9ad43782554,1006,Natalie Anderson,Female,56,1507.1,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,ec645acd-8cc0-4610-a357-f9596ba8ede2,1006,Natalie Anderson,Female,56,131.55,Deposit,"Bay Shore, NY ATM 2"
+1/2/2025,79d1c005-2582-4570-b1ae-0aed432a496c,1006,Natalie Anderson,Female,56,1175.57,Withdrawal,Brooklyn 4th Street Branch 2
+1/2/2025,ebe39407-24fe-49f0-9c00-6a03e6031131,1006,Natalie Anderson,Female,56,140.29,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,b30e9835-d5ac-46c3-b9f4-8a39b727932d,1006,Natalie Anderson,Female,56,969.03,Deposit,Staten Island ATM 1
+1/2/2025,ccb5db8f-4964-4c01-b775-44091b9f9029,1006,Natalie Anderson,Female,56,1506.39,Deposit,"Albany, NY, Main Street Branch 3"
+1/2/2025,867e9b9c-fad8-41ae-90c4-de140460b199,1006,Natalie Anderson,Female,56,935.38,Withdrawal,Staten Island ATM 1
+1/2/2025,068d4735-b7d7-44e1-9a0d-e417875fc8d5,1006,Natalie Anderson,Female,56,901.28,Deposit,NYC 6th Ave 44th St Branch
+1/2/2025,8a98a618-a061-4a97-9358-54650f2e62d9,1006,Natalie Anderson,Female,56,929.48,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,81146353-5598-47e3-899a-8efb5767ddb7,1006,Natalie Anderson,Female,56,1673.61,Deposit,Brooklyn 4th Street Branch 2
+1/2/2025,39311f00-6123-4fff-90fa-f83092b3dbbf,1006,Natalie Anderson,Female,56,1509.8,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/2/2025,1c6899e4-a92f-42f2-be12-6df5a86ca230,1006,Natalie Anderson,Female,56,621.32,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,25ba027a-4e28-467f-8366-caa515669ccf,1006,Natalie Anderson,Female,56,785.09,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/2/2025,38bf10c2-e91d-460b-9a1a-18cd59d8dc1c,1006,Natalie Anderson,Female,56,588.22,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,2331a4b6-bba3-4723-9c37-fa56f3c9fcb4,1006,Natalie Anderson,Female,56,1706.3,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,b206271b-f11e-4c96-b63e-ab8783fca931,1006,Natalie Anderson,Female,56,1803.54,Withdrawal,Staten Island ATM 1
+1/2/2025,94c80826-9a5f-4263-acd0-2abba3866026,1006,Natalie Anderson,Female,56,1877.72,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,713d608e-76f9-4be3-a6a4-740cb1e22eda,1006,Natalie Anderson,Female,56,689.46,Deposit,"Albany, NY, Main Street Branch 3"
+1/2/2025,b3e3c860-bc1c-41ac-ad16-78d71d5e124d,1006,Natalie Anderson,Female,56,71.85,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,ddb67aa1-2c37-4926-af62-77a7219b82ee,1006,Natalie Anderson,Female,56,1894.38,Withdrawal,Brooklyn 4th Street Branch 2
+1/2/2025,3993f6e6-dd26-4df8-9471-bfb6cd238882,1006,Natalie Anderson,Female,56,103.55,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,5c57364c-9632-4ae8-9b0e-ffb3ebd66d52,1006,Natalie Anderson,Female,56,1680.33,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,e4d7eb6c-e24d-474a-9352-768afc5f2067,1006,Natalie Anderson,Female,56,452.58,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/2/2025,357a8a9c-21ea-4aad-a32c-1926cbcd71e2,1006,Natalie Anderson,Female,56,1481.8,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,c896cee7-74fa-46e5-b916-2d2f45b5a42f,1006,Natalie Anderson,Female,56,700.33,Withdrawal,Staten Island ATM 1
+1/3/2025,7f21b80a-807e-4457-b9f6-1709513d13d2,1006,Natalie Anderson,Female,56,1710.8,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/3/2025,ab1b854e-6c86-4fc3-be64-f1deb31934b7,1006,Natalie Anderson,Female,56,311.89,Withdrawal,Staten Island ATM 1
+1/3/2025,c5a7145b-50cc-4c2b-ad5b-ead151471f3b,1006,Natalie Anderson,Female,56,1231.58,Withdrawal,"Garden City, NY Main  Branch"
+1/3/2025,f8426ee5-cf8d-450a-8ed4-a1b6aed936fd,1006,Natalie Anderson,Female,56,1145.38,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,a0fac54e-d464-4317-9c98-763e150aa53e,1006,Natalie Anderson,Female,56,1024.68,Deposit,"Garden City, NY Main  Branch"
+1/3/2025,61faf0e6-a26c-4b4c-bd2a-39cc3817bdd2,1006,Natalie Anderson,Female,56,883.49,Withdrawal,Brooklyn 4th Street Branch 2
+1/3/2025,bfa33099-748d-4961-9903-7d9328eca4fc,1006,Natalie Anderson,Female,56,715.47,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,fc3e79dd-8745-4d19-9f03-0206d08bb45b,1006,Natalie Anderson,Female,56,184.87,Deposit,Staten Island ATM 1
+1/3/2025,dfd32c8a-7a20-4cdf-af37-116ef7a97949,1006,Natalie Anderson,Female,56,1537.22,Withdrawal,Brooklyn 4th Street Branch 2
+1/3/2025,90427c38-ac59-4a30-90fc-b13874d2e8d0,1006,Natalie Anderson,Female,56,1217.3,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,c692775f-5e19-4891-9505-e0675bd3c1b0,1006,Natalie Anderson,Female,56,1356.81,Deposit,"Garden City, NY Main  Branch"
+1/3/2025,626b31df-0203-4e90-ae67-0069860a2273,1006,Natalie Anderson,Female,56,891.34,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,9e72067c-2ae3-4a17-bb34-2a4b7f444f27,1006,Natalie Anderson,Female,56,1653.89,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,b9ab780e-94be-46c8-8105-a8f2f8cd9bde,1006,Natalie Anderson,Female,56,857.83,Deposit,"Albany, NY, Main Street Branch 3"
+1/3/2025,28ba90ae-fbad-4c8e-803e-2a6f9212d496,1006,Natalie Anderson,Female,56,5.59,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,6d9708df-9c23-4590-8f09-647eaaee5cab,1006,Natalie Anderson,Female,56,526.18,Deposit,"Garden City, NY Main  Branch"
+1/3/2025,c7a0b388-938a-4bad-a69d-c89fbbf1e246,1006,Natalie Anderson,Female,56,1952.84,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,7cf1579f-901b-47df-84e2-bc45fb519654,1006,Natalie Anderson,Female,56,761.27,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,9f4c5437-c5d0-4ebd-83ec-6bd6f24a9b6f,1006,Natalie Anderson,Female,56,733.56,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,4317b595-7df7-4cf9-94e1-499489f55932,1006,Natalie Anderson,Female,56,2179.42,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,f99aad4b-7975-4398-9fd4-71d72109b2a8,1006,Natalie Anderson,Female,56,1198.55,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,8f6db373-5377-49ea-ac16-fd5f3da70e5e,1006,Natalie Anderson,Female,56,387.21,Deposit,"Bay Shore, NY ATM 2"
+1/4/2025,df781809-cc55-43d4-a7e5-6392e1485e88,1006,Natalie Anderson,Female,56,1930.13,Withdrawal,Staten Island ATM 1
+1/4/2025,e289c489-93cb-4852-90ac-a991c98b791c,1006,Natalie Anderson,Female,56,364.02,Withdrawal,"Garden City, NY Main  Branch"
+1/4/2025,7a080fd4-2f14-4057-982c-a6f9468241c6,1006,Natalie Anderson,Female,56,1180.86,Withdrawal,Staten Island ATM 1
+1/4/2025,4ef4c6cf-9efc-4c5d-9087-5ac054a7784b,1006,Natalie Anderson,Female,56,539.18,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,4f2337b6-3a5b-40b2-9a82-69fa48555698,1006,Natalie Anderson,Female,56,1098.02,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,d37ce061-c3f0-405a-b5b1-75e8a840704f,1006,Natalie Anderson,Female,56,1825.02,Withdrawal,Staten Island ATM 1
+1/4/2025,08702b27-ef0f-431d-825a-6d96ada14316,1006,Natalie Anderson,Female,56,548.68,Deposit,"Bay Shore, NY ATM 2"
+1/4/2025,dc790758-d43e-4dbc-ad50-ce86c846d119,1006,Natalie Anderson,Female,56,1067.06,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,6695f743-b40f-4881-944a-6a9a4fa24ab2,1006,Natalie Anderson,Female,56,84.47,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,32889288-73cb-44e5-b4f5-4064338db07a,1006,Natalie Anderson,Female,56,138.48,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,d6a51a8b-1d3d-46c2-844a-8f2d08acd5f6,1006,Natalie Anderson,Female,56,463.47,Deposit,NYC 6th Ave 44th St Branch
+1/4/2025,7fee9b11-3e5c-4bb9-9043-3e23af764ddd,1006,Natalie Anderson,Female,56,11.42,Deposit,Staten Island ATM 1
+1/4/2025,3a094df9-3ab6-4045-b931-d4a32b8018bc,1006,Natalie Anderson,Female,56,1397.9,Withdrawal,Staten Island ATM 1
+1/4/2025,4e5c7b21-e65e-45ec-a700-54b47cfe6a31,1006,Natalie Anderson,Female,56,180.74,Withdrawal,Staten Island ATM 1
+1/4/2025,92df7627-1623-49c7-bb5c-c6b916255246,1006,Natalie Anderson,Female,56,1079.71,Deposit,Staten Island ATM 1
+1/4/2025,d5dbc691-f050-4f71-a79f-5548fafe1789,1006,Natalie Anderson,Female,56,2055.51,Withdrawal,Staten Island ATM 1
+1/4/2025,3372aab2-5daa-46d7-988c-8761ab3762ca,1006,Natalie Anderson,Female,56,1939.74,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,31ff23ce-c063-43f7-8dd2-5f7e986048f4,1006,Natalie Anderson,Female,56,1935.1,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,b77567d4-c245-4261-bf84-89e5876031a4,1006,Natalie Anderson,Female,56,380.41,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,14852128-5f37-4dca-92cc-1cdb111c4b8b,1006,Natalie Anderson,Female,56,236.66,Withdrawal,"Garden City, NY Main  Branch"
+1/4/2025,c518df3d-f626-4ca4-a2f3-d3ddb787589b,1006,Natalie Anderson,Female,56,910.53,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,124b3b94-e618-4e6c-acea-4944899f8716,1006,Natalie Anderson,Female,56,777.31,Deposit,NYC 6th Ave 44th St Branch
+1/5/2025,7d262cbc-977e-4dcf-9179-96850e96ad62,1006,Natalie Anderson,Female,56,84.2,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,4de77acf-1906-4ba0-b768-cd176ce250a0,1006,Natalie Anderson,Female,56,1169.38,Deposit,Brooklyn 4th Street Branch 2
+1/5/2025,0409d149-562b-4a4e-8f86-055e0ccf6a32,1006,Natalie Anderson,Female,56,45.54,Deposit,"Albany, NY, Main Street Branch 3"
+1/5/2025,e51951f8-c672-4caa-8c2a-6e19e6d6c134,1006,Natalie Anderson,Female,56,212.43,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,8cb10ae6-c769-48db-aaf0-eaa65fbeabe0,1006,Natalie Anderson,Female,56,617.97,Deposit,"Albany, NY, Main Street Branch 3"
+1/5/2025,64fbca8d-9591-498d-8bae-9f744215575e,1006,Natalie Anderson,Female,56,1450.43,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,f8c22cd8-797e-4df8-8f12-693a00463fcc,1006,Natalie Anderson,Female,56,2440.2,Deposit,Staten Island ATM 1
+1/5/2025,3233b8af-61a7-4418-9cc8-8d50eaa43d72,1006,Natalie Anderson,Female,56,442.61,Withdrawal,NYC 6th Ave 44th St Branch
+1/5/2025,8b15871b-89c2-4e86-92ac-191f60ecf723,1006,Natalie Anderson,Female,56,1439.84,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,ea9aacad-0ff7-4a87-bb71-0e20e0cee411,1006,Natalie Anderson,Female,56,889.86,Withdrawal,NYC 6th Ave 44th St Branch
+1/5/2025,87d8b32c-8f0f-4054-bb04-09a1a126e611,1006,Natalie Anderson,Female,56,41.59,Deposit,Staten Island ATM 1
+1/5/2025,96bbe02c-51ed-496a-832d-6f23283352cb,1006,Natalie Anderson,Female,56,706.43,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,3f6a17c1-7e1b-4d63-9632-9d0d66871e0f,1006,Natalie Anderson,Female,56,1213.81,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,8201bd49-5552-4fa2-9982-95e13295c012,1006,Natalie Anderson,Female,56,606.14,Deposit,Staten Island ATM 1
+1/5/2025,dd784f39-f6c2-45e5-a7f5-be295627bc5b,1006,Natalie Anderson,Female,56,2142.4,Withdrawal,NYC 6th Ave 44th St Branch
+1/5/2025,56283be7-2048-4067-ba91-c18b8230ebe0,1006,Natalie Anderson,Female,56,173.42,Deposit,Staten Island ATM 1
+1/5/2025,24b6389e-1e6c-479a-9dfd-d87ba2c7b3a8,1006,Natalie Anderson,Female,56,169.32,Deposit,"Albany, NY, Main Street Branch 3"
+1/5/2025,d741619f-18a6-438a-b297-e0e34a341045,1006,Natalie Anderson,Female,56,127.66,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,7e3d2faf-2690-4b08-bc6e-e8d34a0a7f02,1007,Tony Acosta,Other,28,1400.18,Deposit,NYC 6th Ave 44th St Branch
+1/1/2025,ccb6eef0-01f6-4332-97c3-0e2965d41dc5,1007,Tony Acosta,Other,28,1966.61,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,3a0b9adc-a672-4c62-9a51-51ee170be445,1007,Tony Acosta,Other,28,987.37,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,b677ad02-fa96-456b-9e91-83dd28adc3fc,1007,Tony Acosta,Other,28,1723.84,Deposit,NYC 6th Ave 44th St Branch
+1/1/2025,d2c841b7-181f-480f-a776-3eb919be3535,1007,Tony Acosta,Other,28,2045.08,Deposit,Staten Island ATM 1
+1/1/2025,5a721ff6-9985-459e-87f6-28a12e4ff9ad,1007,Tony Acosta,Other,28,1364.13,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,88cdfbeb-2fee-40ca-9603-6030467cb6ef,1007,Tony Acosta,Other,28,2483.63,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,27f39392-04d9-4e4b-98ad-485ebd359278,1007,Tony Acosta,Other,28,1633.98,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,65442905-8055-43a6-9123-fe44acce2b22,1007,Tony Acosta,Other,28,1312.32,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,c49a31a4-a0a4-4054-a114-503968b0a668,1007,Tony Acosta,Other,28,1811.27,Deposit,Staten Island ATM 1
+1/1/2025,94e54258-148e-41fb-8159-f413883ef9ad,1007,Tony Acosta,Other,28,1537.37,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,441ae074-4c79-4337-bc2b-d2f3742d0d0b,1007,Tony Acosta,Other,28,634.24,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,a62e5f1d-a444-4851-ba44-de1e8f2e88ec,1007,Tony Acosta,Other,28,824.63,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,80457e89-c535-4ecf-95b8-5832c90bdaa4,1007,Tony Acosta,Other,28,372.24,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,821c81ef-43cd-46db-846b-746bb7f0b68b,1007,Tony Acosta,Other,28,1496.41,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,988b9c81-12ea-4f66-ad75-9b6ef1ece2d2,1007,Tony Acosta,Other,28,81.74,Withdrawal,Staten Island ATM 1
+1/1/2025,379ea11b-d913-4c8e-92c0-70f6ce66c4b1,1007,Tony Acosta,Other,28,132.32,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/1/2025,5dc17d6a-6f83-4477-9ead-160b17ebe383,1007,Tony Acosta,Other,28,842.72,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,9abaf3bc-4790-49ce-ba3b-f067d0d563a1,1007,Tony Acosta,Other,28,1349.61,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,4c319720-75dd-4e8f-aba5-deafa634cb30,1007,Tony Acosta,Other,28,1613.84,Withdrawal,Staten Island ATM 1
+1/1/2025,1277e80f-9ebd-45ce-8989-40a4f11517ed,1007,Tony Acosta,Other,28,766.94,Deposit,Brooklyn 4th Street Branch 2
+1/2/2025,3a4e4c2d-d264-44f1-9e5f-f4999cb9bd51,1007,Tony Acosta,Other,28,1176.47,Deposit,Staten Island ATM 1
+1/2/2025,177097ff-d700-4c57-9816-e1cbb8bd459f,1007,Tony Acosta,Other,28,1291.8,Deposit,Brooklyn 4th Street Branch 2
+1/2/2025,3f3efc97-8b03-4d5b-8ec3-d3d4e3e2c2d9,1007,Tony Acosta,Other,28,520.48,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,873ff3a7-c233-4ebe-b26d-958cb755a67f,1007,Tony Acosta,Other,28,583.11,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/2/2025,5209dc50-b824-46da-8372-828eb37572a1,1007,Tony Acosta,Other,28,1176.32,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,ee008f9d-45ce-4124-8ab5-30af4cfd9ce4,1007,Tony Acosta,Other,28,1874.69,Deposit,"Bay Shore, NY ATM 2"
+1/2/2025,45c436c2-8789-4728-8e14-2dfe5d63597c,1007,Tony Acosta,Other,28,773.36,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,1d4a4815-48b7-4226-90de-2b60543cf487,1007,Tony Acosta,Other,28,1987.76,Withdrawal,Staten Island ATM 1
+1/2/2025,75698b2d-1ff2-43f4-abb3-1aca230a70ac,1007,Tony Acosta,Other,28,381.36,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,317fe238-2b02-499c-82b8-852c1ebe152c,1007,Tony Acosta,Other,28,651.02,Deposit,"Bay Shore, NY ATM 2"
+1/2/2025,3fca8a63-b889-44a9-bbb8-b206e8feb08f,1007,Tony Acosta,Other,28,769.87,Deposit,"Albany, NY, Main Street Branch 3"
+1/2/2025,5926c2d5-1083-4af4-84f8-2d1230be64ea,1007,Tony Acosta,Other,28,508.94,Deposit,Brooklyn 4th Street Branch 2
+1/2/2025,5b9256c2-248a-4b47-92be-1bb49f12a65b,1007,Tony Acosta,Other,28,1194.32,Deposit,Staten Island ATM 1
+1/2/2025,263f2081-0cd2-4888-8264-7df51b442fb7,1007,Tony Acosta,Other,28,2147.99,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,635c999b-c295-4761-9367-a7c9a1edfae3,1007,Tony Acosta,Other,28,180.03,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,c3718002-afc9-455c-af9b-bef92fed19f1,1007,Tony Acosta,Other,28,1089.66,Deposit,"Albany, NY, Main Street Branch 3"
+1/2/2025,932f0cac-bb84-4692-9bd8-be5c5a05ee67,1007,Tony Acosta,Other,28,477.39,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,0ed957ec-79a0-4c2c-8b08-5c7e57d87904,1007,Tony Acosta,Other,28,967.58,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,80925ae2-7896-4a91-84eb-63aa65b3c504,1007,Tony Acosta,Other,28,1241.56,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,f2d10947-e0b1-461d-b519-02857e3f99b6,1007,Tony Acosta,Other,28,1523.99,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,70d6a9a3-60da-443c-b176-d4424af1e9c2,1007,Tony Acosta,Other,28,2114.43,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,e585b1c5-0d88-4c06-9e2d-a3ef3266b62d,1007,Tony Acosta,Other,28,1037.5,Deposit,Staten Island ATM 1
+1/2/2025,7ed364bc-1ac5-4f02-9198-da6877a3ef61,1007,Tony Acosta,Other,28,1959.47,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,12fb15aa-e541-4dbc-84a1-501d23a62c79,1007,Tony Acosta,Other,28,794.65,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,1193baa6-ffbe-4285-80d7-4d3a4615317f,1007,Tony Acosta,Other,28,934.1,Withdrawal,Staten Island ATM 1
+1/2/2025,8af72e79-0da6-41d0-a2b4-49029432884e,1007,Tony Acosta,Other,28,2454.04,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,0b18199b-b3ba-42d1-a4e9-d2339298a75d,1007,Tony Acosta,Other,28,1148.7,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,002496cc-0827-47de-869f-0658cf658cfc,1007,Tony Acosta,Other,28,1873.58,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,1ef4ced5-4bfe-4eb2-876b-cf98eb2f31ee,1007,Tony Acosta,Other,28,1110.86,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,5781715e-b4c5-400d-8d98-8fc54bf88204,1007,Tony Acosta,Other,28,717.46,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,8b5dbe44-55e3-4a75-860b-83a5a869cd13,1007,Tony Acosta,Other,28,1995.79,Deposit,"Garden City, NY Main  Branch"
+1/3/2025,04c1b5d6-4d7e-43e1-b409-e844cd44796e,1007,Tony Acosta,Other,28,1349.53,Withdrawal,Brooklyn 4th Street Branch 2
+1/3/2025,55cf8fbc-0d8b-465f-a7e4-691016ffde35,1007,Tony Acosta,Other,28,2098.13,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/3/2025,475c1a61-dcee-411d-a6b1-af09c1f81951,1007,Tony Acosta,Other,28,897.52,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,2face9a9-2bf4-448b-84db-edbd8bb3e954,1007,Tony Acosta,Other,28,267.34,Withdrawal,Brooklyn 4th Street Branch 2
+1/3/2025,8d03cb83-1294-40a6-8c60-d723b78edf6c,1007,Tony Acosta,Other,28,658.03,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,658aa15b-6da8-437c-a596-00f1c252c3f4,1007,Tony Acosta,Other,28,1314.32,Withdrawal,Staten Island ATM 1
+1/3/2025,0894ab84-0d26-416a-a96e-b4b076c359d1,1007,Tony Acosta,Other,28,1085.56,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,5c58bb76-9597-41f7-89cf-dc030a8d69c2,1007,Tony Acosta,Other,28,1836.99,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/3/2025,a55a16cb-87d3-4c13-9373-7f7fc5e0f975,1007,Tony Acosta,Other,28,2122.9,Deposit,Staten Island ATM 1
+1/3/2025,53d63811-d197-4e05-b876-f6672904bec6,1007,Tony Acosta,Other,28,1478.24,Deposit,"Albany, NY, Main Street Branch 3"
+1/3/2025,8e70bd2c-0124-430d-a809-68ed842320f7,1007,Tony Acosta,Other,28,1260.43,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,a2273a06-da5c-4cb3-886b-bcb041ac891c,1007,Tony Acosta,Other,28,436.29,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,ef0c3f0a-a60c-4041-b444-bb24badd9b08,1007,Tony Acosta,Other,28,2331.18,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,98cd8b62-3375-47ce-a18e-a1f6cf91c72c,1007,Tony Acosta,Other,28,339.6,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,a91c1d80-7f16-4937-9f86-3d91b8f6421f,1007,Tony Acosta,Other,28,640.64,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,7ce9b0e0-ce92-4e8f-9075-9cb35d85cbc0,1007,Tony Acosta,Other,28,1431.72,Withdrawal,Staten Island ATM 1
+1/4/2025,cdfee403-4381-499c-9774-fe9ba57e46cc,1007,Tony Acosta,Other,28,910.55,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,a0e89dad-0ea8-4ff3-b130-04c307ed25d4,1007,Tony Acosta,Other,28,883.69,Deposit,"Bay Shore, NY ATM 2"
+1/4/2025,fa7fd267-2b39-490e-b1fc-7e068e5342aa,1007,Tony Acosta,Other,28,567.61,Deposit,"Bay Shore, NY ATM 2"
+1/4/2025,1cbb5800-3d12-40e2-acea-c97bd6b924ad,1007,Tony Acosta,Other,28,619.47,Withdrawal,Staten Island ATM 1
+1/4/2025,4e96e881-e053-42ab-aff1-706c93ef5027,1007,Tony Acosta,Other,28,2383,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,b9947e7b-2ef5-4b91-ae05-b68af50e079d,1007,Tony Acosta,Other,28,1242.45,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,75ca3329-eb4f-4ac4-9b86-ec7bc3ef1c15,1007,Tony Acosta,Other,28,1286.62,Withdrawal,"Garden City, NY Main  Branch"
+1/4/2025,ba0b9908-5197-4983-a455-fac744aae569,1007,Tony Acosta,Other,28,2392.88,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,d54767a1-0b33-43d4-b5be-3cd1f9cc67cc,1007,Tony Acosta,Other,28,1886.13,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,deb9df07-4793-4cde-b5b7-a8ba12acdbad,1007,Tony Acosta,Other,28,2240.71,Deposit,NYC 6th Ave 44th St Branch
+1/4/2025,214b0143-72b4-4bb0-8cd7-74cca3f06152,1007,Tony Acosta,Other,28,2011.07,Withdrawal,Staten Island ATM 1
+1/4/2025,b578d178-1eaa-4ace-8843-b1f0bc813d1c,1007,Tony Acosta,Other,28,657.54,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,9de8a60a-30c2-4621-a1ea-bbdd3a355396,1007,Tony Acosta,Other,28,2326.81,Withdrawal,Staten Island ATM 1
+1/4/2025,cf797691-3ad7-40b8-bbf3-1ed236788482,1007,Tony Acosta,Other,28,998.88,Withdrawal,Staten Island ATM 1
+1/4/2025,91c52c0d-21b0-4ce7-8ee5-0c61db2e42ea,1007,Tony Acosta,Other,28,2260.96,Deposit,NYC 6th Ave 44th St Branch
+1/4/2025,ae59aaf9-f697-43c6-b575-484e0b6d999c,1007,Tony Acosta,Other,28,1058.91,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,28631fb8-184b-45d3-898d-117c80e7e169,1007,Tony Acosta,Other,28,658.86,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,b2ca58ee-a4c7-461f-ace7-0da27ce660eb,1007,Tony Acosta,Other,28,1898.51,Deposit,NYC 6th Ave 44th St Branch
+1/5/2025,3fb648c1-3fc2-4e17-8f59-f3c4c5442018,1007,Tony Acosta,Other,28,1813.24,Deposit,Brooklyn 4th Street Branch 2
+1/5/2025,67c0afa3-f011-4fcb-8166-fed5b115edfb,1007,Tony Acosta,Other,28,1439.57,Deposit,"Albany, NY, Main Street Branch 3"
+1/5/2025,59d24218-8ea9-48d6-8bee-2fae4e566569,1007,Tony Acosta,Other,28,1502,Deposit,NYC 6th Ave 44th St Branch
+1/5/2025,90b8cf14-8989-4a1b-9829-f21ffc362d06,1007,Tony Acosta,Other,28,1613.67,Deposit,"Garden City, NY Main  Branch"
+1/5/2025,b5307070-6599-4e53-84a9-65b28d772b61,1007,Tony Acosta,Other,28,1480,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,449c3720-12d5-4484-87df-0d4926e841fc,1007,Tony Acosta,Other,28,2071.23,Withdrawal,Staten Island ATM 1
+1/5/2025,5561ea49-28ad-40b5-af52-36fd832b75a0,1007,Tony Acosta,Other,28,198.71,Withdrawal,NYC 6th Ave 44th St Branch
+1/5/2025,d6beb0b6-a497-4e40-9b6b-757cb8a9ed5a,1007,Tony Acosta,Other,28,1627.98,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,1a310db7-90b7-469b-b9b6-7fe3322ef00b,1007,Tony Acosta,Other,28,654.06,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,6a3e4206-7253-4230-8380-9150de64d0ac,1007,Tony Acosta,Other,28,2314.57,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,d8d530b8-1a59-46a4-b220-4d45f7b9ad36,1007,Tony Acosta,Other,28,689.72,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,e4d3c9aa-9b8f-4cf8-9f46-fcf7b3147133,1007,Tony Acosta,Other,28,420.33,Withdrawal,Staten Island ATM 1
+1/5/2025,8e549bde-a34d-42fc-80cc-077e7ead2190,1007,Tony Acosta,Other,28,2122.85,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,c50f0998-0e73-4ae3-a1a7-a41646f8ad63,1007,Tony Acosta,Other,28,706.21,Deposit,"Garden City, NY Main  Branch"
+1/5/2025,5326f706-51f0-40a5-a12d-6929283adaca,1007,Tony Acosta,Other,28,827.65,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,4c2fb236-a27b-4e8e-acc7-d9cb3f13ae7a,1007,Tony Acosta,Other,28,1657.88,Withdrawal,Staten Island ATM 1
+1/5/2025,3b72a96a-0cd3-4fa1-990a-a72e59e49bde,1007,Tony Acosta,Other,28,2024.94,Deposit,Staten Island ATM 1
+1/5/2025,453e1bf2-e01e-4d84-8878-cf8b27b09c41,1007,Tony Acosta,Other,28,314.25,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,aba6c368-d1bb-486b-a1ec-f4fc278c990d,1007,Tony Acosta,Other,28,1449.6,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,566cd81a-dc31-44e1-83a1-d540b1fd74ce,1007,Tony Acosta,Other,28,1873.76,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,7f9ff81c-13b1-47db-a5e4-3264dfe19a6f,1007,Tony Acosta,Other,28,278.61,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,b8d9d900-cb60-449a-b599-4d2b93fc2743,1007,Tony Acosta,Other,28,64.72,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,59bcfcfc-b8a4-44b6-ad69-1981d39b959c,1007,Tony Acosta,Other,28,1327.89,Deposit,"Albany, NY, Main Street Branch 3"
+1/5/2025,60cb734c-6cd6-44cd-8aa7-4a1489761397,1007,Tony Acosta,Other,28,1763.22,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,1095308d-fab8-4ab3-b60f-fe694d4aa2c2,1008,Kristin Williams,Female,53,750.86,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,6f41dbdf-b518-4150-8d1c-9bb2b7e03ec3,1008,Kristin Williams,Female,53,1456.9,Withdrawal,"Bay Shore, NY ATM 2"
+1/1/2025,63dd0070-4f8b-4a8c-8939-dfb4cc93f670,1008,Kristin Williams,Female,53,1397.37,Withdrawal,Staten Island ATM 1
+1/1/2025,c810632e-6f9c-41e1-9ff8-4eb9ddcbb970,1008,Kristin Williams,Female,53,366.12,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,7e560bae-2cdb-48d6-8484-17e5ec62e39a,1008,Kristin Williams,Female,53,1741.37,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,ff72d613-ebd8-4c74-8a57-98b5043ad8e2,1008,Kristin Williams,Female,53,1374.41,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,6edb4aac-6d9c-4ec9-99a0-c8fb636b0f27,1008,Kristin Williams,Female,53,559.43,Withdrawal,"Bay Shore, NY ATM 2"
+1/1/2025,97067d63-2f97-4844-8505-aaaf34708254,1008,Kristin Williams,Female,53,357.49,Withdrawal,Staten Island ATM 1
+1/1/2025,a522adcf-3ad5-466a-8d24-841dd25e53ed,1008,Kristin Williams,Female,53,2422.95,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,0c297189-ccec-483e-b722-cfe93ade45e6,1008,Kristin Williams,Female,53,1685.98,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,0ac56b9e-cb0e-425d-b849-6d72367f3406,1008,Kristin Williams,Female,53,204.46,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,4ab23fd8-4927-43f8-b38f-3e484b2f23f6,1008,Kristin Williams,Female,53,1295.5,Deposit,"Albany, NY, Main Street Branch 3"
+1/1/2025,39aecdc9-b0d5-4c66-a26f-53f64989722e,1008,Kristin Williams,Female,53,2112.13,Withdrawal,"Bay Shore, NY ATM 2"
+1/1/2025,47f84d97-f75d-4e6d-ab7e-493ff63e42fa,1008,Kristin Williams,Female,53,747.47,Withdrawal,NYC 6th Ave 44th St Branch
+1/1/2025,ff552eb3-2c95-4266-8a5c-a102f28de67a,1008,Kristin Williams,Female,53,1656.3,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,81e6b3a1-9b6b-4038-a65d-5cbdb78fd247,1008,Kristin Williams,Female,53,1513.26,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,919919d5-b687-441e-bb03-fef51ba27d21,1008,Kristin Williams,Female,53,2317.26,Deposit,Staten Island ATM 1
+1/1/2025,44c20cfb-ec8c-4b4e-966c-d516b0886ae0,1008,Kristin Williams,Female,53,2429.13,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,17cb11cd-5a11-4abe-8e80-c6340b01a839,1008,Kristin Williams,Female,53,784.51,Withdrawal,Staten Island ATM 1
+1/1/2025,598a1353-a178-4bfe-a31d-3e0673af66f6,1008,Kristin Williams,Female,53,2326.55,Withdrawal,"Bay Shore, NY ATM 2"
+1/1/2025,ab6ad309-bda3-4386-b899-7b09947925a6,1008,Kristin Williams,Female,53,1585.82,Deposit,Staten Island ATM 1
+1/2/2025,34d810ca-55b4-4dbe-9e61-f1d9f23d5df4,1008,Kristin Williams,Female,53,952.22,Withdrawal,Brooklyn 4th Street Branch 2
+1/2/2025,4b93db3a-9258-4e26-a64f-84cc1137cecb,1008,Kristin Williams,Female,53,1915.7,Deposit,"Albany, NY, Main Street Branch 3"
+1/2/2025,d2371c8c-2e71-4945-aef4-a5fc8c5c3074,1008,Kristin Williams,Female,53,1219.08,Withdrawal,Brooklyn 4th Street Branch 2
+1/2/2025,c4d7f16e-5ed0-41e0-b006-66e0bfc98fa9,1008,Kristin Williams,Female,53,2405.22,Deposit,NYC 6th Ave 44th St Branch
+1/2/2025,4f5f2c19-9c7d-4d9a-831f-8b6854db033c,1008,Kristin Williams,Female,53,1203.64,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,2d73fa98-8cb5-44c1-bdf2-d8f0968becd8,1008,Kristin Williams,Female,53,2257.35,Withdrawal,Brooklyn 4th Street Branch 2
+1/2/2025,fbdd5f82-385d-49b4-a41f-721b565c4691,1008,Kristin Williams,Female,53,2366.08,Deposit,NYC 6th Ave 44th St Branch
+1/2/2025,aec20a77-b3c5-454a-914e-75860c2bfb1e,1008,Kristin Williams,Female,53,1337.86,Deposit,"Albany, NY, Main Street Branch 3"
+1/2/2025,524dd69c-7cd5-4336-a3f3-243fc43845fb,1008,Kristin Williams,Female,53,1351.11,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,9b36342f-f0a1-4ba7-baeb-263ba45cec3a,1008,Kristin Williams,Female,53,1714.14,Withdrawal,Staten Island ATM 1
+1/2/2025,651667aa-da46-4297-9f2a-38a2080cdcc5,1008,Kristin Williams,Female,53,240.94,Withdrawal,Staten Island ATM 1
+1/2/2025,0995a3e1-9262-42e6-8b90-3da2282ce8d8,1008,Kristin Williams,Female,53,265.98,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,669a0319-71fc-41a2-a7c5-3b93bd14032a,1008,Kristin Williams,Female,53,4.47,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,44c1ee00-7bf2-4cb1-970b-6021f20449d5,1008,Kristin Williams,Female,53,519.67,Deposit,Brooklyn 4th Street Branch 2
+1/2/2025,dc56a57f-caea-4d1c-aabb-f358cd9a4d19,1008,Kristin Williams,Female,53,1904.42,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,c2243d77-522b-4cb5-8710-df58a26d4754,1008,Kristin Williams,Female,53,2461.16,Deposit,Staten Island ATM 1
+1/3/2025,3f331dcf-ff08-4ce9-af11-1c7bbeaa4207,1008,Kristin Williams,Female,53,2375.55,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,2abd3f2e-2ecb-43c9-a591-ad1e18cde649,1008,Kristin Williams,Female,53,1423.26,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,64c2d5ea-4ca2-48f7-ae31-a905013bc9a7,1008,Kristin Williams,Female,53,721.8,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,0f78d38c-e84a-41a0-8d55-ea47cdfc1697,1008,Kristin Williams,Female,53,520.84,Deposit,Staten Island ATM 1
+1/3/2025,79d29f3b-56d4-45e6-a0fd-a632c5fc4793,1008,Kristin Williams,Female,53,291.54,Deposit,"Garden City, NY Main  Branch"
+1/3/2025,4aa1da1d-811e-4477-b3ec-78e6828a04c5,1008,Kristin Williams,Female,53,440.5,Withdrawal,Brooklyn 4th Street Branch 2
+1/3/2025,9c7f0432-a0b3-4dc1-b056-6ff8e384952a,1008,Kristin Williams,Female,53,1317.27,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,3190af99-952e-4057-9353-b6788def871c,1008,Kristin Williams,Female,53,576.31,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,2acc44fa-1001-4941-aff5-b2fc7f004351,1008,Kristin Williams,Female,53,1409.52,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,8dfcd993-6f11-4d93-a0d2-dbfc8a3df9d5,1008,Kristin Williams,Female,53,246.36,Deposit,Staten Island ATM 1
+1/3/2025,5b993a3d-a0b7-4bda-a854-2a37d67fb357,1008,Kristin Williams,Female,53,593.63,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,64411590-1e3a-4a6a-ade7-feef253b3e9f,1008,Kristin Williams,Female,53,931.72,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,643e9729-5c99-49ab-b400-172c3c88d1a4,1008,Kristin Williams,Female,53,815.15,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,25099503-5ebe-4f78-a119-558d9948f573,1008,Kristin Williams,Female,53,1600.35,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,4a4027b1-76c5-4732-98ce-120ffb07e38b,1008,Kristin Williams,Female,53,695.42,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,46234889-bd00-4955-9a16-6ff4595afea8,1008,Kristin Williams,Female,53,441.37,Withdrawal,Staten Island ATM 1
+1/3/2025,45a00cc0-38e6-4f67-a645-d9a4458aba61,1008,Kristin Williams,Female,53,451.22,Deposit,"Albany, NY, Main Street Branch 3"
+1/3/2025,cab2ea79-f966-4922-ba41-902ef867691c,1008,Kristin Williams,Female,53,1191.88,Deposit,"Albany, NY, Main Street Branch 3"
+1/3/2025,94d6f7e7-c151-4d76-9654-39fb721b48c8,1008,Kristin Williams,Female,53,234.26,Withdrawal,Staten Island ATM 1
+1/3/2025,6826f301-6575-4e63-ac7b-6816a694dac8,1008,Kristin Williams,Female,53,1321.15,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,5a10914b-b210-4114-9f71-4af235bcde2c,1008,Kristin Williams,Female,53,781.85,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,a37a96f4-9f81-4849-bff5-1f3f9efe283a,1008,Kristin Williams,Female,53,482.32,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,4958ebea-7565-4bb6-8f0d-448f9aea8bfe,1008,Kristin Williams,Female,53,264.92,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,12ffb990-a633-46cb-a382-efd9eaf59bb0,1008,Kristin Williams,Female,53,122.36,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,5a6e3e44-f76b-4b29-adb2-f34f3ac1f416,1008,Kristin Williams,Female,53,247.95,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,6fc8c520-c9bc-42bc-98e4-b3674d9b83b3,1008,Kristin Williams,Female,53,2147.55,Deposit,"Bay Shore, NY ATM 2"
+1/4/2025,20a0294b-6615-4858-a3af-ae37c61bfd7a,1008,Kristin Williams,Female,53,1252.17,Deposit,Staten Island ATM 1
+1/4/2025,67aca411-2375-440f-9008-8a7fb26d6c47,1008,Kristin Williams,Female,53,1709.97,Deposit,NYC 6th Ave 44th St Branch
+1/4/2025,18f0fd56-ca2b-428e-93ce-c1eb50a39476,1008,Kristin Williams,Female,53,2027.99,Deposit,Staten Island ATM 1
+1/4/2025,08f6a528-a04f-4ec8-80e6-4f80e2be2f1c,1008,Kristin Williams,Female,53,1181.82,Withdrawal,Staten Island ATM 1
+1/4/2025,1d26aa83-c1c1-4721-a820-d52ba3ed4f30,1008,Kristin Williams,Female,53,1318.19,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,649e5e89-f32e-47ab-a7d9-d249b0a3c42b,1008,Kristin Williams,Female,53,2038.28,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,ff20e6a8-64fa-40cb-91ff-dcfc02d242f5,1008,Kristin Williams,Female,53,1438.91,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,d884a1b4-4423-435a-a789-24eabcc33ba5,1008,Kristin Williams,Female,53,2307.93,Deposit,"Albany, NY, Main Street Branch 3"
+1/5/2025,c5055e97-90c1-48ec-b360-cae481545e43,1008,Kristin Williams,Female,53,2375.66,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,ba977fb6-568d-4f3b-ba6d-1918abc9ad39,1008,Kristin Williams,Female,53,1228.36,Deposit,Staten Island ATM 1
+1/5/2025,831e68f1-bbe6-46e5-847d-57e90ea99981,1008,Kristin Williams,Female,53,1741.03,Deposit,"Garden City, NY Main  Branch"
+1/5/2025,6a1d2610-3c38-4c86-8312-19e04e2cbe89,1008,Kristin Williams,Female,53,793.29,Deposit,NYC 6th Ave 44th St Branch
+1/5/2025,fb6f1db0-2c33-4dcc-bf1b-fccb95570b32,1008,Kristin Williams,Female,53,1321.04,Deposit,Staten Island ATM 1
+1/5/2025,6d687548-8cb0-45c3-b255-ad057c3b762b,1008,Kristin Williams,Female,53,1539.27,Deposit,"Garden City, NY Main  Branch"
+1/5/2025,3a70d903-83f0-45fb-8a41-fea019dd4428,1008,Kristin Williams,Female,53,1082.13,Deposit,Brooklyn 4th Street Branch 2
+1/5/2025,ad52d72e-2caf-4580-b437-addaec20c5a2,1008,Kristin Williams,Female,53,2319.49,Withdrawal,Staten Island ATM 1
+1/5/2025,57a2029e-4157-4cfe-bd40-fad5862975ec,1008,Kristin Williams,Female,53,1093.68,Deposit,"Albany, NY, Main Street Branch 3"
+1/5/2025,b0760812-c176-4477-aa11-fab0775f160d,1008,Kristin Williams,Female,53,1817.31,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/5/2025,a5326309-b32a-4c5a-aadc-6bb2c4fc2317,1008,Kristin Williams,Female,53,1093.44,Withdrawal,Staten Island ATM 1
+1/5/2025,bad1a0af-a567-469f-aa40-d024211997b7,1008,Kristin Williams,Female,53,2175.24,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/5/2025,cdc4a295-63a2-41df-93f6-ad860aee8445,1008,Kristin Williams,Female,53,1905.14,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,f91f2ba5-d7e6-4acb-80e9-d08aea4c6116,1008,Kristin Williams,Female,53,969.46,Withdrawal,NYC 6th Ave 44th St Branch
+1/5/2025,d859f89f-ef5d-4924-8491-fc518f580462,1008,Kristin Williams,Female,53,42.12,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,ca66256d-1d9d-4a57-812d-795529d42a37,1008,Kristin Williams,Female,53,1323.08,Withdrawal,Staten Island ATM 1
+1/5/2025,877c09ba-5194-4e3d-bb02-235be8ba699e,1008,Kristin Williams,Female,53,1784.27,Deposit,Brooklyn 4th Street Branch 2
+1/5/2025,19415659-b1a0-4a3d-b34f-c8d9eb9e1748,1008,Kristin Williams,Female,53,2032.44,Deposit,"Garden City, NY Main  Branch"
+1/5/2025,8d32ad6d-586f-43d0-9170-3471a951323d,1008,Kristin Williams,Female,53,1367.18,Deposit,Staten Island ATM 1
+1/5/2025,39a974d6-7971-4b40-98bf-3e6bd0299180,1008,Kristin Williams,Female,53,1623.17,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,df60e8a1-2d45-48fc-b6f2-3333924f0044,1008,Kristin Williams,Female,53,335.85,Deposit,"Albany, NY, Main Street Branch 3"
+1/5/2025,33689fca-d356-47d2-8654-27b8e10f45ab,1008,Kristin Williams,Female,53,670.85,Withdrawal,"Bay Shore, NY ATM 2"
+1/5/2025,7f66f168-4b57-446f-96a0-8fc5772e4378,1008,Kristin Williams,Female,53,1868.09,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/5/2025,fd360f02-13d0-491b-a597-4baffe8d5961,1008,Kristin Williams,Female,53,1959.26,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,eebd31de-b2b0-4e48-b476-a6172df53985,1009,Matthew Matthewson,Male,25,535.38,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,a0ff2318-4ae7-4a98-a61a-3a385267a1a7,1009,Matthew Matthewson,Male,25,218.94,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,df49f88b-9610-4644-b17d-db7fb0577191,1009,Matthew Matthewson,Male,25,472.17,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,6de5ad4d-eb2f-42bc-be84-efefe291533a,1009,Matthew Matthewson,Male,25,1319.23,Withdrawal,Staten Island ATM 1
+1/1/2025,5c48e90c-ed41-4bd4-9105-00fae003b65d,1009,Matthew Matthewson,Male,25,1358.32,Withdrawal,Staten Island ATM 1
+1/1/2025,d0a1c18c-1860-4054-ace2-e8b6a686c1b8,1009,Matthew Matthewson,Male,25,2192.25,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/1/2025,1a73cc46-e084-48eb-9851-e196d2be5cf0,1009,Matthew Matthewson,Male,25,1961.15,Withdrawal,"Bay Shore, NY ATM 2"
+1/1/2025,a3992dcc-db27-4767-baaa-def0c0fad978,1009,Matthew Matthewson,Male,25,431,Deposit,NYC 6th Ave 44th St Branch
+1/1/2025,aa7fe743-189e-4107-ae5d-8351e74c837a,1009,Matthew Matthewson,Male,25,2286.27,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/1/2025,0d5be5e9-2d78-476f-9665-669b1e58de05,1009,Matthew Matthewson,Male,25,2255.15,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/1/2025,a48d4d82-d70c-463f-9b62-c39bdb4fd51d,1009,Matthew Matthewson,Male,25,1180.06,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,ba0fd2fe-c79a-4cde-941e-7457b1f6968b,1009,Matthew Matthewson,Male,25,1153.76,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,b9368ff3-c9e6-41a2-a200-63aa6725f2b6,1009,Matthew Matthewson,Male,25,1216.61,Withdrawal,"Bay Shore, NY ATM 2"
+1/1/2025,e2289a50-1d8e-416e-b5f4-a0b914dd1791,1009,Matthew Matthewson,Male,25,1175.82,Deposit,NYC 6th Ave 44th St Branch
+1/1/2025,031a207b-e73e-4b7d-a0e8-dc257b591387,1009,Matthew Matthewson,Male,25,518.38,Deposit,Staten Island ATM 1
+1/1/2025,4b8f8f2b-1ce3-4920-8cbd-bc9c0e7bbb64,1009,Matthew Matthewson,Male,25,2040.85,Withdrawal,Brooklyn 4th Street Branch 2
+1/1/2025,07abe09f-df2f-40e0-92b4-564d2e863cd2,1009,Matthew Matthewson,Male,25,1769.21,Deposit,"Bay Shore, NY ATM 2"
+1/1/2025,0e19892c-5935-4d3b-b2b7-7bdf2cdb558b,1009,Matthew Matthewson,Male,25,1215.94,Withdrawal,"Garden City, NY Main  Branch"
+1/1/2025,0b731237-e10b-4266-af0a-faa67829f390,1009,Matthew Matthewson,Male,25,980.88,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,429a809c-b06c-4fc6-80a4-e26146da0614,1009,Matthew Matthewson,Male,25,1630.71,Withdrawal,Staten Island ATM 1
+1/1/2025,5a394411-e0d6-40a6-b328-c77c3aeebe58,1009,Matthew Matthewson,Male,25,2315.79,Deposit,"Garden City, NY Main  Branch"
+1/1/2025,41e2d34a-6952-4b41-ac6c-24f2f6b65255,1009,Matthew Matthewson,Male,25,2220.79,Deposit,Brooklyn 4th Street Branch 2
+1/1/2025,69ab5fcc-0d2e-4051-be7b-ae15349e11e8,1009,Matthew Matthewson,Male,25,281.64,Deposit,Brooklyn 4th Street Branch 2
+1/2/2025,9add8b21-d3bb-4c76-847d-ed5b81c6c011,1009,Matthew Matthewson,Male,25,2181.4,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,75a03ed8-8e9f-4225-aea5-bdec8d2f0dc0,1009,Matthew Matthewson,Male,25,1234.35,Deposit,Staten Island ATM 1
+1/2/2025,cfb011be-4d46-494a-b4a9-7395d5621c17,1009,Matthew Matthewson,Male,25,2310.58,Withdrawal,Brooklyn 4th Street Branch 2
+1/2/2025,5b8a1493-2783-41c1-8180-5dce5cbb00cd,1009,Matthew Matthewson,Male,25,291.33,Deposit,Brooklyn 4th Street Branch 2
+1/2/2025,35ebe01c-0287-470e-ab2f-8041918097f5,1009,Matthew Matthewson,Male,25,1700.34,Deposit,"Garden City, NY Main  Branch"
+1/2/2025,b6738834-86f8-4ce0-9517-190afd229777,1009,Matthew Matthewson,Male,25,449.93,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/2/2025,40cef4f9-9ad1-45be-a884-e286dd3a2eaa,1009,Matthew Matthewson,Male,25,1850.01,Deposit,"Albany, NY, Main Street Branch 3"
+1/2/2025,8be5d138-0d6a-4b27-9dbb-e92dcdd4107e,1009,Matthew Matthewson,Male,25,2187.54,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,9999a100-9739-4020-9685-60c615943223,1009,Matthew Matthewson,Male,25,951.13,Deposit,NYC 6th Ave 44th St Branch
+1/2/2025,b8728fce-cb59-4a51-8114-abfcc0b99b53,1009,Matthew Matthewson,Male,25,2050.53,Deposit,"Bay Shore, NY ATM 2"
+1/2/2025,1732373d-5912-4cb6-bfff-d1f90b6c999d,1009,Matthew Matthewson,Male,25,783.18,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/2/2025,3ad99671-97d8-48f9-a2eb-db7de1c6f056,1009,Matthew Matthewson,Male,25,2440.65,Deposit,NYC 6th Ave 44th St Branch
+1/2/2025,56f104b4-3185-4562-84ca-f5ebea8c13ab,1009,Matthew Matthewson,Male,25,651.37,Deposit,"Bay Shore, NY ATM 2"
+1/2/2025,934a04c6-5b7c-48ec-8834-150633908f54,1009,Matthew Matthewson,Male,25,348.29,Deposit,Staten Island ATM 1
+1/2/2025,eda3eba1-66ef-4e72-bca1-c3e4f539dedf,1009,Matthew Matthewson,Male,25,1338.81,Deposit,NYC 6th Ave 44th St Branch
+1/2/2025,0b8d48b1-3753-495a-beeb-01a647d5bf99,1009,Matthew Matthewson,Male,25,2470.65,Withdrawal,"Bay Shore, NY ATM 2"
+1/2/2025,ee469c6d-ef87-4692-b44b-af117782eba8,1009,Matthew Matthewson,Male,25,129.57,Withdrawal,"Garden City, NY Main  Branch"
+1/2/2025,f5c1eec2-46e0-48c9-966f-d2f3576cfa91,1009,Matthew Matthewson,Male,25,1068.78,Deposit,Brooklyn 4th Street Branch 2
+1/2/2025,033035e7-2c78-4618-8d7b-29be396f26a5,1009,Matthew Matthewson,Male,25,165.96,Withdrawal,NYC 6th Ave 44th St Branch
+1/2/2025,216746d4-08b9-4858-a0c0-1b4ffae64192,1009,Matthew Matthewson,Male,25,32.31,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,628ab45a-1da9-46ca-b64a-72987fde9a90,1009,Matthew Matthewson,Male,25,2443.27,Deposit,Staten Island ATM 1
+1/3/2025,bceac862-bc3e-4d6e-9fc9-fd68dbaad1bc,1009,Matthew Matthewson,Male,25,1140.24,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,c0aa8e45-7bdc-4c4f-bd0a-7a6e25354e35,1009,Matthew Matthewson,Male,25,1814.33,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,eeedd27c-7db9-4c9c-af62-69c0a4fedc90,1009,Matthew Matthewson,Male,25,95.7,Deposit,"Garden City, NY Main  Branch"
+1/3/2025,8aa69473-25de-4209-b4c7-f67cdb6e62c7,1009,Matthew Matthewson,Male,25,569.68,Withdrawal,Brooklyn 4th Street Branch 2
+1/3/2025,04c52fac-5fa9-4146-8bde-a10187292988,1009,Matthew Matthewson,Male,25,966.47,Deposit,Staten Island ATM 1
+1/3/2025,bdb1d17a-40c2-4d80-b730-7a76bbb27b69,1009,Matthew Matthewson,Male,25,744.75,Deposit,"Garden City, NY Main  Branch"
+1/3/2025,07a6bbfe-2754-49c9-bb8e-3cecaf39f9a8,1009,Matthew Matthewson,Male,25,539.7,Withdrawal,Staten Island ATM 1
+1/3/2025,f80cea68-90ce-4870-bc2e-fe52b985aed2,1009,Matthew Matthewson,Male,25,2074.2,Deposit,Staten Island ATM 1
+1/3/2025,1ce0489e-2c4a-4a3f-b17a-c6d3402f24a6,1009,Matthew Matthewson,Male,25,1432.12,Deposit,NYC 6th Ave 44th St Branch
+1/3/2025,aed6f20c-40c2-4f9f-9e89-dcf35f1f0a1d,1009,Matthew Matthewson,Male,25,180.53,Deposit,"Garden City, NY Main  Branch"
+1/3/2025,4a96cea3-4c94-4abd-8a9f-2731d5b31d2a,1009,Matthew Matthewson,Male,25,2043.83,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,712fba7a-e08b-44e8-a224-b3b3ed724e39,1009,Matthew Matthewson,Male,25,2129.83,Withdrawal,Brooklyn 4th Street Branch 2
+1/3/2025,a61eedc5-bc12-4d0a-9af0-8581f98d4dcc,1009,Matthew Matthewson,Male,25,1195.51,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,af8008be-07ee-4ffe-8355-4f71a9688512,1009,Matthew Matthewson,Male,25,2034.59,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,c4ba4f19-621a-413a-8735-f62c89fb78ff,1009,Matthew Matthewson,Male,25,129.47,Withdrawal,NYC 6th Ave 44th St Branch
+1/3/2025,a2cf06c0-3050-4ce4-87f0-e43cb84af4f6,1009,Matthew Matthewson,Male,25,1222.95,Deposit,"Bay Shore, NY ATM 2"
+1/3/2025,3e00eb9f-9af0-46ed-a031-5af23e3f3635,1009,Matthew Matthewson,Male,25,377.83,Deposit,"Albany, NY, Main Street Branch 3"
+1/3/2025,224b53a9-e4c2-4c5b-a1e8-f7facda3679a,1009,Matthew Matthewson,Male,25,2033.13,Deposit,Brooklyn 4th Street Branch 2
+1/3/2025,4ccf18bf-3333-4979-a70d-ca646df75320,1009,Matthew Matthewson,Male,25,1316.85,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,15a21e65-d20a-4449-965a-33cdc8b837c1,1009,Matthew Matthewson,Male,25,1345.62,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,f32aa8ae-281e-4a09-b43f-ddcc5293d83b,1009,Matthew Matthewson,Male,25,1255.43,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,f51cc29a-4778-4bba-a292-9f73195cc8c7,1009,Matthew Matthewson,Male,25,312.55,Withdrawal,"Garden City, NY Main  Branch"
+1/4/2025,2c3ae6e3-4b6c-4ed8-9f22-16a87d9133b8,1009,Matthew Matthewson,Male,25,643.1,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,78351502-9f21-4400-b11a-3b62863fbad3,1009,Matthew Matthewson,Male,25,1012.49,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,c9e22929-68cc-4220-a4ac-46d4db7a31ef,1009,Matthew Matthewson,Male,25,215.61,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,775ef76b-7ed2-43be-87d3-53d11dfe34cb,1009,Matthew Matthewson,Male,25,42.63,Deposit,NYC 6th Ave 44th St Branch
+1/4/2025,4968da73-8a34-4515-aa4f-e763d68ef9eb,1009,Matthew Matthewson,Male,25,636.25,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,9eeec748-06c2-4a7d-896b-38cc720d2fa5,1009,Matthew Matthewson,Male,25,744.75,Deposit,NYC 6th Ave 44th St Branch
+1/4/2025,adca4092-3ffe-463d-8540-36fe5d2469be,1009,Matthew Matthewson,Male,25,747.94,Deposit,"Garden City, NY Main  Branch"
+1/4/2025,2af5da3b-c363-4075-9342-fa38c0ee6aa2,1009,Matthew Matthewson,Male,25,1969.69,Withdrawal,NYC 6th Ave 44th St Branch
+1/4/2025,bebf498e-247b-425b-8876-5e232ac7e262,1009,Matthew Matthewson,Male,25,1646.12,Deposit,"Bay Shore, NY ATM 2"
+1/4/2025,735f7b39-ab73-4528-8243-0bd47c0f7d89,1009,Matthew Matthewson,Male,25,227.62,Withdrawal,Brooklyn 4th Street Branch 2
+1/4/2025,93cb8e54-b84d-4a6a-827c-12373d606e46,1009,Matthew Matthewson,Male,25,1966.31,Withdrawal,"Bay Shore, NY ATM 2"
+1/4/2025,e1ac79a7-b8d3-4e04-85e6-dd9ac89e2507,1009,Matthew Matthewson,Male,25,696.32,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/4/2025,54ceb47f-4a71-4fb3-a3b8-5481aabe6950,1009,Matthew Matthewson,Male,25,1157.31,Deposit,"Albany, NY, Main Street Branch 3"
+1/4/2025,da8517db-1a30-4b0d-9717-3f91e956669a,1009,Matthew Matthewson,Male,25,1381.4,Withdrawal,"Garden City, NY Main  Branch"
+1/4/2025,2505ee6e-433d-440c-89f5-45434d14a01a,1009,Matthew Matthewson,Male,25,2074.76,Deposit,Brooklyn 4th Street Branch 2
+1/4/2025,3328928c-e6ad-4110-b4b2-0b70c6d14387,1009,Matthew Matthewson,Male,25,856.12,Withdrawal,"Garden City, NY Main  Branch"
+1/5/2025,b7f0bb5b-2a48-499e-80dd-185b8d573bdc,1009,Matthew Matthewson,Male,25,2494.84,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,c7f4fcf8-7c99-4f01-973b-7cab56e491da,1009,Matthew Matthewson,Male,25,2323.16,Deposit,Brooklyn 4th Street Branch 2
+1/5/2025,e93cb985-d1ef-41c2-a154-09064d07919c,1009,Matthew Matthewson,Male,25,1133.57,Withdrawal,Brooklyn 4th Street Branch 2
+1/5/2025,cbc2bf5f-f60c-43c4-9ec9-c23f89cc60ed,1009,Matthew Matthewson,Male,25,1195.7,Withdrawal,"Albany, NY, Main Street Branch 3"
+1/5/2025,0977d9ea-2967-49f5-9dbd-ea964ceca087,1009,Matthew Matthewson,Male,25,815.35,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,f370d69d-f641-4e9f-8332-b8d31376a636,1009,Matthew Matthewson,Male,25,724.41,Withdrawal,Staten Island ATM 1
+1/5/2025,6a454b91-9281-4ed1-85bc-699759f3b18c,1009,Matthew Matthewson,Male,25,921.09,Deposit,Brooklyn 4th Street Branch 2
+1/5/2025,c5c3c3ff-577c-462f-917d-3f696cff163e,1009,Matthew Matthewson,Male,25,1343.46,Deposit,"Bay Shore, NY ATM 2"
+1/5/2025,ef751b32-b5b9-46f1-bef5-980da354f6d5,1009,Matthew Matthewson,Male,25,1165.68,Deposit,Staten Island ATM 1
+1/5/2025,035cbe3c-8421-4043-9447-5c3936f41f18,1009,Matthew Matthewson,Male,25,1008.93,Deposit,"Garden City, NY Main  Branch"
+1/5/2025,cf1cfadd-7521-46da-bf1b-7ea03a1ee308,1009,Matthew Matthewson,Male,25,747.84,Withdrawal,Brooklyn 4th Street Branch 2
 1/1/2025,d955196a-7992-4e47-b768-13049a6c3361,1010,Jeffery Pennington,Other,39,2068.11,Deposit,Brooklyn 4th Street Branch 2
 1/1/2025,e02b39ed-6e2b-4a54-ab81-de721b6009cf,1010,Jeffery Pennington,Other,39,579.28,Withdrawal,"Albany, NY, Main Street Branch 3"
 1/1/2025,8d4e16be-0749-4e81-b7c9-0798a50ae865,1010,Jeffery Pennington,Other,39,108.85,Withdrawal,Staten Island ATM 1
